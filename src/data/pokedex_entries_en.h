@@ -6,211 +6,207 @@ static const u8 DexDescription_Dummy_2[] = _(
   "at this time.");
 
 static const u8 DexDescription_Bulbasaur_1[] = _(
-  "BULBASAUR can be seen napping in\n"
-  "bright sunlight.\n"
-  "There is a seed on its back.");
+"A Bulbasaur es fácil verle echándose\n"
+"una siesta al sol. La semilla que tiene\n"
+"en el lomo va creciendo cada vez más a");
 static const u8 DexDescription_Bulbasaur_2[] = _(
-  "By soaking up the sun’s rays, the seed\n"
-  "grows progressively larger.");
+"medida que absorbe los rayos del\n"
+"sol.");
 
 static const u8 DexDescription_Ivysaur_1[] = _(
-  "There is a bud on this POKéMON’s back.\n"
-  "To support its weight, IVYSAUR’s legs\n"
-  "and trunk grow thick and strong.");
+  "Este Pokémon lleva un bulbo en el lomo y,\n"
+  "para poder con su peso, tiene unas patas y\n"
+  "un tronco gruesos y fuertes.");
 static const u8 DexDescription_Ivysaur_2[] = _(
-  "If it starts spending more time lying\n"
-  "in the sunlight, it’s a sign that the\n"
-  "bud will bloom into a large flower soon.");
+  "Si empieza a pasar más tiempo al sol,\n"
+  "será porque el bulbo está a punto de\n"
+  "hacerse una flor grande.");
 
 static const u8 DexDescription_Venusaur_1[] = _(
-  "There is a large flower on VENUSAUR’s\n"
-  "back. The flower is said to take on vivid\n"
-  "colors if it gets plenty of nutrition");
+"Venusaur tiene una flor enorme en el\n"
+"lomo que, según parece, adquiere unos\n"
+"colores muy vivos si está bien nutrido y");
 static const u8 DexDescription_Venusaur_2[] = _(
-  "and sunlight. The flower’s aroma\n"
-  "soothes the emotions of people.");
+"le da mucho el sol. El aroma delicado de\n"
+"la flor tiene un efecto relajante en el\n"
+"ánimo de las personas.");
 
 static const u8 DexDescription_Charmander_1[] = _(
-  "The flame that burns at the tip of its\n"
-  "tail is an indication of its emotions.\n"
-  "The flame wavers when CHARMANDER is");
+  "La llama que tiene en la punta de la\n"
+  "cola arde según sus sentimientos.\n"
+  "Llamea levemente cuando está alegre y");
 static const u8 DexDescription_Charmander_2[] = _(
-  "enjoying itself. If the POKéMON becomes\n"
-  "enraged, the flame burns fiercely.");
+  "arde vigorosamente cuando está enfadado.");
 
 static const u8 DexDescription_Charmeleon_1[] = _(
-  "CHARMELEON mercilessly destroys its\n"
-  "foes using its sharp claws.\n"
-  "If it encounters a strong foe, it turns");
+  "Charmeleon no tiene reparo en acabar con\n"
+  "su rival usando las afiladas garras que\n"
+  "tiene. Si su enemigo es fuerte, se vuelve");
 static const u8 DexDescription_Charmeleon_2[] = _(
-  "aggressive. In this excited state, the\n"
-  "flame at the tip of its tail flares with a\n"
-  "bluish white color.");
+  "agresivo, y la llama que tiene en el\n"
+  "extremo de la cola empieza a arder con\n"
+  "mayor intensidad tornándose azulada.");
 
 static const u8 DexDescription_Charizard_1[] = _(
-  "CHARIZARD flies around the sky in\n"
-  "search of powerful opponents.\n"
-  "It breathes fire of such great heat");
+  "Charizard se dedica a volar por los\n"
+  "cielos en busca de oponentes fuertes.\n"
+  "Echa fuego por la boca y es capaz de");
 static const u8 DexDescription_Charizard_2[] = _(
-  "that it melts anything. However, it\n"
-  "never turns its fiery breath on any\n"
-  "opponent weaker than itself.");
+  "derretir cualquier cosa. No obstante, si\n"
+  "su rival es más débil que él, no usará\n"
+  "este ataque.");
 
 static const u8 DexDescription_Squirtle_1[] = _(
-  "SQUIRTLE’s shell is not merely used\n"
-  "for protection.\n"
-  "The shell’s rounded shape and the");
+  "El caparazón de Squirtle no le sirve de\n"
+  "protección únicamente.\n"
+  "Su forma redondeada y las hendiduras que");
 static const u8 DexDescription_Squirtle_2[] = _(
-  "grooves on its surface help minimize\n"
-  "resistance in water, enabling this\n"
-  "POKéMON to swim at high speeds.");
+  "tiene le ayudan a reducir su resistencia\n"
+  "al agua y le permiten nadar a gran\n"
+  "velocidad.");
 
 static const u8 DexDescription_Wartortle_1[] = _(
-  "Its tail is large and covered with a rich,\n"
-  "thick fur. The tail becomes increasingly\n"
-  "deeper in color as WARTORTLE ages.");
+  "Tiene una cola larga y cubierta de un\n"
+  "pelo abundante y grueso que se torna más\n"
+  "oscuro a medida que crece.");
 static const u8 DexDescription_Wartortle_2[] = _(
-  "The scratches on its shell are evidence\n"
-  "of this POKéMON’s toughness as a\n"
-  "battler.");
+  "Los arañazos que tiene en el caparazón\n"
+  "dan fe de lo buen guerrero que es.");
 
 static const u8 DexDescription_Blastoise_1[] = _(
-  "BLASTOISE has water spouts that\n"
-  "protrude from its shell. The water\n"
-  "spouts are very accurate.");
+  "Blastoise lanza chorros de agua por los\n"
+  "tubos que le salen del caparazón que\n"
+  "tiene en la espalda, con gran precisión.");
 static const u8 DexDescription_Blastoise_2[] = _(
-  "They can shoot bullets of water with\n"
-  "enough accuracy to strike empty cans\n"
-  "from a distance of over 160 feet.");
+  "Puede disparar chorros de agua con tanta\n"
+  "puntería que no fallaría al tirar contra\n"
+  "una lata pequeña a 50 metros.");
 
 static const u8 DexDescription_Caterpie_1[] = _(
-  "CATERPIE has a voracious appetite.\n"
-  "It can devour leaves bigger than its\n"
-  "body right before your eyes.");
+  "Caterpie tiene un apetito voraz. Es capaz\n"
+  "de devorar hojas que superen su tamaño en\n"
+  "un abrir y cerrar de ojos.");
 static const u8 DexDescription_Caterpie_2[] = _(
-  "From its antenna, this POKéMON releases\n"
-  "a terrifically strong odor.");
+  "Atención a la antena que tiene: libera\n"
+  "un hedor realmente fuerte.");
 
 static const u8 DexDescription_Metapod_1[] = _(
-  "The shell covering this POKéMON’s body\n"
-  "is as hard as an iron slab.\n"
-  "METAPOD does not move very much.");
+  "La capa que recubre el cuerpo de este\n"
+  "Pokémon es tan dura como una plancha de\n"
+  "hierro. Metapod apenas se mueve.");
 static const u8 DexDescription_Metapod_2[] = _(
-  "It stays still because it is preparing\n"
-  "its soft innards for evolution inside\n"
-  "the hard shell.");
+  "Permanece inmóvil para que las vísceras\n"
+  "evolucionen dentro de la coraza que le\n"
+  "rodea.");
 
 static const u8 DexDescription_Butterfree_1[] = _(
-  "BUTTERFREE has a superior ability to\n"
-  "search for delicious honey from\n"
-  "flowers.");
+  "Butterfree tiene una habilidad especial\n"
+  "para encontrar delicioso polen en las\n"
+  "flores. Puede localizar, extraer y");
 static const u8 DexDescription_Butterfree_2[] = _(
-  "It can even search out, extract, and\n"
-  "carry honey from flowers that are\n"
-  "blooming over six miles from its nest.");
+  " transportar polen de flores que estén\n"
+  "floreciendo a 10 km de distancia de su\n"
+  "nido.");
 
 static const u8 DexDescription_Weedle_1[] = _(
-  "WEEDLE has an extremely acute sense\n"
-  "of smell.\n"
-  "It is capable of distinguishing its");
+  "Weedle tiene un finísimo sentido del\n"
+  "olfato.\n"
+  "Es capaz de distinguir las hojas que le");
 static const u8 DexDescription_Weedle_2[] = _(
-  "favorite kinds of leaves from those it\n"
-  "dislikes just by sniffing with its big\n"
-  "red proboscis (nose).");
+  "gustan de las que no le gustan\n"
+  "olisqueando un poco con la gran nariz que\n"
+  "tiene.");
 
 static const u8 DexDescription_Kakuna_1[] = _(
-  "KAKUNA remains virtually immobile as it\n"
-  "clings to a tree. However, on the\n"
-  "inside, it is extremely busy as it");
+  "Kakuna permanece prácticamente inmóvil al\n"
+  "encaramarse a los árboles. Aunque la\n"
+  "actividad interna de su organismo tiene");
 static const u8 DexDescription_Kakuna_2[] = _(
-  "prepares for its coming evolution.\n"
-  "This is evident from how hot the shell\n"
-  "becomes to the touch.");
+  "un ritmo frenético, pues se prepara para\n"
+  "su evolución. Prueba de esto es la alta\n"
+  "temperatura de la piel.");
 
 static const u8 DexDescription_Beedrill_1[] = _(
-  "BEEDRILL is extremely territorial.\n"
-  "No one should ever approach its nest -\n"
-  "this is for their own safety.");
+  "Los Beedrill defienden su territorio a\n"
+  "toda costa. No es conveniente acercarse\n"
+  "a su colmena, por seguridad.");
 static const u8 DexDescription_Beedrill_2[] = _(
-  "If angered, they will attack in a furious\n"
-  "swarm.");
+  "Si se les molesta, todo un enjambre\n"
+  "atacará ferozmente.");
 
 static const u8 DexDescription_Pidgey_1[] = _(
-  "PIDGEY has an extremely sharp sense\n"
-  "of direction.\n"
-  "It is capable of unerringly returning");
+  "Pidgey tiene un sentido de la orientación\n"
+  "muy desarrollado\n"
+  "Es capaz de regresar a su nido, por lejos");
 static const u8 DexDescription_Pidgey_2[] = _(
-  "home to its nest, however far it may be\n"
-  "removed from its familiar surroundings.");
+  "que se encuentre de las zonas que le\n"
+  "resultan familiares.");
 
 static const u8 DexDescription_Pidgeotto_1[] = _(
-  "PIDGEOTTO claims a large area as its\n"
-  "own territory. This POKéMON flies\n"
-  "around, patrolling its living space.");
+  "Pidgeotto se apodera de una zona muy\n"
+  "vasta como su territorio y la sobrevuela\n"
+  "para controlarla. Si alguien invade su");
 static const u8 DexDescription_Pidgeotto_2[] = _(
-  "If its territory is violated, it shows\n"
-  "no mercy in thoroughly punishing the\n"
-  "foe with its sharp claws.");
+  "espacio vital, no tendrá ningún reparo\n"
+  "en castigarlo con sus afiladas garras.");
 
 static const u8 DexDescription_Pidgeot_1[] = _(
-  "This POKéMON has a dazzling plumage of\n"
-  "beautifully glossy feathers.\n"
-  "Many TRAINERS are captivated by the");
+  "El plumaje de este Pokémon es bonito e\n"
+  "hipnótico. Muchos ENTRENADORES se quedan\n"
+  "embobados ante la belleza impactante de");
 static const u8 DexDescription_Pidgeot_2[] = _(
-  "striking beauty of the feathers on its\n"
-  "head, compelling them to choose PIDGEOT\n"
-  "as their POKéMON.");
+  "las plumas que tiene en la cabeza; lo que\n"
+  "les lleva a elegir a Pidgeot como su\n"
+  "Pokémon.");
 
 static const u8 DexDescription_Rattata_1[] = _(
-  "RATTATA is cautious in the extreme.\n"
-  "Even while it is asleep, it constantly\n"
-  "listens by moving its ears around.");
+  "Rattata es cauto como él solo. Hasta\n"
+  "cuando duerme mueve las orejas para oír\n"
+  "todos los ruidos. No es nada delicado a");
 static const u8 DexDescription_Rattata_2[] = _(
-  "It is not picky about where it lives -\n"
-  "it will make its nest anywhere.");
+  "la hora de elegir su hábitat. Cualquier\n"
+  "sitio es bueno para cavar su madriguera.");
 
 static const u8 DexDescription_Raticate_1[] = _(
-  "RATICATE’s sturdy fangs grow steadily.\n"
-  "To keep them ground down, it gnaws\n"
-  "on rocks and logs.");
+  "A Raticate le crecen los colmillos firmes\n"
+  "y fuertes. Para mantenerlos afilados roe\n"
+  "rocas y troncos, e incluso las paredes");
 static const u8 DexDescription_Raticate_2[] = _(
-  "It may even chew on the walls of\n"
-  "houses.");
+  "de las casas.");
 
 static const u8 DexDescription_Spearow_1[] = _(
-  "SPEAROW has a very loud cry that can\n"
-  "be heard over half a mile away.\n"
-  "If its high, keening cry is heard");
+  "Spearow pía con tanta fuerza que se le\n"
+  "puede oír a 1 km de distancia. Si al\n"
+  "agudo chillido sigue una especie de eco,");
 static const u8 DexDescription_Spearow_2[] = _(
-  "echoing all around, it is a sign that\n"
-  "they are warning each other of danger.");
+  "estaremos oyendo la respuesta de otros\n"
+  "Spearow que contestan ante el aviso de\n"
+  "peligro.");
 
 static const u8 DexDescription_Fearow_1[] = _(
-  "FEAROW is recognized by its long neck\n"
-  "and elongated beak.\n"
-  "They are conveniently shaped for");
+  "A Fearow se le reconoce por tener un\n"
+  "pescuezo y un pico largo que le permiten\n"
+  "cazar en tierra y en el agua.");
 static const u8 DexDescription_Fearow_2[] = _(
-  "catching prey in soil or water.\n"
-  "It deftly moves its long and skinny\n"
-  "beak to pluck prey.");
+  "Tiene una gran habilidad moviendo el\n"
+  "fino pico para atrapar a sus presas.");
 
 static const u8 DexDescription_Ekans_1[] = _(
-  "EKANS curls itself up in a spiral while\n"
-  "it rests.\n"
-  "Assuming this position allows it to");
+  "Ekans se enrosca para descansar.\n"
+  "Adoptando esta posición puede responder\n"
+  "rápidamente a cualquier amenaza que le");
 static const u8 DexDescription_Ekans_2[] = _(
-  "quickly respond to a threat from any\n"
-  "direction with a glare from its upraised\n"
-  "head.");
+  "aceche desde cualquier lugar, levantando\n"
+  "la cabeza con una feroz mirada.");
 
 static const u8 DexDescription_Arbok_1[] = _(
-  "This POKéMON is terrifically strong in\n"
-  "order to constrict things with its body.\n"
-  "It can even flatten steel oil drums.");
+  "Este Pokémon es tremendamente fuerte,\n"
+  "puede oprimir cualquier cosa con su\n"
+  "cuerpo y hasta es capaz de estrujar un");
 static const u8 DexDescription_Arbok_2[] = _(
-  "Once ARBOK wraps its body around its\n"
-  "foe, escaping its crunching embrace is\n"
-  "impossible.");
+  "barril de acero. Una vez que Arbok se\n"
+  "enrosca a su víctima, no hay forma de\n"
+  "escapar de su asfixiante Abrazo.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Pikachu_1[] = _(
@@ -223,13 +219,12 @@ static const u8 DexDescription_Pikachu_2[] = _(
   "when it is dozy after waking up.");
 #else
 static const u8 DexDescription_Pikachu_1[] = _(
-  "Whenever PIKACHU comes across\n"
-  "something new, it blasts it with a jolt\n"
-  "of electricity.");
+  "Cada vez que Pikachu se encuentra con\n"
+  "algo nuevo, le lanza una sacudida\n"
+  "eléctrica. Si ves alguna BAYA chamuscada,");
 static const u8 DexDescription_Pikachu_2[] = _(
-  "If you come across a blackened berry,\n"
-  "it’s evidence that this POKéMON\n"
-  "mistook the intensity of its charge.");
+  "seguro que ha sido Pikachu; a veces no\n"
+  "controla la intensidad de la descarga.");
 #endif
 
 #ifdef SAPPHIRE
@@ -242,12 +237,12 @@ static const u8 DexDescription_Raichu_2[] = _(
   "planting its tail in the ground.");
 #else
 static const u8 DexDescription_Raichu_1[] = _(
-  "If the electrical sacks become\n"
-  "excessively charged, RAICHU plants its\n"
-  "tail in the ground and discharges.");
+  "Si las bolsas de los mofletes se le\n"
+  "cargan demasiado, Raichu planta la cola\n"
+  "en el suelo para liberar electricidad.");
 static const u8 DexDescription_Raichu_2[] = _(
-  "Scorched patches of ground will be\n"
-  "found near this POKéMON’s nest.");
+  "Es común encontrar zonas chamuscadas\n"
+  "cerca de la madriguera de este Pokémon.");
 #endif
 
 #ifdef SAPPHIRE
@@ -260,12 +255,12 @@ static const u8 DexDescription_Sandshrew_2[] = _(
   "sand to sleep.");
 #else
 static const u8 DexDescription_Sandshrew_1[] = _(
-  "SANDSHREW’s body is configured to\n"
-  "absorb water without waste, enabling it\n"
-  "to survive in an arid desert.");
+  "Sandshrew es capaz de absorber agua y no\n"
+  "perder ni una gota, algo que le permite\n"
+  "sobrevivir en el desierto.");
 static const u8 DexDescription_Sandshrew_2[] = _(
-  "This POKéMON curls up to protect itself\n"
-  "from its enemies.");
+  "Este Pokémon se enrosca para defenderse\n"
+  "de los enemigos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -279,79 +274,81 @@ static const u8 DexDescription_Sandslash_2[] = _(
   "foe to tear wildly with its sharp claws.");
 #else
 static const u8 DexDescription_Sandslash_1[] = _(
-  "SANDSLASH’s body is covered by tough\n"
-  "spikes, which are hardened sections of\n"
-  "its hide. Once a year, the old spikes fall");
+  "Sandslash está recubierto de duras púas\n"
+  "que son partes endurecidas de la piel.\n"
+  "Suele mudarlas una vez al año; debajo");
 static const u8 DexDescription_Sandslash_2[] = _(
-  "out, to be replaced with new spikes that\n"
-  "grow out from beneath the old ones.");
+  "de las viejas púas crecen unas nuevas\n"
+  "que las sustituyen.");
 #endif
 
 static const u8 DexDescription_NidoranF_1[] = _(
-  "NIDORAN has barbs that secrete a\n"
-  "powerful poison. They are thought to\n"
-  "have developed as protection for this");
+  "Nidoran tiene púas que segregan un veneno\n"
+  "muy potente. Se piensa que las desarrolló\n"
+  "como protección del cuerpo tan pequeño");
 static const u8 DexDescription_NidoranF_2[] = _(
-  "small-bodied POKéMON.\n"
-  "When enraged, it releases a horrible\n"
-  "toxin from its horn.");
+  "que tiene. Cuando se enfada, libera una\n"
+  "horrible sustancia tóxica por el cuerno.");
 
 static const u8 DexDescription_Nidorina_1[] = _(
-  "When NIDORINA are with their friends or\n"
-  "family, they keep their barbs tucked\n"
-  "away to prevent hurting each other.");
+  "Cuando los Nidorina están en familia o\n"
+  "con sus amigos, esconden las púas para\n"
+  "evitar herirse unos a otros.");
 static const u8 DexDescription_Nidorina_2[] = _(
-  "This POKéMON appears to become\n"
-  "nervous if separated from the others.");
+  "Según parece, si se les separa de su\n"
+  "grupo, se ponen muy nerviosos.");
 
 static const u8 DexDescription_Nidoqueen_1[] = _(
-  "NIDOQUEEN’s body is encased in\n"
-  "extremely hard scales. It is adept at\n"
-  "sending foes flying with harsh tackles.");
+  "Nidoqueen tiene un cuerpo totalmente\n"
+  "recubierto de escamas durísimas. Suele\n"
+  "lanzar por los aires a sus rivales de los");
 static const u8 DexDescription_Nidoqueen_2[] = _(
-  "This POKéMON is at its strongest when\n"
-  "it is defending its young.");
+  "violentos golpes que les propina. Cuando\n"
+  "se trata de defender a sus crías, alcanza\n"
+  "su nivel máximo de fuerza.");
 
 static const u8 DexDescription_NidoranM_1[] = _(
-  "The male NIDORAN has developed\n"
-  "muscles for moving its ears. Thanks to\n"
-  "them, the ears can be freely moved in");
+  "El Nidoran macho ha desarrollado músculos\n"
+  "para mover las orejas y orientarlas en\n"
+  "cualquier dirección.");
 static const u8 DexDescription_NidoranM_2[] = _(
-  "any direction. Even the slightest sound\n"
-  "does not escape this POKéMON’s notice.");
+  "De este modo, es capaz de captar hasta\n"
+  "el sonido más leve.");
 
 static const u8 DexDescription_Nidorino_1[] = _(
-  "NIDORINO has a horn that is harder than\n"
-  "a diamond. If it senses a hostile\n"
-  "presence, all the barbs on its back");
+  "Nidorino tiene un cuerno de dureza\n"
+  "superior a la del diamante. Si siente\n"
+  "una presencia hostil, se le erizan las");
 static const u8 DexDescription_Nidorino_2[] = _(
-  "bristle up at once, and it challenges\n"
-  "the foe with all its might.");
+  "púas del lomo enseguida y desafía al\n"
+  "enemigo con todas sus fuerzas.");
 
 static const u8 DexDescription_Nidoking_1[] = _(
-  "NIDOKING’s thick tail packs enormously\n"
-  "destructive power. With one swing, it\n"
-  "can topple a metal transmission tower.");
+  "La gruesa cola de Nidoking encierra una\n"
+  "fuerza realmente destructora. Con una vez\n"
+  "que la agite, es capaz de tumbar una");
 static const u8 DexDescription_Nidoking_2[] = _(
-  "Once this POKéMON goes on a rampage,\n"
-  "there is no stopping it.");
+  "torre metálica de transmisión. Una vez\n"
+  "que este Pokémon se desboca, no hay\n"
+  "quien lo pare.");
 
 static const u8 DexDescription_Clefairy_1[] = _(
-  "On every night of a full moon, groups of\n"
-  "this POKéMON come out to play.\n"
-  "When dawn arrives, the tired CLEFAIRY");
+  "Siempre que hay luna llena, salen en\n"
+  "grupo para jugar. Al amanecer, los\n"
+  "Clefairy, agotados, regresan a sus");
 static const u8 DexDescription_Clefairy_2[] = _(
-  "return to their quiet mountain retreats\n"
-  "and go to sleep nestled up against each\n"
-  "other.");
+  "refugios de montaña para dormir\n"
+  "acurrucados unos con\n"
+  "otros.");
 
 static const u8 DexDescription_Clefable_1[] = _(
-  "CLEFABLE moves by skipping lightly as if\n"
-  "it were flying using its wings. Its\n"
-  "bouncy step lets it even walk on water.");
+  "Clefable se mueve dando saltitos como si\n"
+  "fuera haciendo uso de las alas. Estos\n"
+  "pequeños brincos le permiten caminar por");
 static const u8 DexDescription_Clefable_2[] = _(
-  "It is known to take strolls on lakes on\n"
-  "quiet, moonlit nights.");
+  "el agua. De todos es sabido que le\n"
+  "encanta darse paseos por los lagos en\n"
+  "tranquilas noches de luna");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Vulpix_1[] = _(
@@ -364,13 +361,12 @@ static const u8 DexDescription_Vulpix_2[] = _(
   "hot.");
 #else
 static const u8 DexDescription_Vulpix_1[] = _(
-  "At the time of its birth, VULPIX has one\n"
-  "white tail. The tail separates into six\n"
-  "if this POKéMON receives plenty of love");
+"Al nacer, Vulpix tiene una cola blanca\n"
+"que se divide en seis si recibe cariño\n"
+"por parte de su ENTRENADOR. Las seis");
 static const u8 DexDescription_Vulpix_2[] = _(
-  "from its TRAINER.\n"
-  "The six tails become magnificently\n"
-  "curled.");
+"colas se le rizan de forma\n"
+"majestuosa.\n");
 #endif
 
 #ifdef SAPPHIRE
@@ -383,12 +379,13 @@ static const u8 DexDescription_Ninetales_2[] = _(
   "can understand human speech.");
 #else
 static const u8 DexDescription_Ninetales_1[] = _(
-  "NINETALES casts a sinister light from\n"
-  "its bright red eyes to gain total\n"
-  "control over its foe’s mind.");
+"Ninetales emite una siniestra luz a\n"
+"través de los brillantes ojos rojos que\n"
+"tiene, para conseguir controlar del todo");
 static const u8 DexDescription_Ninetales_2[] = _(
-  "This POKéMON is said to live for a\n"
-  "thousand years.");
+"la mente de su rival. Dicen que este\n"
+"Pokémon llega a vivir miles de\n"
+"años.");
 #endif
 
 #ifdef SAPPHIRE
@@ -401,12 +398,13 @@ static const u8 DexDescription_Jigglypuff_2[] = _(
   "breathe, endangering its life.");
 #else
 static const u8 DexDescription_Jigglypuff_1[] = _(
-  "JIGGLYPUFF’s vocal chords can freely\n"
-  "adjust the wavelength of its voice.\n"
-  "This POKéMON uses this ability to sing");
+"Jigglypuff tiene unas cuerdas vocales que\n"
+"ajustan sin problema la longitud de onda\n"
+"de su voz. Este Pokémon usa la habilidad");
 static const u8 DexDescription_Jigglypuff_2[] = _(
-  "at precisely the right wavelength to\n"
-  "make its foes most drowsy.");
+"que tiene para cantar con la longitud de\n"
+"onda necesaria para adormecer a su\n"
+"rival.");
 #endif
 
 #ifdef SAPPHIRE
@@ -419,17 +417,17 @@ static const u8 DexDescription_Wigglytuff_2[] = _(
   "along lightly like a balloon.");
 #else
 static const u8 DexDescription_Wigglytuff_1[] = _(
-  "WIGGLYTUFF has large, saucerlike eyes.\n"
-  "The surfaces of its eyes are always\n"
-  "covered with a thin layer of tears.");
+"Wigglytuff tiene unos ojos enormes con\n"
+"forma de platillo, que siempre están\n"
+"cubiertos de lágrimas. Si se le metiera");
 static const u8 DexDescription_Wigglytuff_2[] = _(
-  "If any dust gets in this POKéMON’s\n"
-  "eyes, it is quickly washed away.");
+"algo en el ojo, enseguida se le saldría\n"
+"solo.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Zubat_1[] = _(
-  "ZUBAT avoids sunlight because exposure\n"
+  "ZUMurciélago avoids sunlight because exposure\n"
   "causes it to become unhealthy.\n"
   "During the daytime, it stays in caves or");
 static const u8 DexDescription_Zubat_2[] = _(
@@ -437,17 +435,16 @@ static const u8 DexDescription_Zubat_2[] = _(
   "while hanging upside down.");
 #else
 static const u8 DexDescription_Zubat_1[] = _(
-  "ZUBAT remains quietly unmoving in a\n"
-  "dark spot during the bright daylight\n"
-  "hours. It does so because prolonged");
+"Durante el día, Zubat permanece inmóvil\n"
+"y a oscuras. Si este Pokémon pasara\n"
+"mucho tiempo expuesto al sol, correría");
 static const u8 DexDescription_Zubat_2[] = _(
-  "exposure to the sun causes its body to\n"
-  "become slightly burned.");
+"el peligro de sufrir quemaduras.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Golbat_1[] = _(
-  "GOLBAT bites down on prey with its four\n"
+  "GOLMurciélago bites down on prey with its four\n"
   "fangs and drinks the victim’s blood.\n"
   "It becomes active on inky dark");
 static const u8 DexDescription_Golbat_2[] = _(
@@ -455,12 +452,12 @@ static const u8 DexDescription_Golbat_2[] = _(
   "attack people and POKéMON.");
 #else
 static const u8 DexDescription_Golbat_1[] = _(
-  "GOLBAT loves to drink the blood of\n"
-  "living things. It is particularly active\n"
-  "in the pitch black of night.");
+"A Golbat le encanta chuparle la sangre\n"
+"a los seres vivos. Este Pokémon es más\n"
+"activo en la oscuridad de la noche. Es");
 static const u8 DexDescription_Golbat_2[] = _(
-  "This POKéMON flits around in the night\n"
-  "skies, seeking fresh blood.");
+"al caer la noche cuando sale a\n"
+"revolotear y a buscar sangre fresca.");
 #endif
 
 #ifdef SAPPHIRE
@@ -474,12 +471,12 @@ static const u8 DexDescription_Oddish_2[] = _(
   "the roots of trees.");
 #else
 static const u8 DexDescription_Oddish_1[] = _(
-  "During the daytime, ODDISH buries\n"
-  "itself in soil to absorb nutrients from \n"
-  "the ground using its entire body.");
+"Durante el día, Oddish se entierra en\n"
+"el suelo para absorber nutrientes\n"
+"valiéndose de todo el cuerpo. Cuanto");
 static const u8 DexDescription_Oddish_2[] = _(
-  "The more fertile the soil, the glossier\n"
-  "its leaves become.");
+"más fértil sea el suelo, mayor brillo\n"
+"tendrá en las hojas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -492,13 +489,13 @@ static const u8 DexDescription_Gloom_2[] = _(
   "drools even more of its honey.");
 #else
 static const u8 DexDescription_Gloom_1[] = _(
-  "GLOOM releases a foul fragrance from\n"
-  "the pistil of its flower. When faced\n"
-  "with danger, the stench worsens.");
+"Gloom libera un fétido olor por los\n"
+"pistilos de la flor. Cuando está en\n"
+"peligro, el hedor se intensifica. Si");
 static const u8 DexDescription_Gloom_2[] = _(
-  "If this POKéMON is feeling calm and\n"
-  "secure, it does not release its usual\n"
-  "stinky aroma.");
+"este Pokémon está tranquilo y no se\n"
+"siente amenazado, no libera el\n"
+"desagradable olor.");
 #endif
 
 #ifdef SAPPHIRE
@@ -511,12 +508,13 @@ static const u8 DexDescription_Vileplume_2[] = _(
   "POKéMON catches and devours them.");
 #else
 static const u8 DexDescription_Vileplume_1[] = _(
-  "VILEPLUME’s toxic pollen triggers\n"
-  "atrocious allergy attacks. That’s why\n"
-  "it is advisable never to approach any");
+"El polen que contienen las esporas\n"
+"tóxicas de Vileplume causan unos\n"
+"ataques de alergia muy agudos. Por eso,");
 static const u8 DexDescription_Vileplume_2[] = _(
-  "attractive flowers in a jungle, however\n"
-  "pretty they may be.");
+"no es aconsejable acercarse a ninguna\n"
+"flor que resulte atractiva, por muy\n"
+"bonita que sea.");
 #endif
 
 #ifdef SAPPHIRE
@@ -531,12 +529,13 @@ static const u8 DexDescription_Paras_2[] = _(
   "extending life.");
 #else
 static const u8 DexDescription_Paras_1[] = _(
-  "PARAS has parasitic mushrooms growing\n"
-  "on its back called tochukaso. They grow\n"
-  "large by drawing nutrients from this");
+"Paras lleva dos setas parásitas a\n"
+"cuestas llamadas tochukaso. Éstas\n"
+"crecen alimentándose de los nutrientes");
 static const u8 DexDescription_Paras_2[] = _(
-  "BUG POKéMON host. They are highly\n"
-  "valued as a medicine for extending life.");
+"de este Pokémon de tipo BICHO/PLANTA\n"
+"que les sirve de huésped. Las setas se\n"
+"usan como elixir de vida.");
 #endif
 #else
 #if REVISION >= 1
@@ -550,78 +549,79 @@ static const u8 DexDescription_Paras_2[] = _(
   "extending life.");
 #else
 static const u8 DexDescription_Paras_1[] = _(
-  "PARAS has parasitic mushrooms growing\n"
-  "on its back called tochukaso. They grow\n"
-  "large by drawing nutrients from the BUG");
+"Paras lleva dos setas parásitas a\n"
+"cuestas llamadas tochukaso. Éstas\n"
+"crecen alimentándose de los nutrientes");
 static const u8 DexDescription_Paras_2[] = _(
-  "POKéMON host. They are highly valued as\n"
-  "a medicine for extending life.");
+"de este Pokémon de tipo BICHO/PLANTA\n"
+"que les sirve de huésped. Las setas se\n"
+"usan como elixir de vida.");
 #endif
 #endif
 
 static const u8 DexDescription_Parasect_1[] = _(
-  "PARASECT is known to infest large trees\n"
-  "en masse and drain nutrients from the\n"
-  "lower trunk and roots.");
+"Parasect es conocido por destruir en\n"
+"plaga grandes árboles, absorbiendo los\n"
+"nutrientes que tienen en la parte baja");
 static const u8 DexDescription_Parasect_2[] = _(
-  "When an infested tree dies, they move\n"
-  "onto another tree all at once.");
+"del tronco y las raíces. Cuando un\n"
+"árbol muere por la plaga, los Parasect\n"
+"van a por el siguiente al instante.");
 
 static const u8 DexDescription_Venonat_1[] = _(
-  "VENONAT is said to have evolved with\n"
-  "a coat of thin, stiff hair that covers\n"
-  "its entire body for protection.");
+"Dicen que Venonat evolucionó con una\n"
+"fina capa de espeso pelo que le cubría\n"
+"todo el cuerpo a modo de protección.");
 static const u8 DexDescription_Venonat_2[] = _(
-  "It possesses large eyes that never fail\n"
-  "to spot even miniscule prey.");
+"Tiene unos ojos tan grandes que no hay\n"
+"presa que le pase desapercibida.");
 
 static const u8 DexDescription_Venomoth_1[] = _(
-  "VENOMOTH is nocturnal - it is a POKéMON\n"
-  "that only becomes active at night.\n"
-  "Its favorite prey are small insects");
+"Venomoth es nocturno, sólo actúa en la\n"
+"oscuridad. Su alimento preferido son\n"
+"los pequeños insectos que se concentran");
 static const u8 DexDescription_Venomoth_2[] = _(
-  "that gather around streetlights,\n"
-  "attracted by the light in the darkness.");
+"cerca de los focos de luz en la\n"
+"oscuridad de la noche.");
 
 static const u8 DexDescription_Diglett_1[] = _(
-  "DIGLETT are raised in most farms.\n"
-  "The reason is simple - wherever this\n"
-  "POKéMON burrows, the soil is left");
+"En la mayoría de las granjas suelen\n"
+"criar Diglett por la sencilla razón de\n"
+"que, caven donde caven, dejan la tierra");
 static const u8 DexDescription_Diglett_2[] = _(
-  "perfectly tilled for planting crops.\n"
-  "This soil is made ideal for growing\n"
-  "delicious vegetables.");
+"perfectamente labrada para sembrar. El\n"
+"terreno queda listo para plantar ricas\n"
+"verduras.");
 
 static const u8 DexDescription_Dugtrio_1[] = _(
-  "DUGTRIO are actually triplets that\n"
-  "emerged from one body. As a result,\n"
-  "each triplet thinks exactly like the");
+"Los Dugtrio son trillizos que salieron\n"
+"de un mismo cuerpo, por eso piensan de\n"
+"la misma forma. A la hora de cavar,");
 static const u8 DexDescription_Dugtrio_2[] = _(
-  "other two triplets.\n"
-  "They work cooperatively to burrow\n"
-  "endlessly.");
+"trabajan en equipo y sin descanso.");
 
 static const u8 DexDescription_Meowth_1[] = _(
-  "MEOWTH withdraws its sharp claws into\n"
-  "its paws to slinkily sneak about without\n"
-  "making any incriminating footsteps.");
+"Meowth saca las uñas de las zarpas para\n"
+"caminar a hurtadillas, dando sigilosos\n"
+"pasos para pasar inadvertido. No se");
 static const u8 DexDescription_Meowth_2[] = _(
-  "For some reason, this POKéMON loves\n"
-  "shiny coins that glitter with light.");
+"sabe muy bien por qué, pero este\n"
+"Pokémon adora las monedas brillantes\n"
+"que resplandecen con la luz.");
 
 static const u8 DexDescription_Persian_1[] = _(
-  "PERSIAN has six bold whiskers that give\n"
-  "it a look of toughness. The whiskers  \n"
-  "sense air movements to determine what");
+"Persian tiene seis llamativos bigotes\n"
+"que le dan un aspecto feroz. Además, le\n"
+"sirven para detectar el movimiento del");
 static const u8 DexDescription_Persian_2[] = _(
-  "is in the POKéMON’s surrounding\n"
-  "vicinity. It becomes docile if grabbed\n"
-  "by the whiskers.");
+"aire, delator de la presencia cercana\n"
+"de algún Pokémon. Si se le agarra por\n"
+"los bigotes, se vuelve dócil.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Psyduck_1[] = _(
   "If it uses its mysterious power,\n"
-  "PSYDUCK can’t remember having done so.\n"
+  "PSYPato can’t remember having done so.\n"
   "It apparently can’t form a memory of");
 static const u8 DexDescription_Psyduck_2[] = _(
   "such an event because it goes into\n"
@@ -629,18 +629,18 @@ static const u8 DexDescription_Psyduck_2[] = _(
   "deep sleep.");
 #else
 static const u8 DexDescription_Psyduck_1[] = _(
-  "PSYDUCK uses a mysterious power.\n"
-  "When it does so, this POKéMON \n"
-  "generates brain waves that are");
+"Psyduck tiene un extraño poder, que\n"
+"consiste en generar ondas cerebrales\n"
+"iguales a las que se generan cuando se");
 static const u8 DexDescription_Psyduck_2[] = _(
-  "supposedly only seen in sleepers.\n"
-  "This discovery spurred controversy\n"
-  "among scholars.");
+"está dormido. Este descubrimiento\n"
+"levantó una gran polémica entre\n"
+"eruditos.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Golduck_1[] = _(
-  "GOLDUCK is the fastest swimmer among\n"
+  "GOLPato is the fastest swimmer among\n"
   "all POKéMON. It swims effortlessly, even\n"
   "in a rough, stormy sea.");
 static const u8 DexDescription_Golduck_2[] = _(
@@ -648,73 +648,75 @@ static const u8 DexDescription_Golduck_2[] = _(
   "wrecked ships floundering in high seas.");
 #else
 static const u8 DexDescription_Golduck_1[] = _(
-  "The webbed flippers on its forelegs and\n"
-  "hind legs and the streamlined body of\n"
-  "GOLDUCK give it frightening speed.");
+"Golduck alcanza una velocidad de\n"
+"vértigo gracias a las aletas palmípedas\n"
+"de las extremidades y a la forma");
 static const u8 DexDescription_Golduck_2[] = _(
-  "This POKéMON is definitely much faster\n"
-  "than even the most athletic swimmer.");
+"aerodinámica de su cuerpo. Realmente,\n"
+"la velocidad de este Pokémon supera la\n"
+"de cualquier nadador.");
 #endif
 
 static const u8 DexDescription_Mankey_1[] = _(
-  "When MANKEY starts shaking and its\n"
-  "nasal breathing turns rough, it’s a sure\n"
-  "sign that it is becoming angry.");
+"Cuando Mankey empieza a temblar y a\n"
+"respirar con más intensidad, seguro que\n"
+"va a enfadarse. Aunque prever su enfado");
 static const u8 DexDescription_Mankey_2[] = _(
-  "However, because it goes into a\n"
-  "towering rage almost instantly, it is\n"
-  "impossible for anyone to flee its wrath.");
+"no sirve de nada porque alcanza un\n"
+"estado de rabia tan rápido que no hay\n"
+"escapatoria.");
 
 static const u8 DexDescription_Primeape_1[] = _(
-  "When PRIMEAPE becomes furious, its\n"
-  "blood circulation is boosted. In turn,\n"
-  "its muscles are made even stronger.");
+"Cuando Primeape se enfada, se le\n"
+"acelera el ritmo cardíaco y se le\n"
+"fortalecen los músculos. Con todo,");
 static const u8 DexDescription_Primeape_2[] = _(
-  "However, it also becomes much less\n"
-  "intelligent at the same time.");
+"pierde en inteligencia.");
 
 static const u8 DexDescription_Growlithe_1[] = _(
-  "GROWLITHE has a superb sense of smell.\n"
-  "Once it smells anything, this POKéMON\n"
-  "won’t forget the scent, no matter what.");
+"Growlithe tiene un sentido del olfato\n"
+"excepcional y una memoria sensitiva\n"
+"tremenda, nunca olvida una esencia.");
 static const u8 DexDescription_Growlithe_2[] = _(
-  "It uses its advanced olfactory sense\n"
-  "to determine the emotions of other\n"
-  "living things.");
+"Este Pokémon saca provecho de este don\n"
+"para identificar las sensaciones que\n"
+"tienen otros seres vivos.");
 
 static const u8 DexDescription_Arcanine_1[] = _(
-  "ARCANINE is known for its high speed.\n"
-  "It is said to be capable of running over\n"
-  "6,200 miles in a single day and night.");
+"Arcanine es conocido por lo veloz que\n"
+"es. Dicen que es capaz de correr 10.000\n"
+"kilómetros en 24 horas. El fuego que");
 static const u8 DexDescription_Arcanine_2[] = _(
-  "The fire that blazes wildly within this\n"
-  "POKéMON’s body is its source of power.");
+"arde con vigor en el interior de este\n"
+"Pokémon constituye su fuente de\n"
+"energía.");
 
 static const u8 DexDescription_Poliwag_1[] = _(
-  "POLIWAG has a very thin skin. It is\n"
-  "possible to see the POKéMON’s spiral\n"
-  "innards right through the skin.");
+"Poliwag tiene una piel muy fina. Tanto\n"
+"que es posible entrever a través de la\n"
+"misma las vísceras en espiral que");
 static const u8 DexDescription_Poliwag_2[] = _(
-  "Despite its thinness, however, the skin\n"
-  "is also very flexible. Even sharp fangs\n"
-  "bounce right off it.");
+"tiene. La piel, aunque fina, tiene la\n"
+"ventaja de ser flexible y hacer rebotar\n"
+"más de un zarpazo.");
 
 static const u8 DexDescription_Poliwhirl_1[] = _(
-  "The surface of POLIWHIRL’s body is\n"
-  "always wet and slick with an oily fluid.\n"
-  "Because of this greasy covering, it can");
+"La piel de Poliwhirl está siempre\n"
+"húmeda y lubricada con un fluido\n"
+"aceitoso. Gracias a esta película");
 static const u8 DexDescription_Poliwhirl_2[] = _(
-  "easily slip and slide out of the clutches\n"
-  "of any enemy in battle.");
+"grasa, puede escapar de las garras del\n"
+"enemigo, resbalándose de las zarpas en\n"
+"pleno combate.");
 
 static const u8 DexDescription_Poliwrath_1[] = _(
-  "POLIWRATH’s highly developed, brawny\n"
-  "muscles never grow fatigued, however\n"
-  "much it exercises.");
+"Poliwrath tiene unos músculos fornidos\n"
+"y muy desarrollados, que nunca se\n"
+"cansan por más que los use. Es tan");
 static const u8 DexDescription_Poliwrath_2[] = _(
-  "It is so tirelessly strong, this POKéMON\n"
-  "can swim back and forth across the\n"
-  "Pacific Ocean without effort.");
+"fuerte e incansable que cruzarse el\n"
+"océano Pacífico un par de veces no le\n"
+"supone ningún esfuerzo.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Abra_1[] = _(
@@ -726,12 +728,12 @@ static const u8 DexDescription_Abra_2[] = _(
   "TELEPORT while it is still sleeping.");
 #else
 static const u8 DexDescription_Abra_1[] = _(
-  "ABRA sleeps for eighteen hours a day.\n"
-  "However, it can sense the presence of\n"
-  "foes even while it is sleeping.");
+"Abra duerme 18 horas al día, pero puede\n"
+"detectar a cualquier enemigo que se le\n"
+"acerque mientras duerme. En una");
 static const u8 DexDescription_Abra_2[] = _(
-  "In such a situation, this POKéMON\n"
-  "immediately teleports to safety.");
+"situación así, usa TELETRANSPORTE para\n"
+"protegerse.");
 #endif
 
 #ifdef SAPPHIRE
@@ -745,12 +747,12 @@ static const u8 DexDescription_Kadabra_2[] = _(
   "of its telekinetic powers.");
 #else
 static const u8 DexDescription_Kadabra_1[] = _(
-  "KADABRA emits a peculiar alpha wave\n"
-  "if it develops a headache. Only those\n"
-  "people with a particularly strong");
+"Kadabra emite unas ondas alfa muy\n"
+"particulares cuando le duele la cabeza.\n"
+"Sólo aquellos que tengan gran poder");
 static const u8 DexDescription_Kadabra_2[] = _(
-  "psyche can hope to become a TRAINER\n"
-  "of this POKéMON.");
+"mental podrán optar a ser ENTRENADOR de\n"
+"este Pokémon.");
 #endif
 
 #ifdef SAPPHIRE
@@ -764,12 +766,12 @@ static const u8 DexDescription_Alakazam_2[] = _(
   "that has occurred in the world.");
 #else
 static const u8 DexDescription_Alakazam_1[] = _(
-  "ALAKAZAM’s brain continually grows,\n"
-  "making its head far too heavy to\n"
-  "support with its neck.");
+"El cerebro de Alakazam nunca deja de\n"
+"crecer y por eso al cuello le cuesta\n"
+"sostener el peso de la cabeza. Este");
 static const u8 DexDescription_Alakazam_2[] = _(
-  "This POKéMON holds its head up using\n"
-  "its psychokinetic power instead.");
+"Pokémon usa sus poderes psicoquinéticos\n"
+"para mantener en alto la cabeza.");
 #endif
 
 #ifdef SAPPHIRE
@@ -782,12 +784,12 @@ static const u8 DexDescription_Machop_2[] = _(
   "kinds of martial arts.");
 #else
 static const u8 DexDescription_Machop_1[] = _(
-  "MACHOP’s muscles are special - they\n"
-  "never get sore no matter how much they\n"
-  "are used in exercise.");
+"Machop tiene una musculatura especial\n"
+"que nunca se agota por mucho que la\n"
+"use. Este Pokémon es tan fuerte que");
 static const u8 DexDescription_Machop_2[] = _(
-  "This POKéMON has sufficient power to\n"
-  "hurl a hundred adult humans.");
+"puede derrotar a cien personas adultas\n"
+"de una sola vez.");
 #endif
 
 #ifdef SAPPHIRE
@@ -801,12 +803,11 @@ static const u8 DexDescription_Machoke_2[] = _(
   "and train.");
 #else
 static const u8 DexDescription_Machoke_1[] = _(
-  "MACHOKE’s thoroughly toned muscles\n"
-  "possess the hardness of steel.\n"
-  "This POKéMON has so much strength,");
+"Los entrenados músculos de Machoke son\n"
+"tan fuertes como el acero. Este Pokémon\n"
+"es tan fuerte que puede levantar con un");
 static const u8 DexDescription_Machoke_2[] = _(
-  "it can easily hold aloft a sumo wrestler\n"
-  "on just one finger.");
+"solo dedo a un luchador de sumo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -820,39 +821,41 @@ static const u8 DexDescription_Machamp_2[] = _(
   "horizon.");
 #else
 static const u8 DexDescription_Machamp_1[] = _(
-  "MACHAMP has the power to hurl anything\n"
-  "aside. However, trying to do any work\n"
-  "requiring care and dexterity causes");
+"Machamp es tan fuerte que puede\n"
+"derribar lo que quiera. Sin embargo,\n"
+"cuando tiene que realizar una tarea que");
 static const u8 DexDescription_Machamp_2[] = _(
-  "its arms to get tangled.\n"
-  "This POKéMON tends to leap into action\n"
-  "before it thinks.");
+"requiere delicadeza y destreza, se le\n"
+"enredan los brazos. Este Pokémon pasa a\n"
+"la acción sin pensar.");
 #endif
 
 static const u8 DexDescription_Bellsprout_1[] = _(
-  "BELLSPROUT’s thin and flexible body\n"
-  "lets it bend and sway to avoid any\n"
-  "attack, however strong it may be.");
+"Bellsprout tiene un cuerpo delgado y\n"
+"flexible que le permite inclinarse y\n"
+"balancearse para esquivar los ataques.");
 static const u8 DexDescription_Bellsprout_2[] = _(
-  "From its mouth, this POKéMON spits a\n"
-  "corrosive fluid that melts even iron.");
+"Este Pokémon escupe por la boca un\n"
+"fluido corrosivo capaz de hacer que se\n"
+"derrita hasta el hierro.");
 
 static const u8 DexDescription_Weepinbell_1[] = _(
-  "WEEPINBELL has a large hook on its rear\n"
-  "end. At night, the POKéMON hooks on to\n"
-  "a tree branch and goes to sleep.");
+"Weepinbell tiene un gancho a modo de\n"
+"extremidad superior trasera, que usa\n"
+"por la noche para colgarse de una rama");
 static const u8 DexDescription_Weepinbell_2[] = _(
-  "If it moves around in its sleep, it may\n"
-  "wake up to find itself on the ground.");
+"y echarse a dormir. Si se mueve\n"
+"mientras duerme, puede acabar en el\n"
+"suelo.");
 
 static const u8 DexDescription_Victreebel_1[] = _(
-  "VICTREEBEL has a long vine that\n"
-  "extends from its head. This vine is\n"
-  "waved and flicked about as if it were");
+"Victreebel tiene una enredadera que le\n"
+"sale de la cabeza. Cuando la agita y\n"
+"colea, recuerda a un animal que está a");
 static const u8 DexDescription_Victreebel_2[] = _(
-  "an animal to attract prey. When an\n"
-  "unsuspecting prey draws near, this\n"
-  "POKéMON swallows it whole.");
+"punto de atacar a su presa. Como se le\n"
+"acerque un rival, se lo tragará\n"
+"entero.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Tentacool_1[] = _(
@@ -864,12 +867,12 @@ static const u8 DexDescription_Tentacool_2[] = _(
   "crystal-like eyes.");
 #else
 static const u8 DexDescription_Tentacool_1[] = _(
-  "TENTACOOL’s body is largely composed\n"
-  "of water. If it is removed from the\n"
-  "sea, it dries up like parchment.");
+"Tentacool está compuesto en su mayor\n"
+"parte por agua. Si lo sacas del mar, se\n"
+"secará y se quedará acartonado. Si este");
 static const u8 DexDescription_Tentacool_2[] = _(
-  "If this POKéMON happens to become\n"
-  "dehydrated, put it back into the sea.");
+"Pokémon se deshidrata, hay que ponerlo\n"
+"inmediatamente de vuelta en el mar.");
 #endif
 
 #ifdef SAPPHIRE
@@ -883,12 +886,12 @@ static const u8 DexDescription_Tentacruel_2[] = _(
   "prey at the same time.");
 #else
 static const u8 DexDescription_Tentacruel_1[] = _(
-  "TENTACRUEL has large red orbs on its\n"
-  "head. The orbs glow before lashing the\n"
-  "vicinity with a harsh ultrasonic blast.");
+"Tentacruel tiene unas enormes esferas\n"
+"rojas en la cabeza, que brillan antes\n"
+"de lanzar una descarga ultrasónica a lo");
 static const u8 DexDescription_Tentacruel_2[] = _(
-  "This POKéMON’s outburst creates rough\n"
-  "waves around it.");
+"que le rodea. Este estallido crea unas\n"
+"olas tremendas a su alrededor.");
 #endif
 
 #ifdef SAPPHIRE
@@ -902,12 +905,13 @@ static const u8 DexDescription_Geodude_2[] = _(
   "downhill in search of food.");
 #else
 static const u8 DexDescription_Geodude_1[] = _(
-  "The longer a GEODUDE lives, the more\n"
-  "its edges are chipped and worn away,\n"
-  "making it more rounded in appearance.");
+"Cuanto más larga es la vida de Geodude,\n"
+"mayor es el desgaste y la erosión que\n"
+"sufre, y más redondeada la forma que va");
 static const u8 DexDescription_Geodude_2[] = _(
-  "However, this POKéMON’s heart will\n"
-  "remain hard, craggy, and rough always.");
+"adquiriendo. Sin embargo, el corazón\n"
+"permanece siempre duro, rocoso y\n"
+"tosco.");
 #endif
 
 #ifdef SAPPHIRE
@@ -921,12 +925,11 @@ static const u8 DexDescription_Graveler_2[] = _(
   "down to the bottom.");
 #else
 static const u8 DexDescription_Graveler_1[] = _(
-  "GRAVELER grows by feeding on rocks.\n"
-  "Apparently, it prefers to eat rocks\n"
-  "that are covered in moss.");
+"Graveler crece alimentándose a base de\n"
+"piedras. Y, según parece, las prefiere\n"
+"cubiertas de musgo. Cada día se abre");
 static const u8 DexDescription_Graveler_2[] = _(
-  "This POKéMON eats its way through\n"
-  "a ton of rocks on a daily basis.");
+"camino comiéndose toneladas de rocas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -940,46 +943,46 @@ static const u8 DexDescription_Golem_2[] = _(
   "diverting this POKéMON’s course.");
 #else
 static const u8 DexDescription_Golem_1[] = _(
-  "GOLEM live up on mountains.\n"
-  "If there is a large earthquake, these\n"
-  "POKéMON will come rolling down off");
+"Golem vive en las montañas. Si se\n"
+"produce un gran terremoto, estos\n"
+"Pokémon descienden rodando en masa por");
 static const u8 DexDescription_Golem_2[] = _(
-  "the mountains en masse to the\n"
-  "foothills below.");
+"las laderas.");
 #endif
 
 static const u8 DexDescription_Ponyta_1[] = _(
-  "PONYTA is very weak at birth.\n"
-  "It can barely stand up.\n"
-  "This POKéMON becomes stronger by");
+"Al nacer, Ponyta es muy débil y apenas\n"
+"puede ponerse en pie. Con todo, se va\n"
+"haciendo más fuerte al tropezarse y");
 static const u8 DexDescription_Ponyta_2[] = _(
-  "stumbling and falling to keep up with\n"
-  "its parent.");
+"caerse en su intento por seguir a sus\n"
+"progenitores.");
 
 static const u8 DexDescription_Rapidash_1[] = _(
-  "RAPIDASH usually can be seen casually\n"
-  "cantering in the fields and plains.\n"
-  "However, when this POKéMON turns");
+"A Rapidash se le suele ver trotando sin\n"
+"rumbo fijo por los campos y llanos.\n"
+"Pero cuando tiene que ir a algún sitio");
 static const u8 DexDescription_Rapidash_2[] = _(
-  "serious, its fiery manes flare and blaze\n"
-  "as it gallops its way up to 150 mph.");
+"en concreto, se le aviva el fuego y\n"
+"emprende el galope llameante llegando a\n"
+"240 km por hora.");
 
 static const u8 DexDescription_Slowpoke_1[] = _(
-  "SLOWPOKE uses its tail to catch prey by\n"
-  "dipping it in water at the side of a\n"
-  "river.");
+"Slowpoke usa la cola para atrapar a sus\n"
+"presas metiéndolas bajo el agua en las\n"
+"riberas de los ríos. Con todo, es");
 static const u8 DexDescription_Slowpoke_2[] = _(
-  "However, this POKéMON often forgets\n"
-  "what it’s doing and often spends entire\n"
-  "days just loafing at water’s edge.");
+"olvidadizo, se le puede pasar lo que\n"
+"estaba haciendo y quedarse días enteros\n"
+"holgazaneando en la orilla.");
 
 static const u8 DexDescription_Slowbro_1[] = _(
-  "SLOWBRO’s tail has a SHELLDER firmly\n"
-  "attached with a bite. As a result, the\n"
-  "tail can’t be used for fishing anymore.");
+"Slowbro lleva en la cola un Shellder\n"
+"enganchado, sujeto por los dientes.\n"
+"Como Slowbro no puede usar la cola para");
 static const u8 DexDescription_Slowbro_2[] = _(
-  "This causes SLOWBRO to grudgingly swim\n"
-  "and catch prey instead.");
+"pescar, se mete en el agua de mala gana\n"
+"en busca de sus presas.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Magnemite_1[] = _(
@@ -992,18 +995,18 @@ static const u8 DexDescription_Magnemite_2[] = _(
   "is depleted.");
 #else
 static const u8 DexDescription_Magnemite_1[] = _(
-  "MAGNEMITE attaches itself to power\n"
-  "lines to feed on electricity.\n"
-  "If your house has a power outage,");
+"Magnemite se engancha a las líneas de\n"
+"tensión para nutrirse de electricidad.\n"
+"Si se produce un apagón en tu casa,");
 static const u8 DexDescription_Magnemite_2[] = _(
-  "check your circuit breakers. You may\n"
-  "find a large number of this POKéMON\n"
-  "clinging to the breaker box.");
+"mira el automático, no vaya a ser que\n"
+"haya un montón de estos Pokémon\n"
+"colgados de la caja de fusibles.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Magneton_1[] = _(
-  "MAGNETON emits a powerful magnetic\n"
+  "ImánON emits a powerful magnetic\n"
   "force that is fatal to electronics and\n"
   "precision instruments. Because of");
 static const u8 DexDescription_Magneton_2[] = _(
@@ -1012,21 +1015,22 @@ static const u8 DexDescription_Magneton_2[] = _(
   "a POKé BALL.");
 #else
 static const u8 DexDescription_Magneton_1[] = _(
-  "MAGNETON emits a powerful magnetic\n"
-  "force that is fatal to mechanical\n"
-  "devices. As a result, large cities sound");
+"Magneton emite una fuerte energía\n"
+"magnética que causa estragos en los\n"
+"instrumentos mecánicos. Por ello, en");
 static const u8 DexDescription_Magneton_2[] = _(
-  "sirens to warn citizens of large-scale\n"
-  "outbreaks of this POKéMON.");
+"las ciudades se avisa con sirenas\n"
+"cuando hay concentraciones de estos\n"
+"Pokémon.");
 #endif
 
 static const u8 DexDescription_Farfetchd_1[] = _(
-  "FARFETCH’D is always seen with a stick\n"
-  "from a plant of some sort. Apparently,\n"
-  "there are good sticks and bad sticks.");
+"Farfetch’d lleva siempre una especie de\n"
+"palo de algún tipo de planta. Según\n"
+"parece, los hay mejores y peores. Tiene");
 static const u8 DexDescription_Farfetchd_2[] = _(
-  "This POKéMON has been known to fight\n"
-  "with others over sticks.");
+"fama de haber luchado contra otros\n"
+"Pokémon con distintos palos.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Doduo_1[] = _(
@@ -1039,12 +1043,12 @@ static const u8 DexDescription_Doduo_2[] = _(
   "sets of brains.");
 #else
 static const u8 DexDescription_Doduo_1[] = _(
-  "DODUO’s two heads never sleep at the\n"
-  "same time.\n"
-  "Its two heads take turns sleeping,");
+"Las dos cabezas de Doduo duermen de\n"
+"forma independiente, siempre por\n"
+"turnos. Así que mientras una duerme, la");
 static const u8 DexDescription_Doduo_2[] = _(
-  "so one head can always keep watch for\n"
-  "enemies while the other one sleeps.");
+"otra hace de centinela por si aparecen\n"
+"enemigos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1058,29 +1062,31 @@ static const u8 DexDescription_Dodrio_2[] = _(
   "distances without rest.");
 #else
 static const u8 DexDescription_Dodrio_1[] = _(
-  "Watch out if DODRIO’s three heads are\n"
-  "looking in three separate directions.\n"
-  "It’s a sure sign that it is on its guard.");
+"Hay que tener cuidado cuando las tres\n"
+"cabezas de Dodrio miran cada una para\n"
+"un lado, pues están en guardia. No te");
 static const u8 DexDescription_Dodrio_2[] = _(
-  "Don’t go near this POKéMON if it’s being\n"
-  "wary - it may decide to peck you.");
+"acerques a este Pokémon cuando está\n"
+"vigilando porque puede darte un\n"
+"picotazo.");
 #endif
 
 static const u8 DexDescription_Seel_1[] = _(
-  "SEEL hunts for prey in the frigid sea\n"
-  "underneath sheets of ice.\n"
-  "When it needs to breathe, it punches");
+"Seel busca a sus presas en aguas\n"
+"heladas, bajo las capas de hielo.\n"
+"Cuando necesita respirar, abre un");
 static const u8 DexDescription_Seel_2[] = _(
-  "a hole through the ice with the\n"
-  "sharply protruding section of its head.");
+"agujerito en el hielo con la afilada\n"
+"protuberancia que tiene encima de la\n"
+"cabeza.");
 
 static const u8 DexDescription_Dewgong_1[] = _(
-  "DEWGONG loves to snooze on bitterly\n"
-  "cold ice.\n"
-  "The sight of this POKéMON sleeping on");
+"A Dewgong le encanta dormitar sobre la\n"
+"frialdad del hielo. En una ocasión,\n"
+"algún marinero lo confundió con una");
 static const u8 DexDescription_Dewgong_2[] = _(
-  "a glacier was mistakenly thought to be\n"
-  "a mermaid by a mariner long ago.");
+"sirena al verlo dormido sobre un\n"
+"glaciar.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Grimer_1[] = _(
@@ -1092,12 +1098,12 @@ static const u8 DexDescription_Grimer_2[] = _(
   "infested fluid from all over its body.");
 #else
 static const u8 DexDescription_Grimer_1[] = _(
-  "GRIMER’s sludgy and rubbery body can\n"
-  "be forced through any opening, however\n"
-  "small it may be.");
+"El elástico cuerpo de lodo de Grimer le\n"
+"permite colarse por cualquier orificio,\n"
+"sea del tamaño que sea. Este Pokémon");
 static const u8 DexDescription_Grimer_2[] = _(
-  "This POKéMON enters sewer pipes to\n"
-  "drink filthy wastewater.");
+"entra en los bajantes de las cloacas\n"
+"para beberse el agua sucia.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1110,98 +1116,96 @@ static const u8 DexDescription_Muk_2[] = _(
   "streets, MUK are certain to gather.");
 #else
 static const u8 DexDescription_Muk_1[] = _(
-  "From MUK’s body seeps a foul fluid that\n"
-  "gives off a nose-bendingly horrible\n"
-  "stench.");
+"Muk emana por todo el cuerpo un fluido\n"
+"maloliente que obliga a taparse la\n"
+"nariz. Con sólo una gota de la");
 static const u8 DexDescription_Muk_2[] = _(
-  "Just one drop of this POKéMON’s body\n"
-  "fluid can turn a pool stagnant and\n"
-  "rancid.");
+"sustancia que exuda este Pokémon, se\n"
+"podría contaminar un estanque.");
 #endif
 
 static const u8 DexDescription_Shellder_1[] = _(
-  "At night, this POKéMON uses its broad\n"
-  "tongue to burrow a hole in the seafloor\n"
-  "sand and then sleep in it.");
+"Por la noche, este Pokémon usa la ancha\n"
+"lengua que tiene para hacer un agujero\n"
+"en el fondo del mar y echarse a dormir.");
 static const u8 DexDescription_Shellder_2[] = _(
-  "While it is sleeping, SHELLDER closes its\n"
-  "shell, but leaves its tongue hanging\n"
-  "out.");
+"Mientras duerme, Shellder cierra la\n"
+"concha, pero deja la lengua por fuera.");
 
 static const u8 DexDescription_Cloyster_1[] = _(
-  "CLOYSTER is capable of swimming in the\n"
-  "sea. It does so by swallowing water,\n"
-  "then jetting it out toward the rear.");
+"Cloyster es capaz de nadar por el mar.\n"
+"Su técnica consiste en tragar agua y\n"
+"expulsarla por el conducto que tiene en");
 static const u8 DexDescription_Cloyster_2[] = _(
-  "This POKéMON shoots spikes from its\n"
-  "shell using the same system.");
+"la parte trasera. Este mismo sistema es\n"
+"el que usa para lanzar los pinchos que\n"
+"tiene.");
 
 static const u8 DexDescription_Gastly_1[] = _(
-  "GASTLY is largely composed of gaseous\n"
-  "matter. When exposed to a strong wind,\n"
-  "the gaseous body quickly dwindles away.");
+"Gastly está compuesto en gran medida de\n"
+"materia gaseosa. Cuando hay viento, el\n"
+"aire arrastra parte de esta materia y");
 static const u8 DexDescription_Gastly_2[] = _(
-  "Groups of this POKéMON cluster under\n"
-  "the eaves of houses to escape the\n"
-  "ravages of wind.");
+"el Pokémon mengua. Suelen agruparse\n"
+"bajo los aleros de las casas para\n"
+"resguardarse del viento.");
 
 static const u8 DexDescription_Haunter_1[] = _(
-  "HAUNTER is a dangerous POKéMON.\n"
-  "If one beckons you while floating in\n"
-  "darkness, you must never approach it.");
+"Haunter es un Pokémon peligroso. Si en\n"
+"la oscuridad ves a uno flotando y\n"
+"haciéndote señas, no te acerques. Este");
 static const u8 DexDescription_Haunter_2[] = _(
-  "This POKéMON will try to lick you with its\n"
-  "tongue and steal your life away.");
+"Pokémon intentará darte lametazos para\n"
+"robarte la energía.");
 
 static const u8 DexDescription_Gengar_1[] = _(
-  "Sometimes, on a dark night, your shadow\n"
-  "thrown by a streetlight will suddenly\n"
-  "and startlingly overtake you.");
+"Si en alguna noche oscura ves que tu\n"
+"sombra sorprendentemente te adelanta de\n"
+"repente, piensa que lo que ves no es tu");
 static const u8 DexDescription_Gengar_2[] = _(
-  "It is actually a GENGAR running past\n"
-  "you, pretending to be your shadow.");
+"sombra, sino a Gengar haciéndose pasar\n"
+"por la misma.");
 
 static const u8 DexDescription_Onix_1[] = _(
-  "ONIX has a magnet in its brain. It acts\n"
-  "as a compass so that this POKéMON does\n"
-  "not lose direction while it is tunneling.");
+"Onix tiene un imán en el cerebro, que\n"
+"actúa como una brújula para no perder\n"
+"la orientación cuando está cavando");
 static const u8 DexDescription_Onix_2[] = _(
-  "As it grows older, its body becomes\n"
-  "increasingly rounder and smoother.");
+"túneles. A medida que crece, se le\n"
+"redondea y suaviza el cuerpo.");
 
 static const u8 DexDescription_Drowzee_1[] = _(
-  "If your nose becomes itchy while you\n"
-  "are sleeping, it’s a sure sign that one\n"
-  "of these POKéMON is standing above");
+"Si te pica la nariz mientras duermes,\n"
+"seguro que es porque tienes a uno de\n"
+"estos Pokémon cerca de la almohada");
 static const u8 DexDescription_Drowzee_2[] = _(
-  "your pillow and trying to eat your dream\n"
-  "through your nostrils.");
+"intentando sacarte los sueños por la\n"
+"nariz para comérselos.");
 
 static const u8 DexDescription_Hypno_1[] = _(
-  "HYPNO holds a pendulum in its hand.\n"
-  "The arcing movement and glitter of the\n"
-  "pendulum lull the foe into a deep state");
+"Hypno lleva un péndulo en la mano. El\n"
+"balanceo y el brillo que tiene sumen al\n"
+"rival en un estado de hipnosis");
 static const u8 DexDescription_Hypno_2[] = _(
-  "of hypnosis.\n"
-  "While this POKéMON searches for prey,\n"
-  "it polishes the pendulum.");
+"profundo. Mientras busca a su presa,\n"
+"saca brillo al péndulo.");
 
 static const u8 DexDescription_Krabby_1[] = _(
-  "KRABBY live on beaches, burrowed inside\n"
-  "holes dug into the sand.\n"
-  "On sandy beaches with little in the way");
+"Krabby vive en la playa, enterrado en\n"
+"agujeros en la arena. Cuando en las\n"
+"playas de arena fina escasea la comida,");
 static const u8 DexDescription_Krabby_2[] = _(
-  "of food, these POKéMON can be seen\n"
-  "squabbling with each other over\n"
-  "territory.");
+"es común ver a estos Pokémon echando un\n"
+"pulso panza contra panza en defensa de\n"
+"su territorio.");
 
 static const u8 DexDescription_Kingler_1[] = _(
-  "KINGLER has an enormous, oversized\n"
-  "claw. It waves this huge claw in the\n"
-  "air to communicate with others.");
+"Kingler tiene una pinza enorme y\n"
+"descomunal que usa agitándola en el\n"
+"aire para comunicarse con otros. Lo");
 static const u8 DexDescription_Kingler_2[] = _(
-  "However, because the claw is so heavy,\n"
-  "the POKéMON quickly tires.");
+"malo es que, al pesarle tanto, se cansa\n"
+"enseguida.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Voltorb_1[] = _(
@@ -1213,13 +1217,13 @@ static const u8 DexDescription_Voltorb_2[] = _(
   "powerful pulse of energy.");
 #else
 static const u8 DexDescription_Voltorb_1[] = _(
-  "VOLTORB was first sighted at a company\n"
-  "that manufactures POKé BALLS.\n"
-  "The link between that sighting and");
+"Voltorb fue visto por primera vez en\n"
+"una empresa encargada de comercializar\n"
+"POKé BALLS. La conexión que existe");
 static const u8 DexDescription_Voltorb_2[] = _(
-  "the fact that this POKéMON looks very\n"
-  "similar to a POKé BALL remains a\n"
-  "mystery.");
+"entre aquella primera vez que se le vio\n"
+"y el hecho de que se parece mucho a una\n"
+"POKé BALL es un misterio.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1233,71 +1237,74 @@ static const u8 DexDescription_Electrode_2[] = _(
   "that has just been generated.");
 #else
 static const u8 DexDescription_Electrode_1[] = _(
-  "ELECTRODE eats electricity in the\n"
-  "atmosphere. On days when lightning\n"
-  "strikes, you can see this POKéMON");
+"Los Electrode se alimentan de la\n"
+"electricidad de la atmósfera. En días\n"
+"de tormenta con rayos, es fácil verlos");
 static const u8 DexDescription_Electrode_2[] = _(
-  "exploding all over the place from\n"
-  "eating too much electricity.");
+"explotando por todos lados tras haber\n"
+"consumido demasiada electricidad.");
 #endif
 
 static const u8 DexDescription_Exeggcute_1[] = _(
-  "This POKéMON consists of six eggs that\n"
-  "form a closely knit cluster. The six eggs\n"
-  "attract each other and spin around.");
+"Este Pokémon está compuesto de seis\n"
+"huevos que forman una tupida piña que\n"
+"va girando. Cuando se empiezan a");
 static const u8 DexDescription_Exeggcute_2[] = _(
-  "When cracks increasingly appear on the\n"
-  "eggs, EXEGGCUTE is close to evolution.");
+"resquebrajar las cáscaras, no hay duda\n"
+"de que Exeggcute está a punto de\n"
+"evolucionar.");
 
 static const u8 DexDescription_Exeggutor_1[] = _(
-  "EXEGGUTOR originally came from the\n"
-  "tropics. Its heads steadily grow larger\n"
-  "from exposure to strong sunlight.");
+"Exeggutor es originario del trópico.\n"
+"Cuando se expone a un sol intenso, le\n"
+"empiezan a crecer las cabezas. Hay");
 static const u8 DexDescription_Exeggutor_2[] = _(
-  "It is said that when the heads fall off,\n"
-  "they group together to form EXEGGCUTE.");
+"quien dice que, cuando las cabezas caen\n"
+"al suelo, se unen para formar un\n"
+"Exeggcute.");
 
 static const u8 DexDescription_Cubone_1[] = _(
-  "CUBONE pines for the mother it will\n"
-  "never see again. Seeing a likeness of\n"
-  "its mother in the full moon, it cries.");
+"A Cubone le ahoga la pena porque no\n"
+"volverá a ver jamás a su madre. La luna\n"
+"le recuerda a ella y se pone a chillar.");
 static const u8 DexDescription_Cubone_2[] = _(
-  "The stains on the skull the POKéMON\n"
-  "wears are made by the tears it sheds.");
+"Los churretes que tiene en el cráneo,\n"
+"son debidos a las lágrimas que\n"
+"derrama.");
 
 static const u8 DexDescription_Marowak_1[] = _(
-  "MAROWAK is the evolved form of a CUBONE\n"
-  "that has overcome its sadness at the\n"
-  "loss of its mother and grown tough.");
+"Marowak es la forma evolucionada de\n"
+"Cubone. Es más fuerte porque ha\n"
+"superado la pena por la pérdida de su");
 static const u8 DexDescription_Marowak_2[] = _(
-  "This POKéMON’s tempered and hardened\n"
-  "spirit is not easily broken.");
+"madre. El ánimo de este Pokémon, ya\n"
+"curtido y fortalecido, no es muy fácil\n"
+"de alterar.");
 
 static const u8 DexDescription_Hitmonlee_1[] = _(
-  "HITMONLEE’s legs freely contract and\n"
-  "stretch. Using these springlike legs, it\n"
-  "bowls over foes with devastating kicks.");
+"Hitmonlee tiene la facilidad de encoger\n"
+"y estirar las patas. Con extremidades\n"
+"tan flexibles, propina unas patadas");
 static const u8 DexDescription_Hitmonlee_2[] = _(
-  "After battle, it rubs down its legs and\n"
-  "loosens the muscles to overcome\n"
-  "fatigue.");
+"demoledoras. Tras la lucha, se masajea\n"
+"las piernas y relaja los músculos para\n"
+"descansar.");
 
 static const u8 DexDescription_Hitmonchan_1[] = _(
-  "HITMONCHAN is said to possess the\n"
-  "spirit of a boxer who had been working\n"
-  "towards a world championship.");
+"Dicen que Hitmonchan tiene el alma de\n"
+"un boxeador que estuvo entrenándose\n"
+"para un campeonato mundial. Este");
 static const u8 DexDescription_Hitmonchan_2[] = _(
-  "This POKéMON has an indomitable spirit\n"
-  "and will never give up in the face of\n"
-  "adversity.");
+"Pokémon tiene un espíritu indomable que\n"
+"nunca se doblega ante la adversidad.");
 
 static const u8 DexDescription_Lickitung_1[] = _(
-  "Whenever LICKITUNG comes across\n"
-  "something new, it will unfailingly give it\n"
-  "a lick. It does so because it memorizes");
+"Cada vez que Lickitung se encuentra con\n"
+"algo que no conoce, le da un lametazo.\n"
+"Es la forma que tiene de memorizar las");
 static const u8 DexDescription_Lickitung_2[] = _(
-  "things by texture and by taste.\n"
-  "It is somewhat put off by sour things.");
+"cosas, por la textura y el sabor. No\n"
+"soporta los sabores ácidos.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Koffing_1[] = _(
@@ -1310,12 +1317,12 @@ static const u8 DexDescription_Koffing_2[] = _(
   "more gas is concocted by this POKéMON.");
 #else
 static const u8 DexDescription_Koffing_1[] = _(
-  "If KOFFING becomes agitated, it raises\n"
-  "the toxicity of its internal gases and\n"
-  "jets them out from all over its body.");
+"Si Koffing se pone nervioso, aumenta el\n"
+"nivel de toxicidad de los gases que\n"
+"tiene y los expulsa por todo el cuerpo.");
 static const u8 DexDescription_Koffing_2[] = _(
-  "This POKéMON may also overinflate its\n"
-  "round body, then explode.");
+"También suele hincharse mucho hasta\n"
+"llegar a explotar.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1329,13 +1336,13 @@ static const u8 DexDescription_Weezing_2[] = _(
   "POKéMON also becomes more putrid.");
 #else
 static const u8 DexDescription_Weezing_1[] = _(
-  "WEEZING loves the gases given off by\n"
-  "rotted kitchen garbage. This POKéMON\n"
-  "will find a dirty, unkempt house and");
+"A Weezing le encantan los gases que\n"
+"emanan de los desperdicios que quedan\n"
+"en la cocina. Este Pokémon busca casas");
 static const u8 DexDescription_Weezing_2[] = _(
-  "make it its home. At night, when the\n"
-  "people in the house are asleep, it will\n"
-  "go through the trash.");
+"sucias y abandonadas para crear su\n"
+"hogar. De noche, cuando los habitantes\n"
+"de la casa duermen, va a por la basura.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1348,13 +1355,13 @@ static const u8 DexDescription_Rhyhorn_2[] = _(
   "demolishes something.");
 #else
 static const u8 DexDescription_Rhyhorn_1[] = _(
-  "RHYHORN runs in a straight line,\n"
-  "smashing everything in its path.\n"
-  "It is not bothered even if it rushes");
+"Rhyhorn corre en línea recta arrasando\n"
+"todo lo que encuentra en su camino. Aun\n"
+"estrellándose de cabeza contra un");
 static const u8 DexDescription_Rhyhorn_2[] = _(
-  "headlong into a block of steel.\n"
-  "This POKéMON may feel some pain from\n"
-  "the collision the next day, however.");
+"bloque de acero, no se vería afectado.\n"
+"Bueno, como mucho notaría algo de dolor\n"
+"al día siguiente.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1368,40 +1375,40 @@ static const u8 DexDescription_Rhydon_2[] = _(
   "hide prevents it from feeling the heat.");
 #else
 static const u8 DexDescription_Rhydon_1[] = _(
-  "RHYDON’s horn can crush even uncut\n"
-  "diamonds. One sweeping blow of its tail\n"
-  "can topple a building.");
+"Rhydon tiene un cuerno capaz de horadar\n"
+"hasta un diamante en bruto. Y con una\n"
+"sacudida de la cola puede derribar un");
 static const u8 DexDescription_Rhydon_2[] = _(
-  "This POKéMON’s hide is extremely tough.\n"
-  "Even direct cannon hits don’t leave\n"
-  "a scratch.");
+"edificio. La piel de este Pokémon es\n"
+"muy fuerte; ni los disparos de un cañón\n"
+"le arañarían.");
 #endif
 
 static const u8 DexDescription_Chansey_1[] = _(
-  "CHANSEY lays nutritionally excellent\n"
-  "eggs on an everyday basis.\n"
-  "The eggs are so delicious, they are");
+"Chansey pone a diario huevos con un\n"
+"valor nutritivo altísimo. Están tan\n"
+"ricos que hasta quien no tenga hambre");
 static const u8 DexDescription_Chansey_2[] = _(
-  "easily and eagerly devoured by even\n"
-  "those people who have lost their\n"
-  "appetite.");
+"se los comerá en un abrir y cerrar de\n"
+"ojos.");
 
 static const u8 DexDescription_Tangela_1[] = _(
-  "TANGELA’s vines snap off easily if they\n"
-  "are grabbed. This happens without pain,\n"
-  "allowing it to make a quick getaway.");
+"A Tangela se le desprenden los\n"
+"tentáculos con facilidad en cuanto se\n"
+"los agarras. Y no sólo no le duele,");
 static const u8 DexDescription_Tangela_2[] = _(
-  "The lost vines are replaced by newly\n"
-  "grown vines the very next day.");
+"sino que le resulta muy útil para\n"
+"escapar rápido. Además, al día\n"
+"siguiente le crecen otros.");
 
 static const u8 DexDescription_Kangaskhan_1[] = _(
-  "If you come across a young KANGASKHAN\n"
-  "playing by itself, you must never\n"
-  "disturb it or attempt to catch it.");
+"Si te cruzas alguna vez con un\n"
+"Kangaskhan que esté jugando, no le\n"
+"molestes ni intentes atraparlo. Seguro");
 static const u8 DexDescription_Kangaskhan_2[] = _(
-  "The baby POKéMON’s parent is sure to\n"
-  "be in the area, and it will become\n"
-  "violently enraged at you.");
+"que estará cerca alguno de sus\n"
+"progenitores, que reaccionará con\n"
+"enfado y violencia.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Horsea_1[] = _(
@@ -1413,12 +1420,13 @@ static const u8 DexDescription_Horsea_2[] = _(
   "the fins on its back.");
 #else
 static const u8 DexDescription_Horsea_1[] = _(
-  "HORSEA eats small insects and moss off\n"
-  "of rocks. If the ocean current turns\n"
-  "fast, this POKéMON anchors itself by");
+"Horsea come insectos pequeños y el\n"
+"musgo de las rocas. Si las corrientes\n"
+"del océano cobran fuerza, este Pokémon");
 static const u8 DexDescription_Horsea_2[] = _(
-  "wrapping its tail around rocks or coral\n"
-  "to prevent being washed away.");
+"se anclará con la cola a rocas o\n"
+"corales para evitar que las aguas lo\n"
+"arrastren.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1431,12 +1439,12 @@ static const u8 DexDescription_Seadra_2[] = _(
   "currents, then swallows it whole.");
 #else
 static const u8 DexDescription_Seadra_1[] = _(
-  "SEADRA sleeps after wriggling itself\n"
-  "between the branches of coral.\n"
-  "Those trying to harvest coral are");
+"Seadra se echa a dormir tras abrirse un\n"
+"hueco entre las ramas de los corales.\n"
+"Los amantes de estos animales marinos");
 static const u8 DexDescription_Seadra_2[] = _(
-  "occasionally stung by this POKéMON’s\n"
-  "poison barbs if they fail to notice it.");
+"suelen pincharse con las púas venenosas\n"
+"de estos Pokémon si no los ven.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1450,12 +1458,12 @@ static const u8 DexDescription_Goldeen_2[] = _(
   "and make its escape.");
 #else
 static const u8 DexDescription_Goldeen_1[] = _(
-  "GOLDEEN is a very beautiful POKéMON\n"
-  "with fins that billow elegantly in water.\n"
-  "However, don’t let your guard down");
+"Goldeen es un bello Pokémon que mueve\n"
+"con elegancia las aletas en el agua.\n"
+"Con todo, no hay que bajar la guardia,");
 static const u8 DexDescription_Goldeen_2[] = _(
-  "around this POKéMON - it could ram you\n"
-  "powerfully with its horn.");
+"en cualquier momento puede embestirte\n"
+"con el cuerno.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1468,12 +1476,13 @@ static const u8 DexDescription_Seaking_2[] = _(
   "goes on for over a month.");
 #else
 static const u8 DexDescription_Seaking_1[] = _(
-  "In the autumn, SEAKING males can be\n"
-  "seen performing courtship dances in\n"
-  "riverbeds to woo females.");
+"En otoño, se ven ejemplares de Seaking\n"
+"macho danzando en las riberas de los\n"
+"ríos para cortejar a las hembras. En");
 static const u8 DexDescription_Seaking_2[] = _(
-  "During this season, this POKéMON’s body\n"
-  "coloration is at its most beautiful.");
+"esta época, la coloración de este\n"
+"Pokémon alcanza sus niveles máximos de\n"
+"belleza.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1487,13 +1496,13 @@ static const u8 DexDescription_Staryu_2[] = _(
   "missing pieces and limbs.");
 #else
 static const u8 DexDescription_Staryu_1[] = _(
-  "STARYU’s center section has an organ\n"
-  "called the core that shines bright red.\n"
-  "If you go to a beach toward the");
+"Staryu posee un órgano central conocido\n"
+"como su núcleo, que brilla con una luz\n"
+"roja. Si vas a la playa a finales de");
 static const u8 DexDescription_Staryu_2[] = _(
-  "end of summer, the glowing cores of\n"
-  "these POKéMON look like the stars\n"
-  "in the sky.");
+"verano, podrás ver los núcleos de estos\n"
+"Pokémon brillando como las estrellas\n"
+"del cielo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1506,57 +1515,58 @@ static const u8 DexDescription_Starmie_2[] = _(
   "POKéMON’s body glows in seven colors.");
 #else
 static const u8 DexDescription_Starmie_1[] = _(
-  "STARMIE’s center section - the core -\n"
-  "glows brightly in seven colors.\n"
-  "Because of its luminous nature, this");
+"La parte central de Starmie (el núcleo\n"
+"brillante) resplandece con siete\n"
+"colores distintos. Debido a su");
 static const u8 DexDescription_Starmie_2[] = _(
-  "POKéMON has been given the nickname\n"
-  "“the gem of the sea.”");
+"Naturaleza luminosa, a este Pokémon se\n"
+"le ha dado el apelativo de “la gema del\n"
+"mar”.");
 #endif
 
 static const u8 DexDescription_Mrmime_1[] = _(
-  "MR. MIME is a master of pantomime.\n"
-  "Its gestures and motions convince\n"
-  "watchers that something unseeable");
+"Mr. Mime es un experto en pantomima.\n"
+"Con sus gestos y movimientos es capaz\n"
+"de convencer a sus espectadores de que");
 static const u8 DexDescription_Mrmime_2[] = _(
-  "actually exists. Once it is believed,\n"
-  "it will exist as if it were a real thing.");
+"algo existe, cuando en realidad no es\n"
+"así. Pero, cuando el público se lo\n"
+"cree, las ilusiones se hacen realidad.");
 
 static const u8 DexDescription_Scyther_1[] = _(
-  "SCYTHER is blindingly fast. Its blazing\n"
-  "speed enhances the effectiveness of\n"
-  "the twin scythes on its forearms.");
+"Es espectacular ver lo rápido que es\n"
+"Scyther. Su increíble velocidad\n"
+"refuerza el efecto del par de guadañas");
 static const u8 DexDescription_Scyther_2[] = _(
-  "This POKéMON’s scythes are so\n"
-  "effective, they can slice through thick\n"
-  "logs in one wicked stroke.");
+"que tiene en los brazos, que ya son de\n"
+"por sí contundentes; rebanan gruesos\n"
+"troncos de un tajo.");
 
 static const u8 DexDescription_Jynx_1[] = _(
-  "JYNX walks rhythmically, swaying and\n"
-  "shaking its hips as if it were dancing.\n"
-  "Its motions are so bouncingly alluring,");
+"Jynx camina con ritmo, balanceándose y\n"
+"moviendo las caderas como si estuviera\n"
+"bailando. Realiza unos movimientos tan");
 static const u8 DexDescription_Jynx_2[] = _(
-  "people seeing it are compelled to shake\n"
-  "their hips without giving any thought\n"
-  "to what they are doing.");
+"vistosos y atractivos que no hay quien\n"
+"pueda resistirse a mover las caderas.");
 
 static const u8 DexDescription_Electabuzz_1[] = _(
-  "When a storm arrives, gangs of this\n"
-  "POKéMON compete with each other to\n"
-  "scale heights that are likely to be");
+"Al desatarse una tormenta, bandadas de\n"
+"estos Pokémon se enfrentan entre sí\n"
+"para ver quién alcanza antes sitios");
 static const u8 DexDescription_Electabuzz_2[] = _(
-  "stricken by lightning bolts.\n"
-  "Some towns use ELECTABUZZ in place of\n"
-  "lightning rods.");
+"altos en los que suelan caer rayos. Hay\n"
+"ciudades que usan Electabuzz en lugar\n"
+"de pararrayos.");
 
 static const u8 DexDescription_Magmar_1[] = _(
-  "In battle, MAGMAR blows out intensely\n"
-  "hot flames from all over its body to\n"
-  "intimidate its opponent.");
+"Al luchar, Magmar expulsa violentas\n"
+"llamas por todo el cuerpo para\n"
+"intimidar a su rival. Estos estallidos");
 static const u8 DexDescription_Magmar_2[] = _(
-  "This POKéMON’s fiery bursts create\n"
-  "heat waves that ignite grass and trees\n"
-  "in its surroundings.");
+"de fuego crean ondas de calor que\n"
+"Abrasan la hierba y los árboles que\n"
+"haya en las proximidades.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Pinsir_1[] = _(
@@ -1569,21 +1579,23 @@ static const u8 DexDescription_Pinsir_2[] = _(
   "making it tough for the foe to escape.");
 #else
 static const u8 DexDescription_Pinsir_1[] = _(
-  "PINSIR is astoundingly strong. It can\n"
-  "grip a foe weighing twice its weight\n"
-  "in its horns and easily lift it.");
+"Pinsir es sorprendentemente grande.\n"
+"Puede agarrar con los cuernos a un\n"
+"rival que pese el doble que él y");
 static const u8 DexDescription_Pinsir_2[] = _(
-  "This POKéMON’s movements turn sluggish\n"
-  "in cold places.");
+"levantarlo por los aires. En zonas\n"
+"frías, los movimientos de este Pokémon\n"
+"se vuelven lentos.");
 #endif
 
 static const u8 DexDescription_Tauros_1[] = _(
-  "This POKéMON is not satisfied unless\n"
-  "it is rampaging at all times.\n"
-  "If there is no opponent for TAUROS to");
+"Este Pokémon no está contento a menos\n"
+"que esté continuamente de aquí para\n"
+"allá. Si no hay rival que luche contra");
 static const u8 DexDescription_Tauros_2[] = _(
-  "battle, it will charge at thick trees and\n"
-  "knock them down to calm itself.");
+"Tauros, se estampa contra árboles\n"
+"grandes para calmarse y los embiste\n"
+"para echarlos abajo.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Magikarp_1[] = _(
@@ -1596,12 +1608,12 @@ static const u8 DexDescription_Magikarp_2[] = _(
   "water no matter how polluted it is.");
 #else
 static const u8 DexDescription_Magikarp_1[] = _(
-  "MAGIKARP is a pathetic excuse for a\n"
-  "POKéMON that is only capable of\n"
-  "flopping and splashing.");
+"Magikarp es el triste ejemplo de un\n"
+"Pokémon capaz únicamente de saltar y\n"
+"salpicar. Esta conducta llevó a");
 static const u8 DexDescription_Magikarp_2[] = _(
-  "This behavior prompted scientists to\n"
-  "undertake research into it.");
+"científicos a estudiarlo en\n"
+"profundidad.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1614,336 +1626,342 @@ static const u8 DexDescription_Gyarados_2[] = _(
   "rampages lasting a whole month.");
 #else
 static const u8 DexDescription_Gyarados_1[] = _(
-  "When MAGIKARP evolves into GYARADOS,\n"
-  "its brain cells undergo a structural\n"
-  "transformation. It is said that this");
+"Cuando Magikarp evoluciona y se\n"
+"convierte en Gyarados, sufre un cambio\n"
+"estructural en las células del cerebro.");
 static const u8 DexDescription_Gyarados_2[] = _(
-  "transformation is to blame for this\n"
-  "POKéMON’s wildly violent nature.");
+"Dicen que esa transformación es la\n"
+"causa de la Naturaleza violenta y\n"
+"salvaje de este Pokémon.");
 #endif
 
 static const u8 DexDescription_Lapras_1[] = _(
-  "People have driven LAPRAS almost to the\n"
-  "point of extinction. In the evenings,\n"
-  "this POKéMON is said to sing plaintively");
+"Por culpa de la gente, Lapras está casi\n"
+"en extinción. Dicen que, al anochecer,\n"
+"se pone a cantar quejicoso mientras");
 static const u8 DexDescription_Lapras_2[] = _(
-  "as it seeks what few others of its kind\n"
-  "still remain.");
+"busca a los miembros de su especie que\n"
+"puedan quedar.");
 
 static const u8 DexDescription_Ditto_1[] = _(
-  "DITTO rearranges its cell structure to\n"
-  "transform itself into other shapes.\n"
-  "However, if it tries to transform itself");
+"Ditto reorganiza la estructura de sus\n"
+"células para adoptar otras formas. Pero\n"
+"como intente transformarse en algo");
 static const u8 DexDescription_Ditto_2[] = _(
-  "into something by relying on its memory,\n"
-  "this POKéMON manages to get details\n"
-  "wrong.");
+"guiándose por los datos que tenga\n"
+"almacenados en la memoria, habrá\n"
+"detalles que se le escapen.");
 
 static const u8 DexDescription_Eevee_1[] = _(
-  "EEVEE has an unstable genetic makeup\n"
-  "that suddenly mutates due to the\n"
-  "environment in which it lives.");
+"La configuración genética de Eevee le\n"
+"permite mutar y adaptarse enseguida a\n"
+"cualquier medio en el que viva. La");
 static const u8 DexDescription_Eevee_2[] = _(
-  "Radiation from various STONES causes\n"
-  "this POKéMON to evolve.");
+"evolución de este Pokémon es posible\n"
+"gracias a las radiaciones emitidas por\n"
+"varias PIEDRAS.");
 
 static const u8 DexDescription_Vaporeon_1[] = _(
-  "VAPOREON underwent a spontaneous\n"
-  "mutation and grew fins and gills that\n"
-  "allow it to live underwater.");
+"Vaporeon sufrió una mutación repentina\n"
+"y desarrolló aletas y branquias que le\n"
+"permiten vivir bajo el agua. Asimismo,");
 static const u8 DexDescription_Vaporeon_2[] = _(
-  "This POKéMON has the ability to freely\n"
-  "control water.");
+"este Pokémon tiene la habilidad de\n"
+"controlar las aguas.");
 
 static const u8 DexDescription_Jolteon_1[] = _(
-  "JOLTEON’s cells generate a low level of\n"
-  "electricity. This power is amplified by\n"
-  "the static electricity of its fur,");
+"Las células de Jolteon generan un nivel\n"
+"bajo de electricidad, cuya intensidad\n"
+"aumenta con la electricidad estática");
 static const u8 DexDescription_Jolteon_2[] = _(
-  "enabling the POKéMON to drop\n"
-  "thunderbolts. The bristling fur is made\n"
-  "of electrically charged needles.");
+"que acumula en un pelaje formado por\n"
+"agujas cargadas de electricidad. Esta\n"
+"característica le permite lanzar");
 
 static const u8 DexDescription_Flareon_1[] = _(
-  "FLAREON’s fluffy fur has a functional\n"
-  "purpose - it releases heat into the air\n"
-  "so that its body does not get");
+"La suavidad del pelaje de Flareon tiene\n"
+"una función clara: libera calor para\n"
+"que el Pokémon no se asfixie. La");
 static const u8 DexDescription_Flareon_2[] = _(
-  "excessively hot.\n"
-  "This POKéMON’s body temperature can\n"
-  "rise to a maximum of 1,650 degrees F.");
+"temperatura corporal de este Pokémon\n"
+"puede alcanzar los 900 grados\n"
+"centígrados.");
 
 static const u8 DexDescription_Porygon_1[] = _(
-  "PORYGON is capable of reverting itself\n"
-  "entirely back to program data and\n"
-  "entering cyberspace.");
+"Porygon es capaz de convertirse otra\n"
+"vez en datos informáticos y de entrar\n"
+"en el ciberespacio. Tiene protección");
 static const u8 DexDescription_Porygon_2[] = _(
-  "This POKéMON is copy-protected so it\n"
-  "cannot be duplicated by copying.");
+"anti-copia, así que es imposible\n"
+"duplicarlo.");
 
 static const u8 DexDescription_Omanyte_1[] = _(
-  "OMANYTE is one of the ancient and long-\n"
-  "since-extinct POKéMON that have been\n"
-  "regenerated from fossils by people.");
+"Omanyte es uno de esos Pokémon\n"
+"ancestrales que se extinguieron hace\n"
+"muchísimo tiempo y que la gente ha");
 static const u8 DexDescription_Omanyte_2[] = _(
-  "If attacked by an enemy, it withdraws\n"
-  "itself inside its hard shell.");
+"recuperado a partir de fósiles. Si un\n"
+"enemigo le ataca, se esconderá dentro\n"
+"de la dura concha que tiene.");
 
 static const u8 DexDescription_Omastar_1[] = _(
-  "OMASTAR uses its tentacles to capture\n"
-  "its prey. It is believed to have become\n"
-  "extinct because its shell grew too large");
+"Omastar usa los tentáculos para atrapar\n"
+"a su presa. Se cree que el motivo de su\n"
+"extinción fue el tamaño y el peso que");
 static const u8 DexDescription_Omastar_2[] = _(
-  "and heavy, causing its movements to\n"
-  "become too slow and ponderous.");
+"llegó a alcanzar la concha que lleva a\n"
+"cuestas, lo que le entorpeció y\n"
+"ralentizó los movimientos.");
 
 static const u8 DexDescription_Kabuto_1[] = _(
-  "KABUTO is a POKéMON that has been\n"
-  "regenerated from a fossil. However, in\n"
-  "extremely rare cases, living examples");
+"Kabuto es un Pokémon regenerado a\n"
+"partir de un fósil. Aunque, en raras\n"
+"ocasiones, se han encontrado casos de");
 static const u8 DexDescription_Kabuto_2[] = _(
-  "have been discovered.\n"
-  "The POKéMON has not changed at all for\n"
-  "300 million years.");
+"ejemplares vivos. En sus 300 millones\n"
+"de años, este Pokémon no ha cambiado en\n"
+"nada.");
 
 static const u8 DexDescription_Kabutops_1[] = _(
-  "KABUTOPS swam underwater to hunt for\n"
-  "its prey in ancient times.\n"
-  "The POKéMON was apparently evolving");
+"Hace mucho tiempo Kabutops buceaba para\n"
+"atrapar a su presa. Ahora este Pokémon\n"
+"ha evolucionado y ha cambiado su");
 static const u8 DexDescription_Kabutops_2[] = _(
-  "from being a water-dweller to living on\n"
-  "land as evident from the beginnings of\n"
-  "change in its gills and legs.");
+"hábitat; del agua ha pasado a la\n"
+"tierra. El cambio que se aprecia en las\n"
+"patas y branquias así lo confirma.");
 
 static const u8 DexDescription_Aerodactyl_1[] = _(
-  "AERODACTYL is a POKéMON from the age\n"
-  "of dinosaurs. It was regenerated from\n"
-  "genetic material extracted from amber.");
+"Los orígenes de Aerodactyl datan de la\n"
+"era de los dinosaurios. Se regeneró a\n"
+"partir de material genético contenido");
 static const u8 DexDescription_Aerodactyl_2[] = _(
-  "It is imagined to have been the king of\n"
-  "the skies in ancient times.");
+"en ámbar. Se supone que fue el amo de\n"
+"los cielos en épocas pasadas.");
 
 static const u8 DexDescription_Snorlax_1[] = _(
-  "SNORLAX’s typical day consists of\n"
-  "nothing more than eating and sleeping.\n"
-  "It is such a docile POKéMON that there");
+"Un día cualquiera en la vida de Snorlax\n"
+"consiste nada más y nada menos que en\n"
+"comer y dormir. Es un Pokémon tan dócil");
 static const u8 DexDescription_Snorlax_2[] = _(
-  "are children who use its expansive belly\n"
-  "as a place to play.");
+"que es fácil ver niños usando la gran\n"
+"panza que tiene como lugar de juegos.");
 
 static const u8 DexDescription_Articuno_1[] = _(
-  "ARTICUNO is a legendary bird POKéMON\n"
-  "that can control ice.\n"
-  "The flapping of its wings chills the air.");
+"Articuno es un legendario pájaro\n"
+"Pokémon que puede controlar el hielo.\n"
+"El batir de sus alas congela el aire.");
 static const u8 DexDescription_Articuno_2[] = _(
-  "As a result, it is said that when this\n"
-  "POKéMON flies, snow will fall.");
+"Dicen que consigue hacer que nieve\n"
+"cuando vuela.");
 
 static const u8 DexDescription_Zapdos_1[] = _(
-  "ZAPDOS is a legendary bird POKéMON that\n"
-  "has the ability to control electricity.\n"
-  "It usually lives in thunderclouds.");
+"Zapdos es un legendario pájaro Pokémon\n"
+"que tiene la habilidad de controlar la\n"
+"electricidad. Suele vivir en");
 static const u8 DexDescription_Zapdos_2[] = _(
-  "The POKéMON gains power if it is\n"
-  "stricken by lightning bolts.");
+"nubarrones. Este Pokémon gana mucha\n"
+"fuerza si le alcanzan los rayos.");
 
 static const u8 DexDescription_Moltres_1[] = _(
-  "MOLTRES is a legendary bird POKéMON\n"
-  "that has the ability to control fire.\n"
-  "If this POKéMON is injured, it is said to");
+"Moltres es un legendario pájaro Pokémon\n"
+"que tiene la habilidad de controlar el\n"
+"fuego. Dicen que, si resulta herido, se");
 static const u8 DexDescription_Moltres_2[] = _(
-  "dip its body in the molten magma of a\n"
-  "volcano to burn and heal itself.");
+"sumerge en el líquido magma de un\n"
+"volcán para arder y curarse.");
 
 static const u8 DexDescription_Dratini_1[] = _(
-  "DRATINI continually molts and sloughs\n"
-  "off its old skin.\n"
-  "It does so because the life energy");
+"Dratini muda y se despoja de la vieja\n"
+"piel continuamente. Es algo que\n"
+"necesita hacer porque la energía que");
 static const u8 DexDescription_Dratini_2[] = _(
-  "within its body steadily builds to reach\n"
-  "uncontrollable levels.");
+"tiene en su interior no para de\n"
+"alcanzar niveles incontrolables.");
 
 static const u8 DexDescription_Dragonair_1[] = _(
-  "DRAGONAIR stores an enormous amount\n"
-  "of energy inside its body.\n"
-  "It is said to alter weather conditions");
+"Dragonair acumula grandes cantidades de\n"
+"energía dentro de sí. Dicen que altera\n"
+"el clima de la zona en la que está,");
 static const u8 DexDescription_Dragonair_2[] = _(
-  "in its vicinity by discharging energy\n"
-  "from the crystals on its neck and tail.");
+"descargando energía a través de las\n"
+"esferas de cristal que tiene en el\n"
+"cuello y en la cola.");
 
 static const u8 DexDescription_Dragonite_1[] = _(
-  "DRAGONITE is capable of circling the\n"
-  "globe in just sixteen hours.\n"
-  "It is a kindhearted POKéMON that leads");
+"Dragonite es capaz de dar la vuelta al\n"
+"mundo en sólo 16 horas. Es un Pokémon\n"
+"de buen corazón que guía hasta tierra a");
 static const u8 DexDescription_Dragonite_2[] = _(
-  "lost and foundering ships in a storm to\n"
-  "the safety of land.");
+"los barcos que se encuentran perdidos\n"
+"en plena tormenta y a punto de\n"
+"zozobrar.");
 
 static const u8 DexDescription_Mewtwo_1[] = _(
-  "MEWTWO is a POKéMON that was created\n"
-  "by genetic manipulation.\n"
-  "However, even though the scientific");
+"Mewtwo fue creado por manipulación\n"
+"genética. Pero, a pesar de que el\n"
+"hombre creó su cuerpo, dotar a Mewtwo");
 static const u8 DexDescription_Mewtwo_2[] = _(
-  "power of humans created this POKéMON’s\n"
-  "body, they failed to endow MEWTWO with\n"
-  "a compassionate heart.");
+"de un corazón compasivo quedó en el\n"
+"olvido.");
 
 static const u8 DexDescription_Mew_1[] = _(
-  "MEW is said to possess the genetic\n"
-  "composition of all POKéMON.\n"
-  "It is capable of making itself invisible");
+"Dicen que Mew posee el mapa genético de\n"
+"todos los Pokémon. Puede hacerse\n"
+"invisible cuando quiere, así que pasa");
 static const u8 DexDescription_Mew_2[] = _(
-  "at will, so it entirely avoids notice even\n"
-  "if it approaches people.");
+"desapercibido cada vez que se le acerca\n"
+"alguien.");
 
 static const u8 DexDescription_Chikorita_1[] = _(
-  "In battle, CHIKORITA waves its leaf\n"
-  "around to keep the foe at bay.\n"
-  "However, a sweet fragrance also wafts");
+"Al luchar, Chikorita agita la hoja que\n"
+"tiene para mantener a raya al rival.\n"
+"Pero, al mismo tiempo, libera una suave");
 static const u8 DexDescription_Chikorita_2[] = _(
-  "from the leaf, becalming the battling\n"
-  "POKéMON and creating a cozy, friendly\n"
-  "atmosphere all around.");
+"fragancia que apacigua el encuentro y\n"
+"crea un ambiente agradable y de\n"
+"amistad.");
 
 static const u8 DexDescription_Bayleef_1[] = _(
-  "BAYLEEF’s neck is ringed by curled-up\n"
-  "leaves. Inside each tubular leaf is a\n"
-  "small shoot of a tree.");
+"Bayleef tiene un collar de hojas\n"
+"alrededor del cuello y un brote de un\n"
+"árbol en cada una de ellas. La");
 static const u8 DexDescription_Bayleef_2[] = _(
-  "The fragrance of this shoot makes\n"
-  "people peppy.");
+"fragancia que desprenden estos brotes\n"
+"anima a la gente.");
 
 static const u8 DexDescription_Meganium_1[] = _(
-  "The fragrance of MEGANIUM’s flower\n"
-  "soothes and calms emotions.\n"
-  "In battle, this POKéMON gives off more");
+"La fragancia de la flor de Meganium\n"
+"aplaca y suaviza los ánimos. Al luchar,\n"
+"este Pokémon libera mayor cantidad de");
 static const u8 DexDescription_Meganium_2[] = _(
-  "of its becalming scent to blunt the\n"
-  "foe’s fighting spirit.");
+"esencia para disminuir el ánimo de\n"
+"combate de su oponente.");
 
 static const u8 DexDescription_Cyndaquil_1[] = _(
-  "CYNDAQUIL protects itself by flaring up\n"
-  "the flames on its back.\n"
-  "The flames are vigorous if the POKéMON");
+"Cyndaquil se protege soltando llamas\n"
+"por el lomo. Cuando está enfadado, las\n"
+"llamas son fieras, pero si está cansado");
 static const u8 DexDescription_Cyndaquil_2[] = _(
-  "is angry. However, if it is tired, the\n"
-  "flames splutter fitfully with incomplete\n"
-  "combustion.");
+"sólo consigue echar algunas chispas que\n"
+"no llegan a cuajar en una completa\n"
+"combustión.");
 
 static const u8 DexDescription_Quilava_1[] = _(
-  "QUILAVA keeps its foes at bay with the\n"
-  "intensity of its flames and gusts of\n"
-  "superheated air.");
+"Quilava mantiene a sus rivales a raya\n"
+"con la intensidad de sus llamas y las\n"
+"ráfagas de aire ígneo. Este Pokémon usa");
 static const u8 DexDescription_Quilava_2[] = _(
-  "This POKéMON applies its outstanding\n"
-  "nimbleness to dodge attacks even while\n"
-  "scorching the foe with flames.");
+"su espectacular ingenio para esquivar\n"
+"ataques hasta cuando Abrasa al rival\n"
+"con sus llamas.");
 
 static const u8 DexDescription_Typhlosion_1[] = _(
-  "TYPHLOSION obscures itself behind a\n"
-  "shimmering heat haze that it creates\n"
-  "using its intensely hot flames.");
+"Typhlosion se oculta tras un trémulo\n"
+"haz de calor que crea mediante sus\n"
+"intensas y sofocantes llamaradas. Este");
 static const u8 DexDescription_Typhlosion_2[] = _(
-  "This POKéMON creates blazing explosive\n"
-  "blasts that burn everything to cinders.");
+"Pokémon causa explosiones de fuego que\n"
+"reducen todo a cenizas.");
 
 static const u8 DexDescription_Totodile_1[] = _(
-  "Despite the smallness of its body,\n"
-  "TOTODILE’s jaws are very powerful.\n"
-  "While the POKéMON may think it is just");
+"Totodile tiene cuerpo pequeño, pero\n"
+"fuertes mandíbulas. A veces, piensa que\n"
+"sólo está dando un mordisquito y hace");
 static const u8 DexDescription_Totodile_2[] = _(
-  "playfully nipping, its bite has enough\n"
-  "power to cause serious injury.");
+"unas heridas bastante considerables.");
 
 static const u8 DexDescription_Croconaw_1[] = _(
-  "Once CROCONAW has clamped its jaws on\n"
-  "its foe, it will absolutely not let go.\n"
-  "Because the tips of its fangs are");
+"Una vez que Croconaw le ha clavado los\n"
+"colmillos a su presa, es imposible que\n"
+"escape porque los tiene hacia adentro");
 static const u8 DexDescription_Croconaw_2[] = _(
-  "forked back like barbed fishhooks, they\n"
-  "become impossible to remove when \n"
-  "they have sunk in.");
+"como si fueran anzuelos. Cuando\n"
+"Croconaw hinca los dientes, no hay\n"
+"escapatoria.");
 
 static const u8 DexDescription_Feraligatr_1[] = _(
-  "FERALIGATR intimidates its foes by\n"
-  "opening its huge mouth.\n"
-  "In battle, it will kick the ground hard");
+"Feraligatr intimida a sus oponentes\n"
+"abriendo las grandes fauces que tiene.\n"
+"En combate, golpea el suelo bruscamente");
 static const u8 DexDescription_Feraligatr_2[] = _(
-  "with its thick and powerful hind legs to\n"
-  "charge at the foe at an incredible\n"
-  "speed.");
+"con las gruesas y fuertes patas\n"
+"traseras que tiene para cargar contra\n"
+"su rival a una velocidad de vértigo.");
 
 static const u8 DexDescription_Sentret_1[] = _(
-  "When SENTRET sleeps, it does so while\n"
-  "another stands guard. The sentry wakes\n"
-  "the others at the first sign of danger.");
+"Sentret no duerme a menos que otro haga\n"
+"guardia. El que hace de centinela lo\n"
+"despertará al mínimo signo de peligro.");
 static const u8 DexDescription_Sentret_2[] = _(
-  "When this POKéMON becomes separated\n"
-  "from its pack, it becomes incapable of\n"
-  "sleep due to fear.");
+"Cuando este Pokémon se separa de su\n"
+"manada, es incapaz de echarse a dormir,\n"
+"presa del miedo.");
 
 static const u8 DexDescription_Furret_1[] = _(
-  "FURRET has a very slim build.\n"
-  "When under attack, it can slickly squirm\n"
-  "through narrow spaces and get away.");
+"Furret es de constitución muy delgada.\n"
+"En combate le resulta útil porque puede\n"
+"escabullirse con habilidad por");
 static const u8 DexDescription_Furret_2[] = _(
-  "In spite of its short limbs, this\n"
-  "POKéMON is very nimble and fleet.");
+"cualquier huequito y escapar. A pesar\n"
+"de que tiene patas cortas, es ágil y\n"
+"veloz.");
 
 static const u8 DexDescription_Hoothoot_1[] = _(
-  "HOOTHOOT has an internal organ that\n"
-  "senses and tracks the earth’s rotation.\n"
-  "Using this special organ, this POKéMON");
+"Hoothoot tiene un órgano interno que\n"
+"identifica y percibe la rotación de la\n"
+"tierra. Gracias a este órgano, el");
 static const u8 DexDescription_Hoothoot_2[] = _(
-  "begins hooting at precisely the same\n"
-  "time every day.");
+"Pokémon ulula todos los días a la misma\n"
+"hora.");
 
 static const u8 DexDescription_Noctowl_1[] = _(
-  "NOCTOWL never fails at catching prey in\n"
-  "darkness. This POKéMON owes its\n"
-  "success to its superior vision that");
+"Noctowl no falla a la hora de cazar a\n"
+"su presa en la oscuridad. El éxito se\n"
+"lo debe a una vista privilegiada, que");
 static const u8 DexDescription_Noctowl_2[] = _(
-  "allows it to see in minimal light, and to\n"
-  "its soft,  supple wings that make no\n"
-  "sound in flight.");
+"le permite ver donde apenas hay luz, y\n"
+"a las ligeras y flexibles alas que\n"
+"tiene.");
 
 static const u8 DexDescription_Ledyba_1[] = _(
-  "LEDYBA secretes an aromatic fluid from\n"
-  "where its legs join its body. This fluid\n"
-  "is used for communicating with others.");
+"Ledyba segrega un fluido aromático por\n"
+"los seis puntos de unión que tiene\n"
+"entre las patas y el cuerpo. A través");
 static const u8 DexDescription_Ledyba_2[] = _(
-  "This POKéMON conveys its feelings to\n"
-  "others by altering the fluid’s scent.");
+"de este fluido se comunica con otros y\n"
+"les informa acerca de sus sentimientos\n"
+"variando la esencia.");
 
 static const u8 DexDescription_Ledian_1[] = _(
-  "It is said that in lands with clean air,\n"
-  "where the stars fill the sky, there live\n"
-  "LEDIAN in countless numbers.");
+"Dicen que en zonas en las que el aire\n"
+"está limpio, en las que se ven las\n"
+"estrellas, hay enormes poblaciones de");
 static const u8 DexDescription_Ledian_2[] = _(
-  "There is a good reason for this - the\n"
-  "POKéMON uses the light of the stars\n"
-  "as its energy.");
+"Ledian. La razón es muy sencilla: este\n"
+"Pokémon usa la luz de las estrellas\n"
+"como fuente de energía.");
 
 static const u8 DexDescription_Spinarak_1[] = _(
-  "The web spun by SPINARAK can be\n"
-  "considered its second nervous system.\n"
-  "It is said that this POKéMON can");
+"La tela que teje Spinarak puede\n"
+"considerarse como su segundo sistema\n"
+"nervioso. Dicen que puede adivinar qué");
 static const u8 DexDescription_Spinarak_2[] = _(
-  "determine what kind of prey is touching\n"
-  "its web just by the tiny vibrations it\n"
-  "feels through the web’s strands.");
+"tipo de presa ha caído en su red con\n"
+"sólo observar las leves vibraciones de\n"
+"los hilos de la tela.");
 
 static const u8 DexDescription_Ariados_1[] = _(
-  "ARIADOS’s feet are tipped with tiny\n"
-  "hooked claws that enable it to scuttle\n"
-  "on ceilings and vertical walls.");
+"Ariados tiene unas patas con forma de\n"
+"garfio que le permiten correr por\n"
+"techos y superficies verticales. Este");
 static const u8 DexDescription_Ariados_2[] = _(
-  "This POKéMON constricts the foe with\n"
-  "thin and strong silk webbing.");
+"Pokémon oprime al rival con una tela de\n"
+"araña fina y resistente.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Crobat_1[] = _(
-  "CROBAT sneaks up on its intended prey\n"
+  "CROMurciélago sneaks up on its intended prey\n"
   "using wings that barely make a sound.\n"
   "This POKéMON rests by hanging on a");
 static const u8 DexDescription_Crobat_2[] = _(
@@ -1951,13 +1969,12 @@ static const u8 DexDescription_Crobat_2[] = _(
   "serve as wings.");
 #else
 static const u8 DexDescription_Crobat_1[] = _(
-  "If this POKéMON is flying by fluttering\n"
-  "only a pair of wings on either the\n"
-  "forelegs or hind legs, it’s proof that");
+"Cuando este Pokémon vuela batiendo sólo\n"
+"las alas de las patas delanteras o de\n"
+"las traseras es porque lleva volando");
 static const u8 DexDescription_Crobat_2[] = _(
-  "CROBAT has been flying a long distance.\n"
-  "It switches the wings it uses if it is\n"
-  "tired.");
+"bastante tiempo. Cuando se cansa,\n"
+"Crobat alterna las alas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1970,12 +1987,13 @@ static const u8 DexDescription_Chinchou_2[] = _(
   "tingle slightly.");
 #else
 static const u8 DexDescription_Chinchou_1[] = _(
-  "CHINCHOU lets loose positive and\n"
-  "negative electrical charges from its\n"
-  "two antennas to make its prey faint.");
+"Chinchou libera cargas eléctricas\n"
+"positivas y negativas a través de las\n"
+"dos antenas que tiene para que su rival");
 static const u8 DexDescription_Chinchou_2[] = _(
-  "This POKéMON flashes its electric\n"
-  "lights to exchange signals with others.");
+"pierda el conocimiento. Asimismo, usa\n"
+"los destellos de electricidad para\n"
+"comunicarse con otros.");
 #endif
 
 #ifdef SAPPHIRE
@@ -1989,13 +2007,13 @@ static const u8 DexDescription_Lanturn_2[] = _(
   "an appearance of a starlit night.");
 #else
 static const u8 DexDescription_Lanturn_1[] = _(
-  "LANTURN is nicknamed “the deep-sea\n"
-  "star” for its illuminated antenna.\n"
-  "This POKéMON produces light by");
+"A Lanturn lo llaman “la estrella del\n"
+"fondo del mar” por la antena iluminada\n"
+"que tiene. Este Pokémon produce luz");
 static const u8 DexDescription_Lanturn_2[] = _(
-  "causing a chemical reaction between\n"
-  "bacteria and its bodily fluids inside\n"
-  "the antenna.");
+"creando una reacción química entre una\n"
+"bacteria y los fluidos corporales de la\n"
+"antena.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2008,22 +2026,22 @@ static const u8 DexDescription_Pichu_2[] = _(
   "crying, startled by the flash of sparks.");
 #else
 static const u8 DexDescription_Pichu_1[] = _(
-  "PICHU charges itself with electricity\n"
-  "more easily on days with thunderclouds\n"
-  "or when the air is very dry.");
+"A Pichu le resulta más fácil cargarse\n"
+"de electricidad en días de nubarrones o\n"
+"cuando sopla un aire muy seco. Es");
 static const u8 DexDescription_Pichu_2[] = _(
-  "You can hear the crackling of static\n"
-  "electricity coming off this POKéMON.");
+"posible oír la electricidad estática\n"
+"que emana este Pokémon.");
 #endif
 
 static const u8 DexDescription_Cleffa_1[] = _(
-  "On nights with many shooting stars,\n"
-  "CLEFFA can be seen dancing in a ring.\n"
-  "They dance through the night and stop");
+"Cuando hay lluvia de estrellas, a los\n"
+"Cleffa se les puede ver danzando en\n"
+"círculos Durante toda la noche. Sólo");
 static const u8 DexDescription_Cleffa_2[] = _(
-  "only at the break of day, when these\n"
-  "POKéMON quench their thirst with the\n"
-  "morning dew.");
+"paran cuando rompe el día; entonces,\n"
+"dejan de bailar y calman su sed con el\n"
+"rocío de la mañana.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Igglybuff_1[] = _(
@@ -2035,30 +2053,30 @@ static const u8 DexDescription_Igglybuff_2[] = _(
   "emotions of its foes.");
 #else
 static const u8 DexDescription_Igglybuff_1[] = _(
-  "IGGLYBUFF’s vocal chords are not\n"
-  "sufficiently developed. It would hurt\n"
-  "its throat if it were to sing too much.");
+"Las cuerdas vocales de Igglybuff no\n"
+"están suficientemente desarrolladas. Si\n"
+"tuviera que cantar mucho, se haría daño");
 static const u8 DexDescription_Igglybuff_2[] = _(
-  "This POKéMON gargles with freshwater\n"
-  "from a clean stream.");
+"en la garganta. Este Pokémon suele\n"
+"hacer gárgaras con agua pura de\n"
+"manantial.");
 #endif
 
 static const u8 DexDescription_Togepi_1[] = _(
-  "As its energy, TOGEPI uses the positive\n"
-  "emotions of compassion and pleasure\n"
-  "exuded by people and POKéMON.");
+"Togepi usa los sentimientos positivos\n"
+"de compasión y alegría que desprenden\n"
+"las personas y los Pokémon. Este");
 static const u8 DexDescription_Togepi_2[] = _(
-  "This POKéMON stores up feelings of\n"
-  "happiness inside its shell, then shares\n"
-  "them with others.");
+"Pokémon almacena sentimientos de\n"
+"felicidad en su interior y después los\n"
+"comparte con otros.");
 
 static const u8 DexDescription_Togetic_1[] = _(
-  "TOGETIC is said to be a POKéMON that\n"
-  "brings good fortune. When the POKéMON\n"
-  "spots someone who is pure of heart,");
+"Dicen que Togetic es un Pokémon que\n"
+"trae buena suerte y que, si detecta a\n"
+"alguien que es puro de corazón, sale");
 static const u8 DexDescription_Togetic_2[] = _(
-  "it is said to appear and share its\n"
-  "happiness with that person.");
+"para compartir su alegría con él.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Natu_1[] = _(
@@ -2070,12 +2088,13 @@ static const u8 DexDescription_Natu_2[] = _(
   "new shoots.");
 #else
 static const u8 DexDescription_Natu_1[] = _(
-  "NATU cannot fly because its wings are\n"
-  "not yet fully grown. If your eyes meet\n"
-  "with this POKéMON’s eyes, it will stare");
+"Natu no puede volar porque las alas no\n"
+"le han crecido lo suficiente. Si tu\n"
+"mirada se cruza con la suya, te la");
 static const u8 DexDescription_Natu_2[] = _(
-  "back intently at you. But if you move\n"
-  "even slightly, it will hop away to safety.");
+"devolverá fijamente. Pero si haces el\n"
+"mínimo movimiento, huirá dando saltitos\n"
+"para ponerse a salvo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2089,37 +2108,38 @@ static const u8 DexDescription_Xatu_2[] = _(
   "into the future.");
 #else
 static const u8 DexDescription_Xatu_1[] = _(
-  "XATU stands rooted and still in one\n"
-  "spot all day long. People believe that\n"
-  "this POKéMON does so out of fear of");
+"Xatu permanece de pie inmóvil y\n"
+"tranquilo en el mismo sitio Durante\n"
+"todo el día. Se cree que no se mueve");
 static const u8 DexDescription_Xatu_2[] = _(
-  "the terrible things it has foreseen in\n"
-  "the future.");
+"por temor a lo que ha visto que\n"
+"ocurrirá en el futuro.");
 #endif
 
 static const u8 DexDescription_Mareep_1[] = _(
-  "MAREEP’s fluffy coat of wool rubs\n"
-  "together and builds a static charge.\n"
-  "The more static electricity is charged,");
+"Mareep tiene un pelaje lanudo suave que\n"
+"produce carga estática por el roce.\n"
+"Cuanto más se carga de electricidad");
 static const u8 DexDescription_Mareep_2[] = _(
-  "the more brightly the lightbulb at the\n"
-  "tip of its tail grows.");
+"estática, más brilla la bombilla que\n"
+"tiene en el extremo de la cola.");
 
 static const u8 DexDescription_Flaaffy_1[] = _(
-  "FLAAFFY’s wool quality changes so that\n"
-  "it can generate a high amount of static\n"
-  "electricity with a small amount of wool.");
+"La calidad de la lana de Flaaffy varía\n"
+"para poder generar mucha electricidad\n"
+"estática con muy poca cantidad de lana.");
 static const u8 DexDescription_Flaaffy_2[] = _(
-  "The bare and slick parts of its hide are\n"
-  "shielded against electricity.");
+"Las zonas suaves de la piel en las que\n"
+"no tiene pelaje están protegidas contra\n"
+"la electricidad.");
 
 static const u8 DexDescription_Ampharos_1[] = _(
-  "AMPHAROS gives off so much light that\n"
-  "it can be seen even from space.\n"
-  "People in the old days used the light of");
+  "Ampharos desprende tanta luz que es\n"
+  "posible verle hasta desde el espacio.\n"
+  "Antes, la gente usaba su luz como");
 static const u8 DexDescription_Ampharos_2[] = _(
-  "this POKéMON to send signals back and\n"
-  "forth with others far away.");
+  "sistema de comunicación para enviarse\n"
+  "señales.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Bellossom_1[] = _(
@@ -2131,12 +2151,12 @@ static const u8 DexDescription_Bellossom_2[] = _(
   "petals and goes to sleep.");
 #else
 static const u8 DexDescription_Bellossom_1[] = _(
-  "When BELLOSSOM gets exposed to plenty\n"
-  "of sunlight, the leaves ringing its body\n"
-  "begin to spin around.");
+  "Cuando Bellossom se expone a gran\n"
+  "cantidad de luz solar, le empiezan a\n"
+  "girar las hojas que le rodean. La danza");
 static const u8 DexDescription_Bellossom_2[] = _(
-  "This POKéMON’s dancing is renowned in\n"
-  "the southern lands.");
+  "de este Pokémon es famosa en las zonas\n"
+  "del sur.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2149,13 +2169,13 @@ static const u8 DexDescription_Marill_2[] = _(
   "configured to stretch.");
 #else
 static const u8 DexDescription_Marill_1[] = _(
-  "MARILL’s oil-filled tail acts much like\n"
-  "a life preserver. If you see just its\n"
-  "tail bobbing on the water’s surface,");
+  "La cola de Marill contiene un aceite\n"
+  "que hace las veces de chaleco\n"
+  "salvavidas. Si ves una moviéndose en el");
 static const u8 DexDescription_Marill_2[] = _(
-  "it’s a sure indication that this POKéMON\n"
-  "is diving beneath the water to feed on\n"
-  "aquatic plants.");
+  "agua, seguro que debajo está Marill\n"
+  "medio sumergido buscando plantas\n"
+  "acuáticas para comer.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2168,157 +2188,156 @@ static const u8 DexDescription_Azumarill_2[] = _(
   "trouble to breathe.");
 #else
 static const u8 DexDescription_Azumarill_1[] = _(
-  "AZUMARILL’s long ears are indispensable\n"
-  "sensors. By focusing its hearing, this\n"
-  "POKéMON can identify what kinds of");
+  "Azumarill tiene unas orejas enormes,\n"
+  "indispensables para hacer de sensores.\n"
+  "Al aguzar el oído, este Pokémon puede");
 static const u8 DexDescription_Azumarill_2[] = _(
-  "prey are around, even in rough and\n"
-  "fast-running rivers.");
+  "identificar qué tipo de presa tiene\n"
+  "cerca. Puede detectarlo hasta en ríos\n"
+  "de fuertes y rápidas corrientes.");
 #endif
 
 static const u8 DexDescription_Sudowoodo_1[] = _(
-  "SUDOWOODO camouflages itself as a tree\n"
-  "to avoid being attacked by enemies.\n"
-  "However, because the forelegs remain");
+  "Sudowoodo se camufla adoptando la\n"
+  "imagen de un árbol para que no le\n"
+  "ataque ningún enemigo. El problema");
 static const u8 DexDescription_Sudowoodo_2[] = _(
-  "green throughout the year, the POKéMON\n"
-  "is easily identified as a fake during\n"
-  "the winter.");
+  "viene en invierno; ya que las patas se\n"
+  "le ven verdes y es fácil\n"
+  "identificarle.");
 
 static const u8 DexDescription_Politoed_1[] = _(
-  "The curled hair on POLITOED’s head is\n"
-  "proof of its status as a king. It is said\n"
-  "that the longer and more curled the");
+  "El mechón rizado de Politoed confirma\n"
+  "su condición de rey. Dicen que cuanto\n"
+  "más le crece y más se le riza, mayor es");
 static const u8 DexDescription_Politoed_2[] = _(
-  "hair, the more respect this POKéMON\n"
-  "earns from its peers.");
+  "el respeto que recibe de sus súbditos.");
 
 static const u8 DexDescription_Hoppip_1[] = _(
-  "This POKéMON drifts and floats with the\n"
-  "wind. If it senses the approach of\n"
-  "strong winds, HOPPIP links its leaves");
+  "Este Pokémon flota en el aire y se deja\n"
+  "llevar. Cuando percibe que el viento va\n"
+  "a cambiar a fuerte, Hoppip entrelaza");
 static const u8 DexDescription_Hoppip_2[] = _(
-  "with other HOPPIP to prepare against\n"
-  "being blown away.");
+  "sus hojas con otros Hoppip para hacer\n"
+  "resistencia y evitar salir volando por\n"
+  "la fuerza de la corriente.");
 
 static const u8 DexDescription_Skiploom_1[] = _(
-  "SKIPLOOM’s flower blossoms when the\n"
-  "temperature rises above 64 degrees F.\n"
-  "How much the flower opens depends on");
+  "Skiploom florece cuando la temperatura\n"
+  "llega a 18 grados centígrados. La\n"
+  "apertura de los pétalos varía según la");
 static const u8 DexDescription_Skiploom_2[] = _(
-  "the temperature. For that reason, this\n"
-  "POKéMON is sometimes used as a\n"
-  "thermometer.");
+  "temperatura que haga. Por este motivo,\n"
+  "la gente lo usa a veces a modo de\n"
+  "termómetro.");
 
 static const u8 DexDescription_Jumpluff_1[] = _(
-  "JUMPLUFF rides warm southern winds to\n"
-  "cross the sea and fly to foreign lands.\n"
-  "The POKéMON descends to the ground");
+  "Jumpluff se vale de los cálidos vientos\n"
+  "del sur para volar a tierras lejanas.\n"
+  "Si llega a zonas de aire frío en pleno");
 static const u8 DexDescription_Jumpluff_2[] = _(
-  "when it encounters cold air while it is\n"
-  "floating.");
+  "vuelo, descenderá y tomará tierra.");
 
 static const u8 DexDescription_Aipom_1[] = _(
-  "AIPOM’s tail ends in a hand-like\n"
-  "appendage that can be cleverly\n"
-  "manipulated.");
+  "Su cola termina en una especie de mano\n"
+  "a la que puede dar muy buen uso. Pero\n"
+  "hay un problema: como se ha");
 static const u8 DexDescription_Aipom_2[] = _(
-  "However, because the POKéMON uses its\n"
-  "tail so much, its real hands have become\n"
-  "rather clumsy.");
+  "acostumbrado a usarla mucho, las de\n"
+  "verdad se le han vuelto algo torponas.");
 
 static const u8 DexDescription_Sunkern_1[] = _(
-  "SUNKERN tries to move as little as it\n"
-  "possibly can. It does so because it\n"
-  "tries to conserve all the nutrients it");
+  "Sunkern intenta moverse lo menos\n"
+  "posible para conservar el mayor número\n"
+  "de nutrientes que ha guardado en su");
 static const u8 DexDescription_Sunkern_2[] = _(
-  "has stored in its body for its\n"
-  "evolution. It will not eat a thing, \n"
-  "subsisting only on morning dew.");
+  "interior y poder evolucionar. Ni\n"
+  "siquiera come, sólo se alimenta del\n"
+  "rocío de la mañana.");
 
 static const u8 DexDescription_Sunflora_1[] = _(
-  "SUNFLORA converts solar energy into\n"
-  "nutrition. It moves around actively in\n"
-  "the daytime when it is warm.");
+  "Sunflora transforma la energía solar en\n"
+  "nutrientes. De día, cuando hace calor,\n"
+  "está en continuo movimiento. Sólo se");
 static const u8 DexDescription_Sunflora_2[] = _(
-  "It stops moving as soon as the sun goes\n"
-  "down for the night.");
+  "detiene cuando comienza a anochecer.");
 
 static const u8 DexDescription_Yanma_1[] = _(
-  "YANMA is capable of seeing 360 degrees\n"
-  "without having to move its eyes.\n"
-  "It is a great flier that is adept at");
+  "Yanma tiene un ángulo de visión de 360\n"
+  "grados sin mover los ojos. Es un gran\n"
+  "volador, experto en hacer repentinas");
 static const u8 DexDescription_Yanma_2[] = _(
-  "making sudden stops and turning midair.\n"
-  "This POKéMON uses its flying ability to\n"
-  "quickly chase down targeted prey.");
+  "paradas y cambios de dirección en el\n"
+  "aire. Aprovecha la habilidad que tiene\n"
+  "de volar para lanzarse sobre su presa.");
 
 static const u8 DexDescription_Wooper_1[] = _(
-  "WOOPER usually lives in water.\n"
-  "However, it occasionally comes out onto\n"
-  "land in search of food.");
+  "Wooper suele vivir en el agua, pero es\n"
+  "posible también verle en tierra en\n"
+  "busca de comida. Cuando está en terreno");
 static const u8 DexDescription_Wooper_2[] = _(
-  "On land, it coats its body with a gooey,\n"
-  "toxic film.");
+  "firme, se cubre con una película\n"
+  "viscosa tóxica.");
 
 static const u8 DexDescription_Quagsire_1[] = _(
-  "QUAGSIRE hunts for food by leaving\n"
-  "its mouth wide open in water and waiting\n"
-  "for its prey to blunder in unaware.");
+  "Quagsire caza dejando las fauces\n"
+  "abiertas en el agua y esperando a que\n"
+  "su presa entre sin darse cuenta. Como");
 static const u8 DexDescription_Quagsire_2[] = _(
-  "Because the POKéMON does not move,\n"
-  "it does not get very hungry.");
+  "se queda quieto, este Pokémon no pasa\n"
+  "mucha hambre.");
 
 static const u8 DexDescription_Espeon_1[] = _(
-  "ESPEON is extremely loyal to any\n"
-  "TRAINER it considers to be worthy.\n"
-  "It is said that this POKéMON developed");
+  "Espeon es tremendamente leal al\n"
+  "ENTRENADOR que le merece la pena. Dicen\n"
+  "que este Pokémon desarrolló sus poderes");
 static const u8 DexDescription_Espeon_2[] = _(
-  "its precognitive powers to protect its\n"
-  "TRAINER from harm.");
+  "adivinatorios para evitar que su\n"
+  "ENTRENADOR sufra ningún daño.");
 
 static const u8 DexDescription_Umbreon_1[] = _(
-  "UMBREON evolved as a result of exposure\n"
-  "to the moon’s waves.\n"
-  "It hides silently in darkness and waits");
+  "Umbreon evolucionó tras haber estado\n"
+  "expuesto a ondas lunares. Suele\n"
+  "esconderse en la oscuridad en silencio");
 static const u8 DexDescription_Umbreon_2[] = _(
-  "for its foes to make a move.\n"
-  "The rings on its body glow when it leaps\n"
-  "to attack.");
+  "y esperar a que su presa se mueva.\n"
+  "Cuando se lanza al ataque, le brillan\n"
+  "los anillos del cuerpo.");
 
 static const u8 DexDescription_Murkrow_1[] = _(
-  "MURKROW was feared and loathed as the\n"
-  "alleged bearer of ill fortune.\n"
-  "This POKéMON shows strong interest in");
+  "Murkrow ha sido temido y repudiado por\n"
+  "todos por ser supuestamente fuente de\n"
+  "mala suerte. Este Pokémon siente");
 static const u8 DexDescription_Murkrow_2[] = _(
-  "anything that sparkles or glitters.\n"
-  "It will even try to steal rings from\n"
-  "women.");
+  "debilidad por todo lo que brilla y\n"
+  "resplandece. A las mujeres les roba los\n"
+  "anillos.");
 
 static const u8 DexDescription_Slowking_1[] = _(
-  "SLOWKING undertakes research every\n"
-  "day in an effort to solve the mysteries\n"
-  "of the world.");
+  "Slowking dedica cada día tiempo a\n"
+  "investigar, en un intento por resolver\n"
+  "los misterios del mundo. Aunque, según");
 static const u8 DexDescription_Slowking_2[] = _(
-  "However, this POKéMON apparently\n"
-  "forgets everything it has learned if\n"
-  "the SHELLDER on its head comes off.");
+  "parece, a este Pokémon se le olvida\n"
+  "todo lo aprendido cuando se asoma el\n"
+  "Shellder que lleva.");
 
 static const u8 DexDescription_Misdreavus_1[] = _(
-  "MISDREAVUS frightens people with a\n"
-  "creepy, sobbing cry. The POKéMON\n"
-  "apparently uses its red spheres to");
+  "Misdreavus asusta a la gente con un\n"
+  "chillido escalofriante y sollozante. Y,\n"
+  "al parecer, usa las esferas rojas para");
 static const u8 DexDescription_Misdreavus_2[] = _(
-  "absorb the fearful feelings of foes and\n"
-  "turn them into nutrition.");
+  "absorber los sentimientos de miedo de\n"
+  "los enemigos y usarlos como alimento.");
 
 static const u8 DexDescription_Unown_1[] = _(
-  "This POKéMON is shaped like ancient\n"
-  "writing. It is a mystery as to which\n"
-  "came first, the ancient writings or the");
+  "Este Pokémon tiene forma de caracteres\n"
+  "antiguos. No se sabe qué surgió\n"
+  "primero: si la vieja escritura o los");
 static const u8 DexDescription_Unown_2[] = _(
-  "various UNOWN. Research into this\n"
-  "topic is ongoing but nothing is known.");
+  "distintos Unown. Esta cuestión sigue\n"
+  "siendo objeto de estudio, pero aún no\n"
+  "se ha averiguado nada.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Wobbuffet_1[] = _(
@@ -2331,13 +2350,13 @@ static const u8 DexDescription_Wobbuffet_2[] = _(
   "using DESTINY BOND.");
 #else
 static const u8 DexDescription_Wobbuffet_1[] = _(
-  "If two or more WOBBUFFET meet, they will\n"
-  "turn competitive and try to outdo each\n"
-  "other’s endurance.");
+  "Si dos o más Wobbuffet se encuentran,\n"
+  "se volverán competitivos e intentarán\n"
+  "superarse en resistencia. Pero también");
 static const u8 DexDescription_Wobbuffet_2[] = _(
-  "However, they may try to see which one\n"
-  "can endure the longest without food.\n"
-  "TRAINERS need to beware of this habit.");
+  "puede que intenten aguantar sin comer;\n"
+  "algo que los ENTRENADORES deben tener\n"
+  "muy en cuenta.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2350,101 +2369,100 @@ static const u8 DexDescription_Girafarig_2[] = _(
   "surroundings 24 hours a day.");
 #else
 static const u8 DexDescription_Girafarig_1[] = _(
-  "GIRAFARIG’s rear head also has a brain,\n"
-  "but it is small. The rear head attacks in\n"
-  "response to smells and sounds.");
+  "Girafarig tiene un cerebro también en\n"
+  "la cabeza trasera, que reacciona\n"
+  "atacando ante olores y sonidos. Si te");
 static const u8 DexDescription_Girafarig_2[] = _(
-  "Approaching this POKéMON from behind\n"
-  "can cause the rear head to suddenly\n"
-  "lash out and bite.");
+  "acercas a este Pokémon desde atrás,\n"
+  "puedes provocar que la cabeza trasera\n"
+  "salga de repente y te muerda.");
 #endif
 
 static const u8 DexDescription_Pineco_1[] = _(
-  "PINECO hangs from a tree branch and\n"
-  "patiently waits for prey to come along.\n"
-  "If the POKéMON is disturbed while");
+  "Pineco permanece colgado de la rama de\n"
+  "un árbol esperando pacientemente a su\n"
+  "presa. Si alguien sacude el árbol en el");
 static const u8 DexDescription_Pineco_2[] = _(
-  "eating by someone shaking its tree, it\n"
-  "drops down to the ground and explodes\n"
-  "with no warning.");
+  "que está mientras come y le molesta, se\n"
+  "tira al suelo y explota sin dar ningún\n"
+  "tipo de aviso.");
 
 static const u8 DexDescription_Forretress_1[] = _(
-  "FORRETRESS conceals itself inside its\n"
-  "hardened steel shell. The shell is opened\n"
-  "when the POKéMON is catching prey,");
+  "Forretress se esconde dentro de su\n"
+  "concha de acero reforzada. Sólo la abre\n"
+  "cuando va a atrapar a su presa, pero");
 static const u8 DexDescription_Forretress_2[] = _(
-  "but it does so at such a quick pace\n"
-  "that the shell’s inside cannot be seen.");
+  "ocurre tan rápido que no da tiempo de\n"
+  "ver su interior.");
 
 static const u8 DexDescription_Dunsparce_1[] = _(
-  "DUNSPARCE has a drill for its tail.\n"
-  "It uses this tail to burrow into the\n"
-  "ground backwards.");
+  "La cola de Dunsparce es un taladro que\n"
+  "usa para enterrarse de espaldas en el\n"
+  "suelo. De todos es sabido que este");
 static const u8 DexDescription_Dunsparce_2[] = _(
-  "This POKéMON is known to make its nest\n"
-  "in complex shapes deep under the\n"
-  "ground.");
+  "Pokémon hace su nido a gran profundidad\n"
+  "y con una forma muy compleja.");
 
 static const u8 DexDescription_Gligar_1[] = _(
-  "GLIGAR glides through the air without\n"
-  "a sound as if it were sliding.\n"
-  "This POKéMON hangs on to the face of");
+  "Gligar planea por el aire sin hacer\n"
+  "ruido. Este Pokémon se agarra a la cara\n"
+  "de su rival con las patas traseras, con");
 static const u8 DexDescription_Gligar_2[] = _(
-  "its foe using its clawed hind legs and\n"
-  "the large pincers on its forelegs, then\n"
-  "injects the prey with its poison barb.");
+  "forma de garra, y las pinzas de las\n"
+  "delanteras, inyectándole veneno por el\n"
+  "aguijón.");
 
 static const u8 DexDescription_Steelix_1[] = _(
-  "STEELIX lives even further underground\n"
-  "than ONIX. This POKéMON is known to dig\n"
-  "towards the earth’s core.");
+  "Steelix vive a mayor profundidad aún\n"
+  "que Onix. Se le conoce por su tendencia\n"
+  "a cavar hacia el centro de la tierra.");
 static const u8 DexDescription_Steelix_2[] = _(
-  "There are records of this POKéMON\n"
-  "reaching a depth of over six-tenths\n"
-  "of a mile underground.");
+  "Hay datos que muestran que este Pokémon\n"
+  "ha llegado a alcanzar 1 kilómetro de\n"
+  "profundidad cavando.");
 
 static const u8 DexDescription_Snubbull_1[] = _(
-  "By baring its fangs and making a scary\n"
-  "face, SNUBBULL sends smaller POKéMON\n"
-  "scurrying away in terror.");
+  "Al tener los colmillos por fuera,\n"
+  "Snubbull da miedo y espanta, aterrados,\n"
+  "a los Pokémon pequeños. Aunque a él");
 static const u8 DexDescription_Snubbull_2[] = _(
-  "However, this POKéMON seems a little\n"
-  "sad at making its foes flee.");
+  "parece que le da un poco de pena que\n"
+  "salgan huyendo.");
 
 static const u8 DexDescription_Granbull_1[] = _(
-  "GRANBULL has a particularly well-\n"
-  "developed lower jaw. The enormous fangs\n"
-  "are heavy, causing the POKéMON to tip");
+  "Granbull tiene la mandíbula inferior\n"
+  "demasiado desarrollada y colmillos\n"
+  "enormes y pesados que le obligan a");
 static const u8 DexDescription_Granbull_2[] = _(
-  "its head back for balance.\n"
-  "Unless it is startled, it will not try to\n"
-  "bite indiscriminately.");
+  "inclinar la cabeza hacia atrás para\n"
+  "compensar el peso. Si no se le asusta,\n"
+  "no muerde.");
 
 static const u8 DexDescription_Qwilfish_1[] = _(
-  "QWILFISH sucks in water, inflating\n"
-  "itself. This POKéMON uses the pressure\n"
-  "of the water it swallowed to shoot");
+  "Qwilfish bebe agua y se hincha y, a\n"
+  "continuación, usa la presión del agua\n"
+  "que ha tragado para lanzar plumas");
 static const u8 DexDescription_Qwilfish_2[] = _(
-  "toxic quills all at once from all over\n"
-  "its body. It finds swimming somewhat\n"
-  "challenging.");
+  "tóxicas por todo el cuerpo. Para este\n"
+  "Pokémon nadar es una especie de\n"
+  "desafío.");
 
 static const u8 DexDescription_Scizor_1[] = _(
-  "SCIZOR has a body with the hardness of\n"
-  "steel. It is not easily fazed by ordinary\n"
-  "sorts of attacks.");
+  "Scizor tiene un cuerpo duro como el\n"
+  "acero que no es fácil de alterar con\n"
+  "ningún ataque común. Este Pokémon bate");
 static const u8 DexDescription_Scizor_2[] = _(
-  "This POKéMON flaps its wings to\n"
-  "regulate its body temperature.");
+  "las alas para regular la temperatura\n"
+  "corporal.");
 
 static const u8 DexDescription_Shuckle_1[] = _(
-  "SHUCKLE quietly hides itself under\n"
-  "rocks, keeping its body concealed\n"
-  "inside its hard shell while eating");
+  "Shuckle permanece escondido bajo las\n"
+  "rocas en silencio y, cuando se pone a\n"
+  "comer las bayas que almacena, se");
 static const u8 DexDescription_Shuckle_2[] = _(
-  "berries it has stored away.\n"
-  "The berries mix with its body fluids to\n"
-  "become a juice.");
+  "encierra en el caparazón. Las BAYAS se\n"
+  "mezclan con sus fluidos corporales y\n"
+  "originan zumo.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Heracross_1[] = _(
@@ -2457,39 +2475,40 @@ static const u8 DexDescription_Heracross_2[] = _(
   "its proud horn.");
 #else
 static const u8 DexDescription_Heracross_1[] = _(
-  "HERACROSS charges in a straight line at\n"
-  "its foe, slips beneath the foe’s grasp,\n"
-  "and then scoops up and hurls the");
+  "Heracross carga en línea recta contra\n"
+  "el enemigo, se le queda encajado por\n"
+  "debajo, lo agarra y lo lanza con ayuda");
 static const u8 DexDescription_Heracross_2[] = _(
-  "opponent with its mighty horn.\n"
-  "This POKéMON even has enough power\n"
-  "to topple a massive tree.");
+  "del fuerte cuerno que tiene. Este\n"
+  "Pokémon tiene fuerza hasta para echar\n"
+  "abajo un árbol descomunal.");
 #endif
 
 static const u8 DexDescription_Sneasel_1[] = _(
-  "SNEASEL scales trees by punching its\n"
-  "hooked claws into the bark.\n"
-  "This POKéMON seeks out unguarded");
+  "Sneasel trepa árboles encaramándose a\n"
+  "la corteza con las garras curvas que\n"
+  "tiene. Este Pokémon busca nidos");
 static const u8 DexDescription_Sneasel_2[] = _(
-  "nests and steals eggs for food while\n"
-  "the parents are away.");
+  "desprovistos de vigilancia paterna para\n"
+  "robar los huevos que haya y\n"
+  "comérselos.");
 
 static const u8 DexDescription_Teddiursa_1[] = _(
-  "This POKéMON likes to lick its palms that\n"
-  "are sweetened by being soaked in honey.\n"
-  "TEDDIURSA concocts its own honey by");
+  "A este Pokémon le encanta chuparse las\n"
+  "palmas, que tiene llenas de dulce miel.\n"
+  "Teddiursa fabrica su propia miel");
 static const u8 DexDescription_Teddiursa_2[] = _(
-  "blending fruits and pollen collected by\n"
-  "BEEDRILL.");
+  "mezclando frutos y el polen recogido\n"
+  "por Beedrill.");
 
 static const u8 DexDescription_Ursaring_1[] = _(
-  "In the forests inhabited by URSARING,\n"
-  "it is said that there are many streams\n"
-  "and towering trees where they");
+  "En los bosques habitados por Ursaring,\n"
+  "dicen que abundan los arroyos y árboles\n"
+  "gigantes en los que guarda su alimento.");
 static const u8 DexDescription_Ursaring_2[] = _(
-  "gather food. This POKéMON walks\n"
-  "through its forest gathering food\n"
-  "every day.");
+  "Este Pokémon se dedica todos los días a\n"
+  "pasear por el bosque para buscar comida\n"
+  "y guardarla.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Slugma_1[] = _(
@@ -2501,13 +2520,13 @@ static const u8 DexDescription_Slugma_2[] = _(
   "oxygen to its organs.");
 #else
 static const u8 DexDescription_Slugma_1[] = _(
-  "Molten magma courses throughout\n"
-  "SLUGMA’s circulatory system.\n"
-  "If this POKéMON is chilled, the magma");
+  "Por el sistema circulatorio de Slugma\n"
+  "corre magma líquido. Si este Pokémon se\n"
+  "enfriara, el magma perdería el calor y");
 static const u8 DexDescription_Slugma_2[] = _(
-  "cools and hardens. Its body turns\n"
-  "brittle and chunks fall off, reducing\n"
-  "its size.");
+  "se solidificaría, con lo que se\n"
+  "resquebrajaría entero, perdería trozos\n"
+  "y reduciría su tamaño.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2521,31 +2540,31 @@ static const u8 DexDescription_Magcargo_2[] = _(
   "steam, cloaking the area in a thick fog.");
 #else
 static const u8 DexDescription_Magcargo_1[] = _(
-  "MAGCARGO’s shell is actually its skin\n"
-  "that hardened as a result of cooling.\n"
-  "Its shell is very brittle and fragile -");
+  "La coraza de Magcargo es en realidad su\n"
+  "propia piel que quedó endurecida al\n"
+  "enfriarse. Está muy resquebrajada y es");
 static const u8 DexDescription_Magcargo_2[] = _(
-  "just touching it causes it to crumble\n"
-  "apart. This POKéMON returns to its\n"
-  "original size by dipping itself in magma.");
+  "muy frágil; se desharía solo con\n"
+  "tocarla. Este Pokémon debe sumergirse\n"
+  "en magma para recuperar su forma.");
 #endif
 
 static const u8 DexDescription_Swinub_1[] = _(
-  "SWINUB roots for food by rubbing its\n"
-  "snout against the ground. Its favorite\n"
-  "food is a mushroom that grows under");
+  "Swinub busca el alimento frotando el\n"
+  "hocico contra el suelo. Su comida\n"
+  "preferida es una seta que crece bajo la");
 static const u8 DexDescription_Swinub_2[] = _(
-  "the cover of dead grass.\n"
-  "This POKéMON occasionally roots out\n"
-  "hot springs.");
+  "hierba marchita. A veces, al frotar,\n"
+  "descubre fuentes termales.");
 
 static const u8 DexDescription_Piloswine_1[] = _(
-  "PILOSWINE is covered by a thick coat\n"
-  "of long hair that enables it to endure\n"
-  "the freezing cold.");
+  "Piloswine está cubierto por un pelaje\n"
+  "tupido y de largas cerdas que le\n"
+  "permite soportar el frío polar. Este");
 static const u8 DexDescription_Piloswine_2[] = _(
-  "This POKéMON uses its tusks to dig up\n"
-  "food that has been buried under ice.");
+  "Pokémon usa los colmillos para\n"
+  "desenterrar los alimentos que hayan\n"
+  "podido quedar bajo el hielo.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Corsola_1[] = _(
@@ -2557,46 +2576,48 @@ static const u8 DexDescription_Corsola_2[] = _(
   "POKéMON migrates to the southern seas.");
 #else
 static const u8 DexDescription_Corsola_1[] = _(
-  "CORSOLA’s branches glitter very\n"
-  "beautifully in seven colors when they\n"
-  "catch sunlight.");
+  "Las ramas de Corsola brillan con\n"
+  "belleza hasta en siete colores cuando\n"
+  "les da el sol. Si se le rompe alguna,");
 static const u8 DexDescription_Corsola_2[] = _(
-  "If any branch breaks off, this POKéMON\n"
-  "grows it back in just one night.");
+  "el Pokémon la regenera en tan solo una\n"
+  "noche.");
 #endif
 
 static const u8 DexDescription_Remoraid_1[] = _(
-  "REMORAID sucks in water, then expels it\n"
-  "at high velocity using its abdominal\n"
-  "muscles to shoot down flying prey.");
+  "Remoraid traga agua y usa los\n"
+  "abdominales para lanzarla a gran\n"
+  "velocidad contra una presa que esté en");
 static const u8 DexDescription_Remoraid_2[] = _(
-  "When evolution draws near, this POKéMON\n"
-  "travels downstream from rivers.");
+  "el aire. Cuando está a punto de\n"
+  "evolucionar, este Pokémon nada en los\n"
+  "ríos corriente abajo.");
 
 static const u8 DexDescription_Octillery_1[] = _(
-  "OCTILLERY grabs onto its foe using\n"
-  "its tentacles. This POKéMON tries to\n"
-  "immobilize it before delivering the");
+  "Octillery se apodera de su enemigo con\n"
+  "los tentáculos y lo deja inmovilizado\n"
+  "antes de propinarle el golpe final. Si");
 static const u8 DexDescription_Octillery_2[] = _(
-  "finishing blow.\n"
-  "If the foe turns out to be too strong,\n"
-  "OCTILLERY spews ink to escape.");
+  "el enemigo resulta ser demasiado\n"
+  "fuerte, Octillery le echará tinta para\n"
+  "escapar.");
 
 static const u8 DexDescription_Delibird_1[] = _(
-  "DELIBIRD carries its food bundled up\n"
-  "in its tail. There once was a famous\n"
-  "explorer who managed to reach the peak");
+  "Delibird usa la cola a modo de saco\n"
+  "para llevar su alimento. En una\n"
+  "ocasión, un famoso escalador consiguió");
 static const u8 DexDescription_Delibird_2[] = _(
-  "of Mt. Everest thanks to one of these\n"
-  "POKéMON sharing its food.");
+  "alcanzar la cima del Everest gracias a\n"
+  "que uno de estos Pokémon compartió sus\n"
+  "alimentos con él.");
 
 static const u8 DexDescription_Mantine_1[] = _(
-  "On sunny days, schools of MANTINE can\n"
-  "be seen elegantly leaping over the\n"
-  "sea’s waves.");
+  "En días soleados, es posible ver bancos\n"
+  "de Mantine saltando con elegancia por\n"
+  "entre las olas del mar. A estos Pokémon");
 static const u8 DexDescription_Mantine_2[] = _(
-  "This POKéMON is not bothered by the\n"
-  "REMORAID that hitches rides.");
+  "no les molestan los Remoraid que se les\n"
+  "pegan.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Skarmory_1[] = _(
@@ -2608,29 +2629,31 @@ static const u8 DexDescription_Skarmory_2[] = _(
   "edges to their pristine state.");
 #else
 static const u8 DexDescription_Skarmory_1[] = _(
-  "SKARMORY is entirely encased in hard,\n"
-  "protective armor. This POKéMON flies at\n"
-  "close to 190 mph.");
+  "Skarmory está totalmente encerrado en\n"
+  "el interior de una fuerte coraza\n"
+  "protectora. En vuelo, puede llegar a");
 static const u8 DexDescription_Skarmory_2[] = _(
-  "It slashes foes with its wings that\n"
-  "possess swordlike cutting edges.");
+  "alcanzar los 300 km por hora y usa las\n"
+  "afiladas alas que tiene para azotar al\n"
+  "rival.");
 #endif
 
 static const u8 DexDescription_Houndour_1[] = _(
-  "HOUNDOUR hunt as a coordinated pack.\n"
-  "They communicate with each other using\n"
-  "a variety of cries to corner their prey.");
+  "Houndour sale a cazar con el resto de\n"
+  "la manada con total coordinación. Estos\n"
+  "Pokémon se comunican unos con otros");
 static const u8 DexDescription_Houndour_2[] = _(
-  "This POKéMON’s remarkable teamwork is\n"
-  "unparalleled.");
+  "usando una serie de aullidos para\n"
+  "acorralar a su presa. El compañerismo\n"
+  "que existe entre ellos es incomparable.");
 
 static const u8 DexDescription_Houndoom_1[] = _(
-  "In a HOUNDOOM pack, the one with its\n"
-  "horns raked sharply towards the back\n"
-  "serves a leadership role.");
+  "En la manada de Houndoom, el que tiene\n"
+  "los cuernos bastante orientados hacia\n"
+  "atrás tiene un papel de liderazgo.");
 static const u8 DexDescription_Houndoom_2[] = _(
-  "These POKéMON choose their leader by\n"
-  "fighting amongst themselves.");
+  "Estos Pokémon suelen elegir al jefe\n"
+  "batiéndose entre ellos.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Kingdra_1[] = _(
@@ -2642,12 +2665,12 @@ static const u8 DexDescription_Kingdra_2[] = _(
   "search of prey.");
 #else
 static const u8 DexDescription_Kingdra_1[] = _(
-  "KINGDRA lives at extreme ocean depths\n"
-  "that are otherwise uninhabited.\n"
-  "It has long been believed that the");
+  "Kingdra vive en lo más profundo del\n"
+  "océano, donde no habita ninguna otra\n"
+  "especie. Siempre se ha pensado que su");
 static const u8 DexDescription_Kingdra_2[] = _(
-  "yawning of this POKéMON creates\n"
-  "spiraling ocean currents.");
+  "bostezo causaba las corrientes en\n"
+  "remolino que se dan en el océano.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2661,12 +2684,12 @@ static const u8 DexDescription_Phanpy_2[] = _(
   "water.");
 #else
 static const u8 DexDescription_Phanpy_1[] = _(
-  "For its nest, PHANPY digs a vertical pit \n"
-  "in the ground at the edge of a river.\n"
-  "It marks the area around its nest with");
+  "Phanpy cava un agujero profundo para\n"
+  "hacer su nido en el suelo, en la ribera\n"
+  "de los ríos, y marca con la trompa la");
 static const u8 DexDescription_Phanpy_2[] = _(
-  "its trunk to let the others know that\n"
-  "the area has been claimed.");
+  "zona para que el resto vea que ese\n"
+  "terreno ya está ocupado.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2679,171 +2702,175 @@ static const u8 DexDescription_Donphan_2[] = _(
   "that block mountain trails.");
 #else
 static const u8 DexDescription_Donphan_1[] = _(
-  "DONPHAN’s favorite attack is curling\n"
-  "its body into a ball, then charging at\n"
-  "its foe while rolling at high speed.");
+  "A Donphan le encanta enrollarse como\n"
+  "una pelota y cargar contra el enemigo\n"
+  "rodando a toda velocidad. Una vez ha");
 static const u8 DexDescription_Donphan_2[] = _(
-  "Once it starts rolling, this POKéMON\n"
-  "can’t stop very easily.");
+  "comenzado a rodar, no es fácil\n"
+  "pararlo.");
 #endif
 
 static const u8 DexDescription_Porygon2_1[] = _(
-  "PORYGON2 was created by humans using\n"
-  "the power of science. The man-made\n"
-  "POKéMON has been endowed with");
+  "Porygon2 fue creado por el hombre, con\n"
+  "los avances de la ciencia. Esta obra\n"
+  "humana ha sido provista de inteligencia");
 static const u8 DexDescription_Porygon2_2[] = _(
-  "artificial intelligence that enables it\n"
-  "to learn new gestures and emotions\n"
-  "on its own.");
+  "artificial que le permite aprender\n"
+  "gestos y sensaciones nuevas por su\n"
+  "cuenta.");
 
 static const u8 DexDescription_Stantler_1[] = _(
-  "STANTLER’s magnificent antlers were\n"
-  "traded at high prices as works of art.\n"
-  "As a result, this POKéMON was hunted");
+  "Hace tiempo, se comerciaba con la\n"
+  "magnífica cornamenta de Stantler. Se\n"
+  "vendía como obra de arte a alto precio.");
 static const u8 DexDescription_Stantler_2[] = _(
-  "close to extinction by those who were\n"
-  "after the priceless antlers.");
+  "Los interesados en cornamentas de valor\n"
+  "incalculable empezAron a cazarlos y\n"
+  "casi provocan su extinción.");
 
 static const u8 DexDescription_Smeargle_1[] = _(
-  "SMEARGLE marks the boundaries of its\n"
-  "territory using a body fluid that leaks\n"
-  "out from the tip of its tail.");
+  "Smeargle marca los límites de su\n"
+  "territorio liberando un fluido corporal\n"
+  "por el extremo de la cola. Hasta la");
 static const u8 DexDescription_Smeargle_2[] = _(
-  "Over 5,000 different marks left by this\n"
-  "POKéMON have been found.");
+  "fecha, se han encontrado más de 5.000\n"
+  "tipos de marcas distintas dejadas por\n"
+  "este Pokémon.");
 
 static const u8 DexDescription_Tyrogue_1[] = _(
-  "TYROGUE becomes stressed out if it\n"
-  "does not get to train every day.\n"
-  "When raising this POKéMON, the TRAINER");
+  "Tyrogue se pone demasiado nervioso si\n"
+  "no lo sacan a entrenarse cada día. Su\n"
+  "ENTRENADOR debe establecer y mantener");
 static const u8 DexDescription_Tyrogue_2[] = _(
-  "must establish and uphold various\n"
-  "training methods.");
+  "ciertos métodos de entrenamiento\n"
+  "Durante la cría.");
 
 static const u8 DexDescription_Hitmontop_1[] = _(
-  "HITMONTOP spins on its head at high\n"
-  "speed, all the while delivering kicks.\n"
-  "This technique is a remarkable mix of");
+  "Hitmontop hace el pino con la cabeza y\n"
+  "se pone a girar rápido al tiempo que\n"
+  "reparte patadas. Ésta es una técnica");
 static const u8 DexDescription_Hitmontop_2[] = _(
-  "both offense and defense at the same\n"
-  "time. The POKéMON travels faster\n"
-  "spinning than it does walking.");
+  "ofensiva y defensiva a la vez. Este\n"
+  "Pokémon se desplaza más rápido girando\n"
+  "sobre sí que caminando.");
 
 static const u8 DexDescription_Smoochum_1[] = _(
-  "SMOOCHUM actively runs about, but\n"
-  "also falls quite often.\n"
-  "Whenever the chance arrives, it will");
+  "Smoochum va corriendo por todos lados,\n"
+  "pero se cae también con frecuencia. Y\n"
+  "en cuanto tiene ocasión, se mira en");
 static const u8 DexDescription_Smoochum_2[] = _(
-  "look for its reflection to make sure its\n"
-  "face hasn’t become dirty.");
+  "algún sitio para ver si se ha manchado\n"
+  "la cara.");
 
 static const u8 DexDescription_Elekid_1[] = _(
-  "ELEKID stores electricity in its body.\n"
-  "If it touches metal and accidentally\n"
-  "discharges all its built-up electricity,");
+  "Elekid acumula electricidad. Si entra\n"
+  "en contacto con algo de metal y\n"
+  "descarga accidentalmente toda la");
 static const u8 DexDescription_Elekid_2[] = _(
-  "this POKéMON begins swinging its arms\n"
-  "in circles to recharge itself.");
+  "electricidad almacenada, empieza a\n"
+  "agitar los brazos en círculo para\n"
+  "volver a cargarse.");
 
 static const u8 DexDescription_Magby_1[] = _(
-  "MAGBY’s state of health is determined\n"
-  "by observing the fire it breathes.\n"
-  "If the POKéMON is spouting yellow");
+  "El estado de salud de Magby se puede\n"
+  "determinar observando el fuego que\n"
+  "emana al respirar. Si las llamas que");
 static const u8 DexDescription_Magby_2[] = _(
-  "flames from its mouth, it is in good\n"
-  "health. When it is fatigued, black smoke\n"
-  "will be mixed in with the flames.");
+  "echa por la boca son amarillas, está\n"
+  "bien. Pero si, además de las llamas,\n"
+  "sale humo negro, está cansado.");
 
 static const u8 DexDescription_Miltank_1[] = _(
-  "MILTANK gives over five gallons of milk\n"
-  "on a daily basis. Its sweet milk is\n"
-  "enjoyed by children and grown-ups alike.");
+  "Miltank da al día 20 litros de una\n"
+  "dulce leche que gusta a pequeños y\n"
+  "mayores. Aquellos a los que no les");
 static const u8 DexDescription_Miltank_2[] = _(
-  "People who can’t drink milk turn it into\n"
-  "yogurt and eat it instead.");
+  "gusta la leche, la toman en yogur");
 
 static const u8 DexDescription_Blissey_1[] = _(
-  "BLISSEY senses sadness with its fluffy\n"
-  "coat of fur. If it does so, this POKéMON\n"
-  "will rush over to the sad person,");
+  "Blissey es capaz de sentir la tristeza\n"
+  "a través del sedoso pelaje. Si detecta\n"
+  "que alguien está apenado, irá hasta");
 static const u8 DexDescription_Blissey_2[] = _(
-  "however far they may be, to share an\n"
-  "egg of happiness that brings a smile\n"
-  "to any face.");
+  "donde esté y compartirá un huevo de la\n"
+  "felicidad para devolverle la sonrisa.");
 
 static const u8 DexDescription_Raikou_1[] = _(
-  "RAIKOU embodies the speed of lightning.\n"
-  "The roars of this POKéMON send shock\n"
-  "waves shuddering through the air and");
+  "Raikou tiene la velocidad del rayo. Los\n"
+  "rugidos de este Pokémon emiten ondas de\n"
+  "choque que se esparcen vibrando por el");
 static const u8 DexDescription_Raikou_2[] = _(
-  "shake the ground as if lightning bolts\n"
-  "had come crashing down.");
+  "aire y sacuden el suelo como si fueran\n"
+  "auténticas descargas de rayo.");
 
 static const u8 DexDescription_Entei_1[] = _(
-  "ENTEI embodies the passion of magma.\n"
-  "This POKéMON is thought to have been\n"
-  "born in the eruption of a volcano.");
+  "Entei contiene el fulgor del magma en\n"
+  "su interior. Se cree que este Pokémon\n"
+  "nació de la erupción de un volcán.");
 static const u8 DexDescription_Entei_2[] = _(
-  "It sends up massive bursts of fire that\n"
-  "utterly consume all that they touch.");
+  "Escupe numerosas ráfagas de fuego que\n"
+  "devoran y reducen a cenizas todo lo que\n"
+  "tocan.");
 
 static const u8 DexDescription_Suicune_1[] = _(
-  "SUICUNE embodies the compassion of\n"
-  "a pure spring of water. It runs across\n"
-  "the land with gracefulness.");
+  "Suicune emana la pureza de los\n"
+  "manantiales. Suele ir corriendo por el\n"
+  "campo con gran elegancia. Este Pokémon");
 static const u8 DexDescription_Suicune_2[] = _(
-  "This POKéMON has the power to purify\n"
-  "dirty water.");
+  "tiene el poder de purificar el agua\n"
+  "contaminada.");
 
 static const u8 DexDescription_Larvitar_1[] = _(
-  "LARVITAR is born deep under the ground.\n"
-  "To come up to the surface, this POKéMON\n"
-  "must eat its way through the soil above.");
+  "Larvitar nace bajo tierra a gran\n"
+  "profundidad. Para subir a la\n"
+  "superficie, este Pokémon debe comer lo");
 static const u8 DexDescription_Larvitar_2[] = _(
-  "Until it does so, LARVITAR cannot see\n"
-  "its parent’s face.");
+  "que encuentra en su camino para abrirse\n"
+  "paso. Y, hasta que no está arriba, no\n"
+  "puede verles la cara a sus padres.");
 
 static const u8 DexDescription_Pupitar_1[] = _(
-  "PUPITAR creates a gas inside its body\n"
-  "that it compresses and forcefully\n"
-  "ejects to propel itself like a jet.");
+  "Pupitar crea un gas en su interior, que\n"
+  "comprime y expulsa violentamente a modo\n"
+  "de autopropulsión. Tiene un cuerpo");
 static const u8 DexDescription_Pupitar_2[] = _(
-  "The body is very durable - it avoids\n"
-  "damage even if it hits solid steel.");
+  "resistente que se mantiene inalterable\n"
+  "hasta cuando se golpea contra duro\n"
+  "acero.");
 
 static const u8 DexDescription_Tyranitar_1[] = _(
-  "TYRANITAR is so overwhelmingly\n"
-  "powerful, it can bring down a whole\n"
-  "mountain to make its nest.");
+  "Tyranitar tiene una fuerza imponente;\n"
+  "es capaz de echar abajo una montaña\n"
+  "para hacer su nido. Este Pokémon suele");
 static const u8 DexDescription_Tyranitar_2[] = _(
-  "This POKéMON wanders about in\n"
-  "mountains seeking new opponents to\n"
-  "fight.");
+  "merodear por las zonas de montaña en\n"
+  "busca de nuevos rivales contra los que\n"
+  "luchar.");
 
 static const u8 DexDescription_Lugia_1[] = _(
-  "LUGIA’s wings pack devastating power -\n"
-  "a light fluttering of its wings can blow\n"
-  "apart regular houses.");
+  "La fuerza que tiene Lugia en las alas\n"
+  "es devastadora; con nada que las bata\n"
+  "es capaz de derribar edificios enteros.");
 static const u8 DexDescription_Lugia_2[] = _(
-  "As a result, this POKéMON chooses to\n"
-  "live out of sight deep under the sea.");
+  "Por eso mismo, prefiere vivir donde no\n"
+  "haya nadie, en lo más profundo del\n"
+  "mar.");
 
 static const u8 DexDescription_HoOh_1[] = _(
-  "HO-OH’s feathers glow in seven colors\n"
-  "depending on the angle at which they\n"
-  "are struck by light.");
+  "Su plumaje contiene siete colores que\n"
+  "se ven según el ángulo desde el que le\n"
+  "da la luz. Se cree que es portador de");
 static const u8 DexDescription_HoOh_2[] = _(
-  "These feathers are said to bring\n"
-  "happiness to the bearers. This POKéMON\n"
-  "is said to live at the foot of a rainbow.");
+  "alegría. Este Pokémon vive a los pies\n"
+  "del arco iris.");
 
 static const u8 DexDescription_Celebi_1[] = _(
-  "This POKéMON came from the future by\n"
-  "crossing over time.\n"
-  "It is thought that so long as CELEBI");
+  "Este Pokémon vino del futuro haciendo\n"
+  "un viaje en el tiempo. Hay quien piensa\n"
+  "que, mientras Celebi siga apareciendo,");
 static const u8 DexDescription_Celebi_2[] = _(
-  "appears, a bright and shining future\n"
-  "awaits us.");
+  "hay un futuro brillante y\n"
+  "esperanzador.");
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Treecko_1[] = _(
@@ -2855,12 +2882,12 @@ static const u8 DexDescription_Treecko_2[] = _(
   "without conceding an inch of ground.");
 #else
 static const u8 DexDescription_Treecko_1[] = _(
-  "TREECKO has small hooks on the bottom\n"
-  "of its feet that enable it to scale\n"
-  "vertical walls.");
+  "Treecko tiene unos ganchos pequeños en\n"
+  "las plantas de los pies con los que\n"
+  "puede escalar superficies verticales.");
 static const u8 DexDescription_Treecko_2[] = _(
-  "This POKéMON attacks by slamming foes\n"
-  "with its thick tail.");
+  "Este Pokémon ataca dando un golpetazo\n"
+  "con la cola.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2873,12 +2900,13 @@ static const u8 DexDescription_Grovyle_2[] = _(
   "fast they may be.");
 #else
 static const u8 DexDescription_Grovyle_1[] = _(
-  "The leaves growing out of GROVYLE’s\n"
-  "body are convenient for camouflaging\n"
-  "it from enemies in the forest.");
+  "Las hojas que Grovyle tiene por el\n"
+  "cuerpo le resultan muy útiles para\n"
+  "camuflarse en el bosque y esconderse de");
 static const u8 DexDescription_Grovyle_2[] = _(
-  "This POKéMON is a master at climbing\n"
-  "trees in jungles.");
+  "los enemigos. A este Pokémon no hay\n"
+  "quien lo supere subiendo a los árboles\n"
+  "del bosque.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2891,12 +2919,12 @@ static const u8 DexDescription_Sceptile_2[] = _(
   "forest with loving care.");
 #else
 static const u8 DexDescription_Sceptile_1[] = _(
-  "The leaves growing on SCEPTILE’s body\n"
-  "are very sharp edged. This POKéMON is\n"
-  "very agile - it leaps all over the");
+  "Las hojas que le salen a Sceptile del\n"
+  "cuerpo tienen unos bordes muy afilados.\n"
+  "Este Pokémon es muy ágil, va saltando");
 static const u8 DexDescription_Sceptile_2[] = _(
-  "branches of trees and jumps on its foe\n"
-  "from above or behind.");
+  "de rama en rama y se lanza sobre el\n"
+  "enemigo por la espalda.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2909,13 +2937,13 @@ static const u8 DexDescription_Torchic_2[] = _(
   "fluffy coat of down.");
 #else
 static const u8 DexDescription_Torchic_1[] = _(
-  "TORCHIC sticks with its TRAINER,\n"
-  "following behind with unsteady\n"
-  "steps.");
+  "Torchic no se separa de su ENTRENADOR.\n"
+  "Siempre va detrás de él con sus pasitos\n"
+  "inseguros. Este Pokémon echa fuego en");
 static const u8 DexDescription_Torchic_2[] = _(
-  "This POKéMON breathes fire of over\n"
-  "1,800 degrees F, including fireballs\n"
-  "that leave the foe scorched black.");
+  "forma de bola, que llega a subir la\n"
+  "temperatura hasta 1.000 grados\n"
+  "centígrados.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2928,13 +2956,13 @@ static const u8 DexDescription_Combusken_2[] = _(
   "distracting.");
 #else
 static const u8 DexDescription_Combusken_1[] = _(
-  "COMBUSKEN toughens up its legs and\n"
-  "thighs by running through fields and\n"
-  "mountains.");
+  "Combusken fortalece las piernas\n"
+  "corriendo por llanos y montañas. Este\n"
+  "Pokémon tiene en las extremidades");
 static const u8 DexDescription_Combusken_2[] = _(
-  "This POKéMON’s legs possess both speed\n"
-  "and power, enabling it to dole out ten\n"
-  "kicks in one second.");
+  "inferiores tanto fuerza como velocidad.\n"
+  "Puede dar hasta diez patadas por\n"
+  "segundo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2947,12 +2975,12 @@ static const u8 DexDescription_Blaziken_2[] = _(
   "its foes scorched and blackened.");
 #else
 static const u8 DexDescription_Blaziken_1[] = _(
-  "In battle, BLAZIKEN blows out intense\n"
-  "flames from its wrists and attacks foes\n"
-  "courageously.");
+  "En combate, Blaziken expulsa vivas\n"
+  "llamas por las muñecas y ataca al\n"
+  "enemigo con fiereza. Cuanto más fuerte");
 static const u8 DexDescription_Blaziken_2[] = _(
-  "The stronger the foe, the more\n"
-  "intensely this POKéMON’s wrists burn.");
+  "sea el enemigo, más intensas serán las\n"
+  "llamas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2966,12 +2994,13 @@ static const u8 DexDescription_Mudkip_2[] = _(
   "bigger than itself.");
 #else
 static const u8 DexDescription_Mudkip_1[] = _(
-  "The fin on MUDKIP’s head acts as highly\n"
-  "sensitive radar. Using this fin to sense\n"
-  "movements of water and air, this");
+  "En el agua, Mudkip usa las branquias que\n"
+  "tiene en los mofletes para respirar.\n"
+  "Cuando tiene que enfrentarse a una");
 static const u8 DexDescription_Mudkip_2[] = _(
-  "POKéMON can determine what is taking\n"
-  "place around it without using its eyes.");
+  "situación delicada en combate, desata\n"
+  "una fuerza asombrosa con la que puede\n"
+  "destruir rocas incluso mayores que él.");
 #endif
 
 #ifdef SAPPHIRE
@@ -2984,12 +3013,12 @@ static const u8 DexDescription_Marshtomp_2[] = _(
   "ability to walk on just its hind legs.");
 #else
 static const u8 DexDescription_Marshtomp_1[] = _(
-  "The surface of MARSHTOMP’s body is\n"
-  "enveloped by a thin, sticky film that\n"
-  "enables it to live on land.");
+  "El cuerpo de Marshtomp está cubierto\n"
+  "por una fina película pegajosa gracias\n"
+  "a la cual puede vivir en tierra. Cuando");
 static const u8 DexDescription_Marshtomp_2[] = _(
-  "This POKéMON plays in mud on beaches\n"
-  "when the ocean tide is low.");
+  "la marea está baja, a este Pokémon le\n"
+  "encanta jugar en el fango.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3002,12 +3031,13 @@ static const u8 DexDescription_Swampert_2[] = _(
   "boulders to protect itself.");
 #else
 static const u8 DexDescription_Swampert_1[] = _(
-  "SWAMPERT is very strong. It has enough\n"
-  "power to easily drag a boulder weighing\n"
-  "more than a ton.");
+  "Swampert es muy fuerte. Puede arrastrar\n"
+  "una roca que pese más de 1 tonelada sin\n"
+  "ningún problema. Este Pokémon tiene el");
 static const u8 DexDescription_Swampert_2[] = _(
-  "This POKéMON also has powerful vision\n"
-  "that lets it see even in murky water.");
+  "sentido de la vista muy desarrollado.\n"
+  "Es capaz de ver hasta en aguas\n"
+  "cenagosas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3021,13 +3051,13 @@ static const u8 DexDescription_Poochyena_2[] = _(
   "on its tail bristle out.");
 #else
 static const u8 DexDescription_Poochyena_1[] = _(
-  "At first sight, POOCHYENA takes a bite\n"
-  "at anything that moves.\n"
-  "This POKéMON chases after prey until");
+  "La primera reacción que Poochyena tiene\n"
+  "al ver algo moverse es darle un\n"
+  "mordisco. Este Pokémon persigue a su");
 static const u8 DexDescription_Poochyena_2[] = _(
-  "the victim becomes exhausted.\n"
-  "However, it may turn tail if the prey\n"
-  "strikes back.");
+  "presa hasta que cae agotada. Aunque, a\n"
+  "veces, sale huyendo si su presa le\n"
+  "responde con un ataque.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3040,12 +3070,12 @@ static const u8 DexDescription_Mightyena_2[] = _(
   "possess superior skill.");
 #else
 static const u8 DexDescription_Mightyena_1[] = _(
-  "MIGHTYENA gives obvious signals when\n"
-  "it is preparing to attack. It starts to\n"
-  "growl deeply and then flattens its body.");
+  "Es muy fácil prever cuándo va a atacar\n"
+  "Mightyena; se pone a gruñir con fuerza\n"
+  "y se estira. Este Pokémon da unos");
 static const u8 DexDescription_Mightyena_2[] = _(
-  "This POKéMON will bite savagely with its\n"
-  "sharply pointed fangs.");
+  "mordiscos tremendos con los afilados\n"
+  "colmillos que tiene.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3059,12 +3089,11 @@ static const u8 DexDescription_Zigzagoon_2[] = _(
   "in battle.");
 #else
 static const u8 DexDescription_Zigzagoon_1[] = _(
-  "ZIGZAGOON restlessly wanders\n"
-  "everywhere at all times. This POKéMON\n"
-  "does so because it is very curious.");
+  "Zigzagoon está todo el día dando\n"
+  "vueltas de aquí para allá. Es un\n"
+  "Pokémon muy inquieto. Se interesa por");
 static const u8 DexDescription_Zigzagoon_2[] = _(
-  "It becomes interested in anything\n"
-  "that it happens to see.");
+  "todo lo que se encuentra en su camino.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3077,12 +3106,13 @@ static const u8 DexDescription_Linoone_2[] = _(
   "screeching halt before it can turn.");
 #else
 static const u8 DexDescription_Linoone_1[] = _(
-  "LINOONE always runs full speed and only\n"
-  "in straight lines. If facing an obstacle,\n"
-  "it makes a right-angle turn to evade it.");
+  "Linoone siempre corre todo lo rápido\n"
+  "que puede y sólo en línea recta. Si\n"
+  "encuentra un obstáculo en el camino, se");
 static const u8 DexDescription_Linoone_2[] = _(
-  "This POKéMON is very challenged by\n"
-  "gently curving roads.");
+  "moverá hacia la derecha para\n"
+  "esquivarlo. Correr bien por caminos\n"
+  "tortuosos es todo un reto para él.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3096,13 +3126,13 @@ static const u8 DexDescription_Wurmple_2[] = _(
   "from the spikes.");
 #else
 static const u8 DexDescription_Wurmple_1[] = _(
-  "Using the spikes on its rear end,  \n"
-  "WURMPLE peels the bark off trees and\n"
-  "feeds on the sap that oozes out.");
+  "Wurmple usa las púas del lomo para\n"
+  "raspar los troncos de los árboles,\n"
+  "quitarles la corteza y beber la savia");
 static const u8 DexDescription_Wurmple_2[] = _(
-  "This POKéMON’s feet are tipped with\n"
-  "suction pads that allow it to cling to\n"
-  "glass without slipping.");
+  "que emanan. Este Pokémon tiene unas\n"
+  "ventosas rematándole los pies, con las\n"
+  "que se adhiere al cristal sin");
 #endif
 
 #ifdef SAPPHIRE
@@ -3116,13 +3146,12 @@ static const u8 DexDescription_Silcoon_2[] = _(
   "silk.");
 #else
 static const u8 DexDescription_Silcoon_1[] = _(
-  "SILCOON tethers itself to a tree branch\n"
-  "using silk to keep from falling. There, \n"
-  "this POKéMON hangs quietly while it");
+  "Silcoon usa la seda que produce para\n"
+  "atarse a la rama de un árbol y\n"
+  "sujetarse bien. Y se queda ahí colgado");
 static const u8 DexDescription_Silcoon_2[] = _(
-  "awaits evolution.\n"
-  "It peers out of the silk cocoon through\n"
-  "a small hole.");
+  "a la espera de su evolución, asomado\n"
+  "por un agujero del capullo de seda.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3135,12 +3164,13 @@ static const u8 DexDescription_Beautifly_2[] = _(
   "it flits around gathering pollen.");
 #else
 static const u8 DexDescription_Beautifly_1[] = _(
-  "BEAUTIFLY’s favorite food is the sweet\n"
-  "pollen of flowers. If you want to see\n"
-  "this POKéMON, just leave a potted");
+  "La comida favorita de Beautifly es el\n"
+  "dulce polen de las flores. Si quieres\n"
+  "ver a este Pokémon, deja una maceta con");
 static const u8 DexDescription_Beautifly_2[] = _(
-  "flower by an open window. BEAUTIFLY\n"
-  "is sure to come looking for pollen.");
+  "flores al lado de la ventana y verás\n"
+  "cómo aparece un ejemplar de Beautifly\n"
+  "en busca de polen.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3154,13 +3184,13 @@ static const u8 DexDescription_Cascoon_2[] = _(
   "forget the pain it endured.");
 #else
 static const u8 DexDescription_Cascoon_1[] = _(
-  "CASCOON makes its protective cocoon\n"
-  "by wrapping its body entirely with a\n"
-  "fine silk from its mouth. Once the silk");
+  "Cascoon forma el capullo que lo protege\n"
+  "enrollándose por completo en la seda\n"
+  "que libera por la boca. Cuando está");
 static const u8 DexDescription_Cascoon_2[] = _(
-  "goes around its body, it hardens.\n"
-  "This POKéMON prepares for its evolution\n"
-  "inside the cocoon.");
+  "totalmente recubierto, se prepara para\n"
+  "evolucionar en el interior del\n"
+  "capullo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3174,12 +3204,13 @@ static const u8 DexDescription_Dustox_2[] = _(
   "its antennae like radar.");
 #else
 static const u8 DexDescription_Dustox_1[] = _(
-  "DUSTOX is instinctively drawn to light.\n"
-  "Swarms of this POKéMON are attracted\n"
-  "by the bright lights of cities, where");
+  "Los Dustox se acercan a la luz de forma\n"
+  "instintiva. De hecho, se agrupan en\n"
+  "enjambres alrededor de las luces de las");
 static const u8 DexDescription_Dustox_2[] = _(
-  "they wreak havoc by stripping the\n"
-  "leaves off roadside trees for food.");
+  "ciudades y causan estragos en las hojas\n"
+  "de los árboles que están a pie de calle\n"
+  "para alimentarse.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3193,12 +3224,12 @@ static const u8 DexDescription_Lotad_2[] = _(
   "atop the water.");
 #else
 static const u8 DexDescription_Lotad_1[] = _(
-  "LOTAD live in ponds and lakes, where\n"
-  "they float on the surface.\n"
-  "It grows weak if its broad leaf dies.");
+  "Lotad vive en estanques y lagos, donde\n"
+  "permanece flotando. Si se le marchita\n"
+  "la ancha hoja que tiene en la cabeza,");
 static const u8 DexDescription_Lotad_2[] = _(
-  "On rare occasions, this POKéMON travels\n"
-  "on land in search of clean water.");
+  "se debilitará. De vez en cuando se\n"
+  "desplaza en busca de agua limpia.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3212,13 +3243,13 @@ static const u8 DexDescription_Lombre_2[] = _(
   "child.");
 #else
 static const u8 DexDescription_Lombre_1[] = _(
-  "LOMBRE is nocturnal - it will get active\n"
-  "after dusk. It is also a mischief-maker.\n"
-  "When this POKéMON spots anglers,");
+  "Lombre es, además de travieso,\n"
+  "nocturno; entra en acción de noche.\n"
+  "Cuando ve a gente pescando, se pone a");
 static const u8 DexDescription_Lombre_2[] = _(
-  "it tugs on their fishing lines from\n"
-  "beneath the surface and enjoys their\n"
-  "consternation.");
+  "tirar del sedal por debajo del agua y\n"
+  "se divierte viendo la cara de enfado\n"
+  "que se les queda.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3231,17 +3262,17 @@ static const u8 DexDescription_Ludicolo_2[] = _(
   "exhibit an amazing amount of power.");
 #else
 static const u8 DexDescription_Ludicolo_1[] = _(
-  "LUDICOLO begins dancing as soon as\n"
-  "it hears cheerful, festive music.\n"
-  "This POKéMON is said to appear when it");
+  "Ludicolo empieza a bailar en cuanto oye\n"
+  "música alegre y de fiesta. Dicen que\n"
+  "este Pokémon aparece cuando oye cantar");
 static const u8 DexDescription_Ludicolo_2[] = _(
-  "hears the singing of children on hiking\n"
-  "outings.");
+  "a los niños que van de excursión para\n"
+  "hacer senderismo.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Seedot_1[] = _(
-  "SEEDOT looks exactly like an acorn\n"
+  "SemillaOT looks exactly like an acorn\n"
   "when it is dangling from a tree branch.\n"
   "It startles other POKéMON by suddenly");
 static const u8 DexDescription_Seedot_2[] = _(
@@ -3250,13 +3281,13 @@ static const u8 DexDescription_Seedot_2[] = _(
   "day using leaves.");
 #else
 static const u8 DexDescription_Seedot_1[] = _(
-  "SEEDOT attaches itself to a tree\n"
-  "branch using the top of its head.\n"
-  "It sucks moisture from the tree while");
+  "Seedot se queda enganchado a las ramas\n"
+  "de los árboles por el extremo que tiene\n"
+  "en la cabeza. Mientras está ahí");
 static const u8 DexDescription_Seedot_2[] = _(
-  "hanging off the branch.\n"
-  "The more water it drinks, the glossier\n"
-  "this POKéMON’s body becomes.");
+  "colgado, aprovecha para tomar la\n"
+  "humedad del árbol. Cuanta más agua\n"
+  "bebe, más lustroso se le ve.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3269,12 +3300,12 @@ static const u8 DexDescription_Nuzleaf_2[] = _(
   "people lost in a forest.");
 #else
 static const u8 DexDescription_Nuzleaf_1[] = _(
-  "NUZLEAF live in densely overgrown\n"
-  "forests. They occasionally venture out\n"
-  "of the forest to startle people.");
+  "Nuzleaf habita bosques muy poblados. Y,\n"
+  "en ocasiones, se atreve a salir para\n"
+  "asustar a la gente. A este Pokémon no");
 static const u8 DexDescription_Nuzleaf_2[] = _(
-  "This POKéMON dislikes having its long\n"
-  "nose pinched.");
+  "le gusta nada que le pellizquen la\n"
+  "nariz.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3288,12 +3319,12 @@ static const u8 DexDescription_Shiftry_2[] = _(
   "deep in forests.");
 #else
 static const u8 DexDescription_Shiftry_1[] = _(
-  "SHIFTRY is a mysterious POKéMON that\n"
-  "is said to live atop towering trees \n"
-  "dating back over a thousand years.");
+  "Shiftry es un enigmático Pokémon que\n"
+  "vive, dicen, en las copas de los\n"
+  "árboles milenarios. Este Pokémon genera");
 static const u8 DexDescription_Shiftry_2[] = _(
-  "It creates terrific windstorms with\n"
-  "the fans it holds.");
+  "fuertes corrientes de aire con los\n"
+  "abanicos que lleva en las manos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3306,13 +3337,13 @@ static const u8 DexDescription_Taillow_2[] = _(
   "live in forests.");
 #else
 static const u8 DexDescription_Taillow_1[] = _(
-  "TAILLOW courageously stands its\n"
-  "ground against foes, however strong\n"
-  "they may be.");
+  "Taillow se mantiene firme ante sus\n"
+  "rivales, sean lo fuertes que sean. Este\n"
+  "valiente Pokémon seguirá mostrándose");
 static const u8 DexDescription_Taillow_2[] = _(
-  "This gutsy POKéMON will remain defiant\n"
-  "even after a loss. On the other hand,\n"
-  "it cries loudly if it becomes hungry.");
+  "desafiante, aunque pierda en combate.\n"
+  "Además, si se enfada, se pondrá a\n"
+  "gritar con energía.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3325,13 +3356,13 @@ static const u8 DexDescription_Swellow_2[] = _(
   "other’s wings.");
 #else
 static const u8 DexDescription_Swellow_1[] = _(
-  "SWELLOW flies high above our heads,\n"
-  "making graceful arcs in the sky.\n"
-  "This POKéMON dives at a steep angle as");
+  "Swellow vuela muy alto dibujando\n"
+  "elegantes arcos en el cielo. Este\n"
+  "Pokémon se sumerge en el agua con");
 static const u8 DexDescription_Swellow_2[] = _(
-  "soon as it spots its prey. The hapless\n"
-  "prey is tightly grasped by SWELLOW’s\n"
-  "clawed feet, preventing escape.");
+  "rapidez y eficacia en cuanto detecta\n"
+  "una presa. Con las garras, atrapa a la\n"
+  "desdichada víctima y no la deja huir.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3344,12 +3375,13 @@ static const u8 DexDescription_Wingull_2[] = _(
   "catching prey.");
 #else
 static const u8 DexDescription_Wingull_1[] = _(
-  "WINGULL has the habit of carrying prey\n"
-  "and valuables in its beak and hiding\n"
-  "them in all sorts of locations.");
+  "Wingull tiene la costumbre de llevar a\n"
+  "su presa y objetos de valor en el pico,\n"
+  "y esconderlos en distintos sitios. Este");
 static const u8 DexDescription_Wingull_2[] = _(
-  "This POKéMON rides the winds and flies\n"
-  "as if it were skating across the sky.");
+  "Pokémon vuela dejándose llevar por las\n"
+  "corrientes de aire como si fuera\n"
+  "patinando por el cielo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3362,12 +3394,12 @@ static const u8 DexDescription_Pelipper_2[] = _(
   "everything in one big gulp.");
 #else
 static const u8 DexDescription_Pelipper_1[] = _(
-  "PELIPPER is a flying transporter that\n"
-  "carries small POKéMON and eggs inside\n"
-  "its massive bill.");
+  "Pelipper vuela transportando pequeños\n"
+  "huevos y Pokémon dentro del descomunal\n"
+  "pico que tiene. Este Pokémon construye");
 static const u8 DexDescription_Pelipper_2[] = _(
-  "This POKéMON builds its nest on steep\n"
-  "cliffs facing the sea.");
+  "su nido en escarpados acantilados\n"
+  "frente al mar.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3380,13 +3412,13 @@ static const u8 DexDescription_Ralts_2[] = _(
   "in the same way.");
 #else
 static const u8 DexDescription_Ralts_1[] = _(
-  "RALTS senses the emotions of\n"
-  "people using the horns on its head.\n"
-  "This POKéMON rarely appears before");
+  "Ralts percibe las sensaciones de la\n"
+  "gente por los colmillos que tiene\n"
+  "encima y detrás de la cabeza. No es");
 static const u8 DexDescription_Ralts_2[] = _(
-  "people. But when it does, it draws\n"
-  "closer if it senses that the person has\n"
-  "a positive disposition.");
+  "común que este Pokémon aparezca en\n"
+  "público, pero cuando lo hace, se acerca\n"
+  "si ve buena disposición en la gente.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3400,12 +3432,13 @@ static const u8 DexDescription_Kirlia_2[] = _(
   "scenery.");
 #else
 static const u8 DexDescription_Kirlia_1[] = _(
-  "It is said that a KIRLIA that is\n"
-  "exposed to the positive emotions of\n"
-  "its TRAINER grows beautiful.");
+  "Dicen que al recibir los sentimientos\n"
+  "positivos de su ENTRENADOR, Kirlia\n"
+  "crece con gran belleza. Este Pokémon");
 static const u8 DexDescription_Kirlia_2[] = _(
-  "This POKéMON controls psychokinetic\n"
-  "powers with its highly developed brain.");
+  "controla poderes psicoquinéticos\n"
+  "gracias al desarrollado cerebro que\n"
+  "tiene.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3419,12 +3452,12 @@ static const u8 DexDescription_Gardevoir_2[] = _(
   "life.");
 #else
 static const u8 DexDescription_Gardevoir_1[] = _(
-  "GARDEVOIR has the ability to read the\n"
-  "future. If it senses impending danger\n"
-  "to its TRAINER, this POKéMON is said to");
+  "Gardevoir es capaz de leer el futuro.\n"
+  "Si siente que su ENTRENADOR está en\n"
+  "peligro inminente, dicen que libera");
 static const u8 DexDescription_Gardevoir_2[] = _(
-  "unleash its psychokinetic energy at\n"
-  "full power.");
+  "automáticamente toda su energía\n"
+  "psicoquinética.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3437,12 +3470,12 @@ static const u8 DexDescription_Surskit_2[] = _(
   "eating this syrup.");
 #else
 static const u8 DexDescription_Surskit_1[] = _(
-  "From the tips of its feet, SURSKIT\n"
-  "secretes an oil that enables it to walk\n"
-  "on water as if it were skating.");
+  "Surskit segrega un aceite por la punta\n"
+  "de las patas que le permite caminar\n"
+  "sobre el agua como si fuera patinando.");
 static const u8 DexDescription_Surskit_2[] = _(
-  "This POKéMON feeds on microscopic\n"
-  "organisms in ponds and lakes.");
+  "Este Pokémon se alimenta de\n"
+  "microorganismos en charcas y lagos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3455,13 +3488,13 @@ static const u8 DexDescription_Masquerain_2[] = _(
   "that a heavy rainfall is on its way.");
 #else
 static const u8 DexDescription_Masquerain_1[] = _(
-  "MASQUERAIN intimidates enemies with\n"
-  "the eyelike patterns on its antennas.\n"
-  "This POKéMON flaps its four wings to");
+  "Masquerain intimida a sus enemigos con\n"
+  "los ojos que tiene dibujados en las\n"
+  "antenas. Este Pokémon bate las cuatro");
 static const u8 DexDescription_Masquerain_2[] = _(
-  "freely fly in any direction - even\n"
-  "sideways and backwards - as if it were\n"
-  "a helicopter.");
+  "alas que tiene para volar libremente en\n"
+  "cualquier dirección (hasta de lado y\n"
+  "hacia atrás) como un helicóptero.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3474,12 +3507,13 @@ static const u8 DexDescription_Shroomish_2[] = _(
   "they make trees and weeds wilt.");
 #else
 static const u8 DexDescription_Shroomish_1[] = _(
-  "SHROOMISH live in damp soil in the dark\n"
-  "depths of forests. They are often\n"
-  "found keeping still under fallen leaves.");
+  "Los Shroomish viven en zonas húmedas en\n"
+  "la profunda oscuridad del bosque.\n"
+  "Suelen quedarse tranquilamente bajo las");
 static const u8 DexDescription_Shroomish_2[] = _(
-  "This POKéMON feeds on compost that\n"
-  "is made up of fallen, rotted leaves.");
+  "hojas caídas. Se alimentan del abono\n"
+  "que éstas generan al empezar a\n"
+  "pudrirse.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3492,12 +3526,13 @@ static const u8 DexDescription_Breloom_2[] = _(
   "seed will cause your stomach to rumble.");
 #else
 static const u8 DexDescription_Breloom_1[] = _(
-  "BRELOOM closes in on its foe with light\n"
-  "and sprightly footwork, then throws\n"
-  "punches with its stretchy arms.");
+  "Breloom se acerca al enemigo realizando\n"
+  "un juego de piernas ágil y enérgico. Y,\n"
+  "a continuación, le da unos puñetazos");
 static const u8 DexDescription_Breloom_2[] = _(
-  "This POKéMON’s fighting technique puts\n"
-  "boxers to shame.");
+  "con los brazos elásticos que tiene. Las\n"
+  "técnicas de lucha que usa dejan en\n"
+  "ridículo al boxeador más profesional.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3510,12 +3545,12 @@ static const u8 DexDescription_Slakoth_2[] = _(
   "motion.");
 #else
 static const u8 DexDescription_Slakoth_1[] = _(
-  "SLAKOTH lolls around for over twenty\n"
-  "hours every day. Because it moves so\n"
-  "little, it does not need much food.");
+  "Slakoth se pasa más de veinte horas al\n"
+  "día tumbado. Como se mueve tan poco,\n"
+  "necesita muy poca comida. De hecho, la");
 static const u8 DexDescription_Slakoth_2[] = _(
-  "This POKéMON’s sole daily meal consists\n"
-  "of just three leaves.");
+  "única toma que hace al día la componen\n"
+  "tan solo tres hojas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3529,12 +3564,13 @@ static const u8 DexDescription_Vigoroth_2[] = _(
   "it can settle down.");
 #else
 static const u8 DexDescription_Vigoroth_1[] = _(
-  "VIGOROTH is always itching and agitated\n"
-  "to go on a wild rampage. It simply can’t\n"
-  "tolerate sitting still for even a minute.");
+  "Vigoroth está continuamente inquieto,\n"
+  "rabiando por salir corriendo sin\n"
+  "control. Estar quieto un solo minuto es");
 static const u8 DexDescription_Vigoroth_2[] = _(
-  "This POKéMON’s stress level rises if it\n"
-  "can’t be moving constantly.");
+  "superior a sus fuerzas. Si no puede\n"
+  "estar en continuo movimiento, el nivel\n"
+  "de estrés de este Pokémon se dispara.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3547,13 +3583,11 @@ static const u8 DexDescription_Slaking_2[] = _(
   "while lying prone on the ground.");
 #else
 static const u8 DexDescription_Slaking_1[] = _(
-  "SLAKING spends all day lying down and\n"
-  "lolling about.\n"
-  "It eats grass growing within its reach.");
+  "Slaking se pasa todo el día tumbado\n"
+  "vagueando. Se come la hierba que tiene\n"
+  "a su alcance y, una vez ha acabado con");
 static const u8 DexDescription_Slaking_2[] = _(
-  "If it eats all the grass it can reach,\n"
-  "this POKéMON reluctantly moves to\n"
-  "another spot.");
+  "ella, se va de mala gana a otro sitio.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3566,12 +3600,12 @@ static const u8 DexDescription_Nincada_2[] = _(
   "sunlight so avoids it.");
 #else
 static const u8 DexDescription_Nincada_1[] = _(
-  "NINCADA lives underground for many\n"
-  "years in complete darkness.\n"
-  "This POKéMON absorbs nutrients from");
+  "Nincada vive bajo tierra en la más\n"
+  "Absoluta oscuridad Durante años. Este\n"
+  "Pokémon absorbe nutrientes de las");
 static const u8 DexDescription_Nincada_2[] = _(
-  "the roots of trees. It stays motionless\n"
-  "as it waits for evolution.");
+  "raíces de los árboles y permanece\n"
+  "inmóvil a la espera de la evolución.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3585,12 +3619,12 @@ static const u8 DexDescription_Ninjask_2[] = _(
   "TRAINER’s abilities to the test.");
 #else
 static const u8 DexDescription_Ninjask_1[] = _(
-  "NINJASK moves around at such a high\n"
-  "speed that it cannot be seen, even\n"
-  "while its crying can be clearly heard.");
+  "Ninjask se mueve de un lado a otro a\n"
+  "tal velocidad que es imposible verlo.\n"
+  "Sin embargo, como su zumbido no deja de");
 static const u8 DexDescription_Ninjask_2[] = _(
-  "For that reason, this POKéMON was long\n"
-  "believed to be invisible.");
+  "oírse, se pensó Durante mucho tiempo\n"
+  "que este Pokémon era invisible.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3603,13 +3637,13 @@ static const u8 DexDescription_Shedinja_2[] = _(
   "immobile - it doesn’t even breathe.");
 #else
 static const u8 DexDescription_Shedinja_1[] = _(
-  "SHEDINJA’s hard body doesn’t move -\n"
-  "not even a twitch. In fact, its body\n"
-  "appears to be merely a hollow shell.");
+  "Shedinja tiene un cuerpo robusto que no\n"
+  "mueve en Absoluto. De hecho, parece una\n"
+  "especie de caparazón hueco. Se cree que");
 static const u8 DexDescription_Shedinja_2[] = _(
-  "It is believed that this POKéMON will\n"
-  "steal the spirit of anyone peering into\n"
-  "its hollow body from its back.");
+  "si alguien se atreviera a mirarle por\n"
+  "la espalda lo que tiene en su interior,\n"
+  "Shedinja le robaría el alma.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3622,13 +3656,13 @@ static const u8 DexDescription_Whismur_2[] = _(
   "POKéMON goes to sleep, all tired out.");
 #else
 static const u8 DexDescription_Whismur_1[] = _(
-  "Normally, WHISMUR’s voice is very quiet -\n"
-  "it is barely audible even if one is\n"
-  "paying close attention.");
+  "Normalmente, Whismur tiene una voz\n"
+  "tenue, casi inaudible, aunque se preste\n"
+  "atención. No obstante, si este Pokémon");
 static const u8 DexDescription_Whismur_2[] = _(
-  "However, if this POKéMON senses danger,\n"
-  "it starts crying at an earsplitting\n"
-  "volume.");
+  "siente que el peligro acecha, puede\n"
+  "ponerse a chillar con un volumen\n"
+  "ensordecedor.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3641,12 +3675,13 @@ static const u8 DexDescription_Loudred_2[] = _(
   "to be a weak point.");
 #else
 static const u8 DexDescription_Loudred_1[] = _(
-  "LOUDRED’s bellowing can completely\n"
-  "decimate a wood-frame house. It uses\n"
-  "its voice to punish its foes.");
+  "Los bramidos de Loudred pueden echar\n"
+  "abajo una casa reforzada con vigas de\n"
+  "madera. Este Pokémon usa el vozarrón");
 static const u8 DexDescription_Loudred_2[] = _(
-  "This POKéMON’s round ears serve as\n"
-  "loudspeakers.");
+  "que tiene para castigar a sus rivales.\n"
+  "Las orejas redondas le sirven de\n"
+  "altavoces.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3659,12 +3694,12 @@ static const u8 DexDescription_Exploud_2[] = _(
   "it is in battle.");
 #else
 static const u8 DexDescription_Exploud_1[] = _(
-  "EXPLOUD triggers earthquakes with the\n"
-  "tremors it creates by bellowing. If this\n"
-  "POKéMON violently inhales from the");
+  "Exploud provoca terremotos con el\n"
+  "temblor que causa al levantar la voz.\n"
+  "Si ves a este Pokémon inhalar aire por");
 static const u8 DexDescription_Exploud_2[] = _(
-  "ports on its body, it’s a sign that it is\n"
-  "preparing to let loose a huge bellow.");
+  "los tubos, ojo, que está a punto de\n"
+  "soltar un buen bramido.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3678,13 +3713,12 @@ static const u8 DexDescription_Makuhita_2[] = _(
   "energy.");
 #else
 static const u8 DexDescription_Makuhita_1[] = _(
-  "MAKUHITA is tenacious - it will keep\n"
-  "getting up and attacking its foe\n"
-  "however many times it is knocked down.");
+  "Makuhita es tenaz. Da igual las veces\n"
+  "que le venzan; volverá a ponerse en pie\n"
+  "y a atacar. De hecho, cada vez que se");
 static const u8 DexDescription_Makuhita_2[] = _(
-  "Every time it gets back up, this\n"
-  "POKéMON stores more energy in its body\n"
-  "for evolving.");
+  "recupera, acumula más energía para\n"
+  "poder evolucionar.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3697,12 +3731,13 @@ static const u8 DexDescription_Hariyama_2[] = _(
   "becomes as hard as a rock.");
 #else
 static const u8 DexDescription_Hariyama_1[] = _(
-  "HARIYAMA practices its straight-arm\n"
-  "slaps in any number of locations.\n"
-  "One hit of this POKéMON’s powerful,");
+  "Hariyama practica los empujones que da\n"
+  "estirando los brazos allá por donde va.\n"
+  "Este Pokémon puede partir por la mitad");
 static const u8 DexDescription_Hariyama_2[] = _(
-  "openhanded, straight-arm punches\n"
-  "could snap a telephone pole in two.");
+  "un poste de teléfono de un enérgico\n"
+  "golpe con los brazos estirados y las\n"
+  "manos abiertas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3715,13 +3750,12 @@ static const u8 DexDescription_Azurill_2[] = _(
   "playing on its big, rubbery tail.");
 #else
 static const u8 DexDescription_Azurill_1[] = _(
-  "AZURILL spins its tail as if it were a\n"
-  "lasso, then hurls it far. The momentum\n"
-  "of the throw sends its body flying, too.");
+  "Azurill enrolla la cola como si fuera\n"
+  "un lazo y la despliega a continuación\n"
+  "todo lo que puede. De esta forma, un");
 static const u8 DexDescription_Azurill_2[] = _(
-  "Using this unique action, one of these\n"
-  "POKéMON managed to hurl itself a record\n"
-  "33 feet.");
+  "Azurill llegó a lanzarse a sí mismo\n"
+  "hasta 10 metros.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3735,13 +3769,13 @@ static const u8 DexDescription_Nosepass_2[] = _(
   "little over 3/8 of an inch every year.");
 #else
 static const u8 DexDescription_Nosepass_1[] = _(
-  "NOSEPASS’s magnetic nose is always\n"
-  "pointed to the north. If two of these\n"
-  "POKéMON meet, they cannot turn");
+  "Nosepass siempre está con el pico\n"
+  "magnético que tiene orientado hacia el\n"
+  "norte. Si se encuentra con otro");
 static const u8 DexDescription_Nosepass_2[] = _(
-  "their faces to each other when they\n"
-  "are close because their magnetic noses\n"
-  "repel one another.");
+  "ejemplar de su especie, no puede\n"
+  "mirarle de frente porque sus polos\n"
+  "magnéticos se repelen.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3754,12 +3788,11 @@ static const u8 DexDescription_Skitty_2[] = _(
   "because of its adorable looks.");
 #else
 static const u8 DexDescription_Skitty_1[] = _(
-  "SKITTY has the habit of becoming\n"
-  "fascinated by moving objects and\n"
-  "chasing them around.");
+  "A Skitty le encanta mover cosas e ir\n"
+  "detrás de ellas. Es de todos sabido que\n"
+  "se dedica a ir detrás de su propia cola");
 static const u8 DexDescription_Skitty_2[] = _(
-  "This POKéMON is known to chase after\n"
-  "its own tail and become dizzy.");
+  "y que, al final, acaba mareándose.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3772,13 +3805,13 @@ static const u8 DexDescription_Delcatty_2[] = _(
   "it will just move away somewhere else.");
 #else
 static const u8 DexDescription_Delcatty_1[] = _(
-  "DELCATTY prefers to live an unfettered\n"
-  "existence in which it can do as it\n"
-  "pleases at its own pace.");
+  "Delcatty prefiere llevar una vida\n"
+  "independiente y hacer lo que se le\n"
+  "antoje. Como este Pokémon come y duerme");
 static const u8 DexDescription_Delcatty_2[] = _(
-  "Because this POKéMON eats and sleeps\n"
-  "whenever it decides, its daily routines\n"
-  "are completely random.");
+  "según vea en cada momento, no se puede\n"
+  "decir que tenga unos hábitos regulares\n"
+  "en el día a día.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3791,13 +3824,12 @@ static const u8 DexDescription_Sableye_2[] = _(
   "body surface.");
 #else
 static const u8 DexDescription_Sableye_1[] = _(
-  "SABLEYE lead quiet lives deep inside\n"
-  "caverns. They are feared, however,\n"
-  "because these POKéMON are thought to");
+  "Los Sableye hacen una vida muy\n"
+  "tranquila en cavernas. Pero son muy\n"
+  "temidos; se dice que, cuando los ojos");
 static const u8 DexDescription_Sableye_2[] = _(
-  "steal the spirits of people when their\n"
-  "eyes burn with a sinister glow in the\n"
-  "darkness.");
+  "les brillan de manera siniestra, están\n"
+  "robándole el alma a alguien.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3812,22 +3844,22 @@ static const u8 DexDescription_Mawile_2[] = _(
 #else
 #if REVISION >= 1
 static const u8 DexDescription_Mawile_1[] = _(
-  "MAWILE’s huge jaws are actually steel\n"
-  "horns that have been transformed.\n"
-  "Its docile-looking face serves to lull");
+  "Las descomunales fauces de acero de\n"
+  "Mawile son la evolución de unos cuernos\n"
+  "que tuvo en su día. Con su expresión");
 static const u8 DexDescription_Mawile_2[] = _(
-  "its foe into letting down its guard.\n"
-  "When the foe least expects it, MAWILE\n"  // Correct spelling of MAWILE
-  "chomps it with its gaping jaws.");
+  "dócil puede engañar al enemigo y hacer\n"
+  "que baje la guardia para sorprenderle\n"
+  "con las fauces.");
 #else
 static const u8 DexDescription_Mawile_1[] = _(
-  "MAWHILE’s huge jaws are actually steel\n"
-  "horns that have been transformed.\n"
-  "Its docile-looking face serves to lull");
+  "Las descomunales fauces de acero de\n"
+  "Mawile son la evolución de unos cuernos\n"
+  "que tuvo en su día. Con su expresión");
 static const u8 DexDescription_Mawile_2[] = _(
-  "its foe into letting down its guard.\n"
-  "When the foe least expects it, MAWHILE\n"
-  "chomps it with its gaping jaws.");
+  "dócil puede engañar al enemigo y hacer\n"
+  "que baje la guardia para sorprenderle\n"
+  "con las fauces.");
 #endif
 #endif
 
@@ -3841,12 +3873,12 @@ static const u8 DexDescription_Aron_2[] = _(
   "a handy meal for the POKéMON.");
 #else
 static const u8 DexDescription_Aron_1[] = _(
-  "This POKéMON has a body of steel.\n"
-  "To make its body, ARON feeds on\n"
-  "iron ore that it digs from mountains.");
+  "Este Pokémon tiene el cuerpo de acero.\n"
+  "Para mantenerlo, se alimenta del hierro\n"
+  "que saca de las montañas. A veces,");
 static const u8 DexDescription_Aron_2[] = _(
-  "Occasionally, it causes major trouble by\n"
-  "eating bridges and rails.");
+  "causa verdaderos problemas, pues se\n"
+  "come puentes y vías de tren.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3859,12 +3891,12 @@ static const u8 DexDescription_Lairon_2[] = _(
   "with humans mining the iron ore.");
 #else
 static const u8 DexDescription_Lairon_1[] = _(
-  "LAIRON tempers its steel body by\n"
-  "drinking highly nutritious mineral\n"
-  "springwater until it is bloated.");
+  "Lairon templa su cuerpo de acero\n"
+  "bebiendo agua mineral muy rica en\n"
+  "nutrientes hasta que no puede más. Este");
 static const u8 DexDescription_Lairon_2[] = _(
-  "This POKéMON makes its nest close to\n"
-  "springs of delicious water.");
+  "Pokémon suele crear su nido cerca de\n"
+  "manantiales de rica agua.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3878,12 +3910,12 @@ static const u8 DexDescription_Aggron_2[] = _(
   "own territory.");
 #else
 static const u8 DexDescription_Aggron_1[] = _(
-  "AGGRON claims an entire mountain as its\n"
-  "own territory. It mercilessly beats up\n"
-  "anything that violates its environment.");
+  "Aggron marca una montaña entera como su\n"
+  "territorio y acaba con todo lo que\n"
+  "pueda ponerlo en peligro. Este Pokémon");
 static const u8 DexDescription_Aggron_2[] = _(
-  "This POKéMON vigilantly patrols its\n"
-  "territory at all times.");
+  "está continuamente patrullando la zona\n"
+  "en defensa de su terreno.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3896,13 +3928,13 @@ static const u8 DexDescription_Meditite_2[] = _(
   "this POKéMON’s training.");
 #else
 static const u8 DexDescription_Meditite_1[] = _(
-  "MEDITITE undertakes rigorous mental\n"
-  "training deep in the mountains.\n"
-  "However, whenever it meditates, this");
+  "Meditite lleva a cabo un entrenamiento\n"
+  "mental exhaustivo en lo más profundo de\n"
+  "las montañas. Aunque, cuando medita,");
 static const u8 DexDescription_Meditite_2[] = _(
-  "POKéMON always loses its concentration\n"
-  "and focus. As a result, its training\n"
-  "never ends.");
+  "pierde toda la concentración y se\n"
+  "descentra. Por eso no deja nunca de\n"
+  "entrenarse.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3916,13 +3948,13 @@ static const u8 DexDescription_Medicham_2[] = _(
   "without eating.");
 #else
 static const u8 DexDescription_Medicham_1[] = _(
-  "It is said that through meditation,\n"
-  "MEDICHAM heightens energy inside\n"
-  "its body and sharpens its sixth sense.");
+  "Dicen que, a través de la meditación,\n"
+  "Medicham aumenta su energía interior y\n"
+  "agudiza el sexto sentido que tiene.");
 static const u8 DexDescription_Medicham_2[] = _(
-  "This POKéMON hides its presence by\n"
-  "merging itself with fields and\n"
-  "mountains.");
+  "Este Pokémon suele esconderse\n"
+  "mezclándose con el campo y las\n"
+  "montañas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3935,12 +3967,13 @@ static const u8 DexDescription_Electrike_2[] = _(
   "fur.");
 #else
 static const u8 DexDescription_Electrike_1[] = _(
-  "ELECTRIKE stores electricity in its\n"
-  "long body hair. This POKéMON stimulates\n"
-  "its leg muscles with electric charges.");
+  "Electrike acumula electricidad en el\n"
+  "largo pelaje que tiene. Este Pokémon\n"
+  "estimula los músculos de las patas");
 static const u8 DexDescription_Electrike_2[] = _(
-  "These jolts of power give its legs\n"
-  "explosive acceleration performance.");
+  "mediante descargas eléctricas. Estas\n"
+  "explosiones de energía le permiten\n"
+  "acelerar de forma increíble.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3953,12 +3986,13 @@ static const u8 DexDescription_Manectric_2[] = _(
   "thunderclouds above its head.");
 #else
 static const u8 DexDescription_Manectric_1[] = _(
-  "MANECTRIC is constantly discharging\n"
-  "electricity from its mane. The sparks\n"
-  "sometimes ignite forest fires.");
+  "Manectric está continuamente\n"
+  "descargando electricidad por las\n"
+  "melenas, y a veces causa incendios en");
 static const u8 DexDescription_Manectric_2[] = _(
-  "When it enters a battle, this POKéMON\n"
-  "creates thunderclouds.");
+  "el bosque con las chispas que suelta.\n"
+  "Cuando entra en combate, este Pokémon\n"
+  "crea nubarrones.");
 #endif
 
 #ifdef SAPPHIRE
@@ -3971,13 +4005,13 @@ static const u8 DexDescription_Plusle_2[] = _(
   "loudly.");
 #else
 static const u8 DexDescription_Plusle_1[] = _(
-  "PLUSLE always acts as a cheerleader\n"
-  "for its partners. Whenever a teammate\n"
-  "puts out a good effort in battle, this");
+  "Plusle siempre hace las veces de líder\n"
+  "con sus compañeros. Cuando algún\n"
+  "miembro de su grupo hace un gran");
 static const u8 DexDescription_Plusle_2[] = _(
-  "POKéMON shorts out its body to create\n"
-  "the crackling noises of sparks to show\n"
-  "its joy.");
+  "esfuerzo en combate, causa un\n"
+  "cortocircuito en su interior para\n"
+  "mostrar con el chisporroteo su");
 #endif
 
 #ifdef SAPPHIRE
@@ -3991,12 +4025,13 @@ static const u8 DexDescription_Minun_2[] = _(
   "of sparks.");
 #else
 static const u8 DexDescription_Minun_1[] = _(
-  "MINUN is more concerned about cheering\n"
-  "on its partners than its own safety.\n"
-  "It shorts out the electricity in its");
+  "Minun está más preocupado de animar a\n"
+  "sus compañeros de equipo que de su\n"
+  "propia seguridad. Para animar a los");
 static const u8 DexDescription_Minun_2[] = _(
-  "body to create brilliant showers of\n"
-  "sparks to cheer on its teammates.");
+  "miembros de su grupo, crea un\n"
+  "cortocircuito en su interior y libera\n"
+  "un chisporroteo espectacular.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4009,13 +4044,12 @@ static const u8 DexDescription_Volbeat_2[] = _(
   "given off by ILLUMISE.");
 #else
 static const u8 DexDescription_Volbeat_1[] = _(
-  "With the arrival of night, VOLBEAT emits\n"
-  "light from its tail. It communicates with\n"
-  "others by adjusting the intensity and");
+  "Cuando llega la noche, Volbeat emite\n"
+  "luz por la cola y regula la intensidad\n"
+  "y el destello para comunicarse con el");
 static const u8 DexDescription_Volbeat_2[] = _(
-  "flashing of its light.\n"
-  "This POKéMON is attracted by the sweet\n"
-  "aroma of ILLUMISE.");
+  "resto. A este Pokémon le atrae el dulce\n"
+  "aroma de Illumise.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4028,13 +4062,12 @@ static const u8 DexDescription_Illumise_2[] = _(
   "more complex designs in the sky.");
 #else
 static const u8 DexDescription_Illumise_1[] = _(
-  "ILLUMISE attracts a swarm of VOLBEAT\n"
-  "using a sweet fragrance. Once the\n"
-  "VOLBEAT have gathered, this POKéMON");
+  "Illumise atrae mediante su dulce aroma\n"
+  "a enjambres de Volbeat. Una vez los ha\n"
+  "agrupado, les guía en el vuelo para que");
 static const u8 DexDescription_Illumise_2[] = _(
-  "leads the lit-up swarm in drawing\n"
-  "geometric designs on the canvas of\n"
-  "the night sky.");
+  "dibujen formas geométricas en el lienzo\n"
+  "del oscuro cielo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4047,12 +4080,12 @@ static const u8 DexDescription_Roselia_2[] = _(
   "contain a vicious poison.");
 #else
 static const u8 DexDescription_Roselia_1[] = _(
-  "ROSELIA shoots sharp thorns as\n"
-  "projectiles at any opponent that tries\n"
-  "to steal the flowers on its arms.");
+  "Roselia lanza finas espinas a todo el\n"
+  "que se le acerca con intención de\n"
+  "robarle las flores de los brazos. El");
 static const u8 DexDescription_Roselia_2[] = _(
-  "The aroma of this POKéMON brings\n"
-  "serenity to living things.");
+  "aroma de este Pokémon resulta relajante\n"
+  "a los seres vivos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4065,12 +4098,13 @@ static const u8 DexDescription_Gulpin_2[] = _(
   "special enzymes that dissolve anything.");
 #else
 static const u8 DexDescription_Gulpin_1[] = _(
-  "Virtually all of GULPIN’s body is its\n"
-  "stomach. As a result, it can swallow\n"
-  "something its own size.");
+  "Casi la totalidad del cuerpo de Gulpin\n"
+  "está compuesto por el estómago. Por eso\n"
+  "puede tragarse todo lo que tenga su");
 static const u8 DexDescription_Gulpin_2[] = _(
-  "This POKéMON’s stomach contains a\n"
-  "special fluid that digests anything.");
+  "tamaño. En el interior del estómago,\n"
+  "tiene un fluido capaz de corroerlo\n"
+  "todo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4083,13 +4117,13 @@ static const u8 DexDescription_Swalot_2[] = _(
   "inside this POKéMON’s mouth.");
 #else
 static const u8 DexDescription_Swalot_1[] = _(
-  "When SWALOT spots prey, it spurts out\n"
-  "a hideously toxic fluid from its pores\n"
-  "and sprays the target.");
+  "Cuando Swalot detecta una presa, echa\n"
+  "por los poros y a borbotones un fluido\n"
+  "tóxico espantoso y rocía a su víctima.");
 static const u8 DexDescription_Swalot_2[] = _(
-  "Once the prey has weakened, this\n"
-  "POKéMON gulps it down whole with its\n"
-  "cavernous mouth.");
+  "Una vez la debilita, se la traga entera\n"
+  "gracias a la gigantesca boca que\n"
+  "tiene.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4102,12 +4136,13 @@ static const u8 DexDescription_Carvanha_2[] = _(
   "suddenly timid.");
 #else
 static const u8 DexDescription_Carvanha_1[] = _(
-  "CARVANHA’s strongly developed jaws\n"
-  "and its sharply pointed fangs pack the\n"
-  "destructive power to rip out boat hulls.");
+  "CARVANHA, gracias a las descomunales\n"
+  "fauces de afilados colmillos que tiene,\n"
+  "es capaz de hacer trizas un barco. Son");
 static const u8 DexDescription_Carvanha_2[] = _(
-  "Many boats have been attacked and\n"
-  "sunk by this POKéMON.");
+  "muchas las naves que han sufrido el\n"
+  "ataque de este Pokémon y han acabado\n"
+  "naufragando.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4120,13 +4155,12 @@ static const u8 DexDescription_Sharpedo_2[] = _(
   "to swim long distances.");
 #else
 static const u8 DexDescription_Sharpedo_1[] = _(
-  "Nicknamed “the bully of the sea,”\n"
-  "SHARPEDO is widely feared.\n"
-  "Its cruel fangs grow back immediately");
+  "Este Pokémon, muy violento y astuto, es\n"
+  "el terror de los mares. La textura de\n"
+  "su piel reduce al mínimo la resistencia");
 static const u8 DexDescription_Sharpedo_2[] = _(
-  "if they snap off.\n"
-  "Just one of these POKéMON can\n"
-  "thoroughly tear apart a supertanker.");
+  "al agua. Llega a alcanzar los 120 km\n"
+  "por hora.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4140,12 +4174,12 @@ static const u8 DexDescription_Wailmer_2[] = _(
   "bounces.");
 #else
 static const u8 DexDescription_Wailmer_1[] = _(
-  "WAILMER’s nostrils are located above\n"
-  "its eyes. This playful POKéMON loves\n"
-  "to startle people by forcefully snorting");
+  "Wailmer tiene los espiráculos encima de\n"
+  "la cabeza. A este juguetón Pokémon le\n"
+  "encanta asustar a la gente expulsando");
 static const u8 DexDescription_Wailmer_2[] = _(
-  "out seawater it stores inside its body\n"
-  "out of its nostrils.");
+  "el agua que acumula a través de estos\n"
+  "orificios.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4159,13 +4193,12 @@ static const u8 DexDescription_Wailord_2[] = _(
   "its pod.");
 #else
 static const u8 DexDescription_Wailord_1[] = _(
-  "WAILORD is the largest of all identified\n"
-  "POKéMON up to now.\n"
-  "This giant POKéMON swims languorously");
+  "Wailord es el mayor Pokémon registrado\n"
+  "hasta la fecha. Este coloso va nadando\n"
+  "lánguidamente por el ancho mar con la");
 static const u8 DexDescription_Wailord_2[] = _(
-  "in the vast open sea, eating massive\n"
-  "amounts of food at once with its\n"
-  "enormous mouth.");
+  "boca abierta para que penetre la mayor\n"
+  "cantidad posible de alimento.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4179,12 +4212,12 @@ static const u8 DexDescription_Numel_2[] = _(
   "sluggish.");
 #else
 static const u8 DexDescription_Numel_1[] = _(
-  "NUMEL is extremely dull witted - it\n"
-  "doesn’t notice being hit. However, it\n"
-  "can’t stand hunger for even a second.");
+  "Numel tarda en percibir las cosas (no\n"
+  "se entera ni cuando lo golpean). Pero\n"
+  "se da cuenta enseguida de si tiene");
 static const u8 DexDescription_Numel_2[] = _(
-  "This POKéMON’s body is a seething\n"
-  "cauldron of boiling magma.");
+  "hambre. El cuerpo de este Pokémon es un\n"
+  "caldero de magma hirviendo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4197,13 +4230,13 @@ static const u8 DexDescription_Camerupt_2[] = _(
   "often when it is enraged.");
 #else
 static const u8 DexDescription_Camerupt_1[] = _(
-  "CAMERUPT has a volcano inside its body.\n"
-  "Magma of 18,000 degrees F courses\n"
-  "through its body.");
+  "Camerupt encierra un volcán en su\n"
+  "interior y un magma de 10.000 grados\n"
+  "centígrados que le recorre el cuerpo. A");
 static const u8 DexDescription_Camerupt_2[] = _(
-  "Occasionally, the humps on this\n"
-  "POKéMON’s back erupt, spewing the\n"
-  "superheated magma.");
+  "veces, las jorobas de la espalda entran\n"
+  "en erupción y escupen el Abrasivo\n"
+  "magma.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4216,13 +4249,13 @@ static const u8 DexDescription_Torkoal_2[] = _(
   "POKéMON burns more coal.");
 #else
 static const u8 DexDescription_Torkoal_1[] = _(
-  "TORKOAL digs through mountains in\n"
-  "search of coal. If it finds some, it fills\n"
-  "hollow spaces on its shell with the coal");
+  "Torkoal va cavando por las montañas en\n"
+  "busca de carbón. Cuando lo encuentra,\n"
+  "rellena los huecos que tiene dentro del");
 static const u8 DexDescription_Torkoal_2[] = _(
-  "and burns it.\n"
-  "If it is attacked, this POKéMON spouts\n"
-  "thick black smoke to beat a retreat.");
+  "caparazón y lo quema. Si le atacan,\n"
+  "este Pokémon echa un humo negro que le\n"
+  "permite la retirada.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4235,12 +4268,12 @@ static const u8 DexDescription_Spoink_2[] = _(
   "for a bigger pearl.");
 #else
 static const u8 DexDescription_Spoink_1[] = _(
-  "SPOINK bounces around on its tail.\n"
-  "The shock of its bouncing makes its\n"
-  "heart pump. As a result, this POKéMON");
+  "Spoink se pasa todo el día saltando\n"
+  "sobre la cola. Con cada salto, hace\n"
+  "latir el corazón. Por eso no puede");
 static const u8 DexDescription_Spoink_2[] = _(
-  "cannot afford to stop bouncing - if it\n"
-  "stops, its heart will stop.");
+  "permitirse dejar de saltar. Si lo hace,\n"
+  "se le parará el corazón.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4253,13 +4286,13 @@ static const u8 DexDescription_Grumpig_2[] = _(
   "as works of art.");
 #else
 static const u8 DexDescription_Grumpig_1[] = _(
-  "GRUMPIG uses the black pearls on its\n"
-  "body to amplify its psychic power waves\n"
-  "for gaining total control over its foe.");
+  "Grumpig usa las perlas negras que tiene\n"
+  "para amplificar las ondas de su poder\n"
+  "psíquico y controlar del todo al rival.");
 static const u8 DexDescription_Grumpig_2[] = _(
-  "When this POKéMON uses its special\n"
-  "power, its snorting breath grows\n"
-  "labored.");
+  "Cuando usa su poder especial, se le\n"
+  "cansa la respiración y resopla con\n"
+  "pesadez.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4273,13 +4306,12 @@ static const u8 DexDescription_Spinda_2[] = _(
   "opponent to become confused.");
 #else
 static const u8 DexDescription_Spinda_1[] = _(
-  "All the SPINDA that exist in the\n"
-  "world are said to have utterly unique\n"
-  "spot patterns.");
+  "Dicen que no hay dos Spinda que tengan\n"
+  "los mismos dibujos en el pelaje. Este\n"
+  "Pokémon tiene una forma de andar");
 static const u8 DexDescription_Spinda_2[] = _(
-  "The shaky, tottering steps of this\n"
-  "POKéMON give it the appearance of\n"
-  "dancing.");
+  "inestable, va tambaleándose. Da la\n"
+  "sensación de ir bailando.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4292,12 +4324,13 @@ static const u8 DexDescription_Trapinch_2[] = _(
   "without access to any water.");
 #else
 static const u8 DexDescription_Trapinch_1[] = _(
-  "TRAPINCH’s nest is a sloped, bowl-like\n"
-  "pit dug in sand. This POKéMON patiently\n"
-  "waits for prey to tumble down the pit.");
+  "El nido de Trapinch está situado bajo\n"
+  "la arena, en una zona cóncava. Este\n"
+  "Pokémon espera con paciencia a que su");
 static const u8 DexDescription_Trapinch_2[] = _(
-  "Its giant jaws have enough strength\n"
-  "to crush even boulders.");
+  "presa caiga en la misma. Con las fauces\n"
+  "que tiene puede destruir hasta\n"
+  "piedras.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4310,13 +4343,12 @@ static const u8 DexDescription_Vibrava_2[] = _(
   "ultrasonic waves by vibrating.");
 #else
 static const u8 DexDescription_Vibrava_1[] = _(
-  "To make prey faint, VIBRAVA generates\n"
-  "ultrasonic waves by vigorously making\n"
-  "its two wings vibrate.");
+  "Para debilitar a su víctima, Vibrava\n"
+  "genera ondas ultrasónicas haciendo\n"
+  "vibrar con fuerza las alas. Las ondas");
 static const u8 DexDescription_Vibrava_2[] = _(
-  "This POKéMON’s ultrasonic waves are so\n"
-  "powerful, they can bring on headaches\n"
-  "in people.");
+  "que crea son tan fuertes que pueden dar\n"
+  "dolor de cabeza a la gente.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4330,12 +4362,12 @@ static const u8 DexDescription_Flygon_2[] = _(
   "POKéMON is said to be the desert spirit.");
 #else
 static const u8 DexDescription_Flygon_1[] = _(
-  "FLYGON is nicknamed “the elemental \n"
-  "spirit of the desert.” Because its\n"
-  "flapping wings whip up a cloud of sand,");
+  "A Flygon se le conoce como “el alma del\n"
+  "desierto”. Al volar, como levanta una\n"
+  "nube de arena al batir las alas, está");
 static const u8 DexDescription_Flygon_2[] = _(
-  "this POKéMON is always enveloped in a\n"
-  "sandstorm while flying.");
+  "siempre envuelto en una tormenta de\n"
+  "arena.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4348,13 +4380,12 @@ static const u8 DexDescription_Cacnea_2[] = _(
   "its thorny arms.");
 #else
 static const u8 DexDescription_Cacnea_1[] = _(
-  "CACNEA lives in arid locations such\n"
-  "as deserts. It releases a strong aroma\n"
-  "from its flower to attract prey.");
+  "Cacnea habita en desiertos y otras\n"
+  "zonas áridas. Para atraer a su presa,\n"
+  "libera un fuerte aroma por la flor y,");
 static const u8 DexDescription_Cacnea_2[] = _(
-  "When prey comes near, this POKéMON\n"
-  "shoots sharp thorns from its body to\n"
-  "bring the victim down.");
+  "cuando se le acerca, le lanza pinchos\n"
+  "por todo el cuerpo para reducirla.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4368,12 +4399,12 @@ static const u8 DexDescription_Cacturne_2[] = _(
   "become incapable of moving.");
 #else
 static const u8 DexDescription_Cacturne_1[] = _(
-  "During the daytime, CACTURNE remains\n"
-  "unmoving so that it does not lose any\n"
-  "moisture to the harsh desert sun.");
+  "Durante el día, Cacturne permanece\n"
+  "inmóvil para no perder nada de humedad\n"
+  "bajo el sol de justicia del desierto.");
 static const u8 DexDescription_Cacturne_2[] = _(
-  "This POKéMON becomes active at night\n"
-  "when the temperature drops.");
+  "Este Pokémon entra en acción por la\n"
+  "noche, cuando bajan las temperaturas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4386,12 +4417,12 @@ static const u8 DexDescription_Swablu_2[] = _(
   "finds a stream and showers itself.");
 #else
 static const u8 DexDescription_Swablu_1[] = _(
-  "SWABLU has light and fluffy wings that\n"
-  "are like cottony clouds. This POKéMON\n"
-  "is not frightened of people.");
+  "Swablu tiene unas alas ligeras y\n"
+  "esponjosas que parecen nubes de\n"
+  "algodón. A este Pokémon no le asusta la");
 static const u8 DexDescription_Swablu_2[] = _(
-  "It lands on the heads of people and\n"
-  "sits there like a cotton-fluff hat.");
+  "gente. De hecho, se te puede posar en\n"
+  "la cabeza y servirte de gorro sedoso.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4404,12 +4435,12 @@ static const u8 DexDescription_Altaria_2[] = _(
   "the wild blue yonder.");
 #else
 static const u8 DexDescription_Altaria_1[] = _(
-  "ALTARIA dances and wheels through the\n"
-  "sky among billowing, cotton-like clouds.\n"
-  "By singing melodies in its crystal-clear");
+  "Altaria baila y revolotea por el cielo\n"
+  "entre ondeantes nubes que parecen de\n"
+  "algodón. Al entonar melodías con su voz");
 static const u8 DexDescription_Altaria_2[] = _(
-  "voice, this POKéMON makes its listeners\n"
-  "experience dreamy wonderment.");
+  "cristalina, este Pokémon deja a sus\n"
+  "oyentes embobados y admirados.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4423,12 +4454,12 @@ static const u8 DexDescription_Zangoose_2[] = _(
   "generations.");
 #else
 static const u8 DexDescription_Zangoose_1[] = _(
-  "Memories of battling its arch-rival\n"
-  "SEVIPER are etched into every cell of\n"
-  "ZANGOOSE’s body.");
+  "Los ecos del combate mantenido con su\n"
+  "rival más feroz, Seviper, resuenan aún\n"
+  "en cada célula de Zangoose. Este");
 static const u8 DexDescription_Zangoose_2[] = _(
-  "This POKéMON adroitly dodges attacks\n"
-  "with incredible agility.");
+  "Pokémon esquiva los ataques con\n"
+  "auténtica destreza.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4441,12 +4472,13 @@ static const u8 DexDescription_Seviper_2[] = _(
   "running blood feud with ZANGOOSE.");
 #else
 static const u8 DexDescription_Seviper_1[] = _(
-  "SEVIPER shares a generations-long\n"
-  "feud with ZANGOOSE. The scars on its\n"
-  "body are evidence of vicious battles.");
+  "Seviper lleva años de gran enemistad\n"
+  "con Zangoose. Las cicatrices que tiene\n"
+  "por todo el cuerpo dan buena muestra de");
 static const u8 DexDescription_Seviper_2[] = _(
-  "This POKéMON attacks using its sword-\n"
-  "edged tail.");
+  "los encarnizados combates en los que se\n"
+  "han enfrentado. Seviper ataca usando su\n"
+  "cola con forma de espada.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4460,17 +4492,18 @@ static const u8 DexDescription_Lunatone_2[] = _(
   "transfixed with fear.");
 #else
 static const u8 DexDescription_Lunatone_1[] = _(
-  "LUNATONE was discovered at a location\n"
-  "where a meteorite fell. As a result, some\n"
-  "people theorize that this POKéMON");
+  "Lunatone fue descubierto en el lugar de\n"
+  "impacto de un meteorito. Por eso, hay\n"
+  "quien especula con la idea de que");
 static const u8 DexDescription_Lunatone_2[] = _(
-  "came from space. However, no one has\n"
-  "been able to prove this theory so far.");
+  "procede del espacio. Con todo, hasta el\n"
+  "día de hoy nadie ha podido probar esta\n"
+  "teoría.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Solrock_1[] = _(
-  "Sunlight is the source of SOLROCK’s\n"
+  "Sunlight is the source of SOLRoca’s\n"
   "power. It is said to possess the ability\n"
   "to read the emotions of others.");
 static const u8 DexDescription_Solrock_2[] = _(
@@ -4478,12 +4511,13 @@ static const u8 DexDescription_Solrock_2[] = _(
   "while rotating its body.");
 #else
 static const u8 DexDescription_Solrock_1[] = _(
-  "SOLROCK is a new species of POKéMON\n"
-  "that is said to have fallen from space.\n"
-  "It floats in air and moves silently.");
+  "Solrock pertenece a una nueva especie\n"
+  "de Pokémon a la que se le atribuye una\n"
+  "procedencia extraterrestre. Este");
 static const u8 DexDescription_Solrock_2[] = _(
-  "In battle, this POKéMON releases\n"
-  "intensely bright light.");
+  "Pokémon permanece flotando en el aire y\n"
+  "se mueve muy despacio. Al luchar,\n"
+  "desprende una luz viva e intensa.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4497,12 +4531,13 @@ static const u8 DexDescription_Barboach_2[] = _(
   "coating dries up.");
 #else
 static const u8 DexDescription_Barboach_1[] = _(
-  "BARBOACH’s sensitive whiskers serve\n"
-  "as a superb radar system.\n"
-  "This POKéMON hides in mud, leaving only");
+  "Barboach tiene unos bigotes sensibles\n"
+  "que le sirven de infalible radar. Este\n"
+  "Pokémon se sumerge en lodo y sólo deja");
 static const u8 DexDescription_Barboach_2[] = _(
-  "its two whiskers exposed while it waits\n"
-  "for prey to come along.");
+  "los bigotes por fuera de la superficie,\n"
+  "al acecho, mientras espera a que llegue\n"
+  "su presa.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4515,13 +4550,12 @@ static const u8 DexDescription_Whiscash_2[] = _(
   "real earthquakes.");
 #else
 static const u8 DexDescription_Whiscash_1[] = _(
-  "WHISCASH is extremely territorial.\n"
-  "Just one of these POKéMON will claim a\n"
-  "large pond as its exclusive territory.");
+  "Whiscash defiende su territorio a toda\n"
+  "costa. Es capaz de apoderarse de un\n"
+  "estanque entero para sí solo. Si");
 static const u8 DexDescription_Whiscash_2[] = _(
-  "If a foe approaches it, it thrashes\n"
-  "about and triggers a massive\n"
-  "earthquake.");
+  "alguien se le acerca, se revolverá y\n"
+  "provocará un terremoto devastador.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4534,12 +4568,12 @@ static const u8 DexDescription_Corphish_2[] = _(
   "filthy water.");
 #else
 static const u8 DexDescription_Corphish_1[] = _(
-  "CORPHISH were originally foreign\n"
-  "POKéMON that were imported as pets.\n"
-  "They eventually turned up in the wild.");
+  "En un principio, se importaban Corphish\n"
+  "como mascota. Pero, al final, se\n"
+  "hicieron salvajes. Este Pokémon es muy");
 static const u8 DexDescription_Corphish_2[] = _(
-  "This POKéMON is very hardy and has\n"
-  "greatly increased its population.");
+  "resistente y ha aumentado su población\n"
+  "de forma considerable.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4553,13 +4587,13 @@ static const u8 DexDescription_Crawdaunt_2[] = _(
   "attack from its foes.");
 #else
 static const u8 DexDescription_Crawdaunt_1[] = _(
-  "CRAWDAUNT has an extremely violent\n"
-  "nature that compels it to challenge\n"
-  "other living things to battle.");
+  "Crawdaunt es de una Naturaleza\n"
+  "extremadamente violenta que le lleva a\n"
+  "desafiar a otros seres vivos. Hay");
 static const u8 DexDescription_Crawdaunt_2[] = _(
-  "Other life-forms refuse to live in\n"
-  "ponds inhabited by this POKéMON,\n"
-  "making them desolate places.");
+  "formas de vida que se niegan a vivir en\n"
+  "los estanques donde habitan estos\n"
+  "Pokémon, y los dejan medio vacíos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4572,12 +4606,13 @@ static const u8 DexDescription_Baltoy_2[] = _(
   "balancing itself on its one foot.");
 #else
 static const u8 DexDescription_Baltoy_1[] = _(
-  "BALTOY moves while spinning around on\n"
-  "its one foot. Primitive wall paintings\n"
-  "depicting this POKéMON living among");
+  "Baltoy se mueve girando alrededor de sí\n"
+  "mismo sobre la extremidad inferior que\n"
+  "tiene. En unas ruinas antiguas,");
 static const u8 DexDescription_Baltoy_2[] = _(
-  "people were discovered in some ancient\n"
-  "ruins.");
+  "descubrieron pinturas rupestres en las\n"
+  "que aparecía este Pokémon conviviendo\n"
+  "con personas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4590,12 +4625,12 @@ static const u8 DexDescription_Claydol_2[] = _(
   "its hands.");
 #else
 static const u8 DexDescription_Claydol_1[] = _(
-  "CLAYDOL are said to be dolls of mud made\n"
-  "by primitive humans and brought to life\n"
-  "by exposure to a mysterious ray.");
+  "Dicen que los Claydol son figuras de\n"
+  "barro hechas por humanos primitivos. Y\n"
+  "dicen también que cobrAron vida gracias");
 static const u8 DexDescription_Claydol_2[] = _(
-  "This POKéMON moves about while\n"
-  "levitating.");
+  "a un misterioso rayo. Este Pokémon se\n"
+  "mueve mientras levita.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4609,13 +4644,11 @@ static const u8 DexDescription_Lileep_2[] = _(
   "eyes.");
 #else
 static const u8 DexDescription_Lileep_1[] = _(
-  "LILEEP became extinct approximately\n"
-  "a hundred million years ago.\n"
-  "This ancient POKéMON attaches itself");
+  "Se disfraza de alga marina moviendo los\n"
+  "tentáculos. Si una presa se le acerca\n"
+  "despistada, será engullida de golpe. Se");
 static const u8 DexDescription_Lileep_2[] = _(
-  "to a rock on the seafloor and catches\n"
-  "approaching prey using tentacles \n"
-  "shaped like flower petals.");
+  "extinguió hace 100 millones de años.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4628,12 +4661,12 @@ static const u8 DexDescription_Cradily_2[] = _(
   "digestive fluid from its tentacles.");
 #else
 static const u8 DexDescription_Cradily_1[] = _(
-  "CRADILY roams around the ocean floor\n"
-  "in search of food. This POKéMON freely\n"
-  "extends its tree trunk-like neck and");
+  "Arrastra su pesado cuerpo por el fondo\n"
+  "marino. Anida cerca de la superficie,\n"
+  "en aguas templadas. Cuando hay marea");
 static const u8 DexDescription_Cradily_2[] = _(
-  "captures unwary prey using its eight\n"
-  "tentacles.");
+  "baja, es posible ver a Cradily en la\n"
+  "playa.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4646,12 +4679,13 @@ static const u8 DexDescription_Anorith_2[] = _(
   "by undulating these eight wings.");
 #else
 static const u8 DexDescription_Anorith_1[] = _(
-  "ANORITH was regenerated from a\n"
-  "prehistoric fossil. This primitive\n"
-  "POKéMON once lived in warm seas.");
+  "Anorith se regeneró a partir de un\n"
+  "fósil prehistórico. Este Pokémon\n"
+  "primitivo vivió en una ocasión en mares");
 static const u8 DexDescription_Anorith_2[] = _(
-  "It grips its prey firmly between its\n"
-  "two large claws.");
+  "cálidos. Para cazar, utiliza las\n"
+  "grandes pinzas que tiene y agarra con\n"
+  "firmeza a su víctima con ellas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4664,12 +4698,12 @@ static const u8 DexDescription_Armaldo_2[] = _(
   "more convenient for life on land.");
 #else
 static const u8 DexDescription_Armaldo_1[] = _(
-  "ARMALDO’s tough armor makes all attacks\n"
-  "bounce off. This POKéMON’s two\n"
-  "enormous claws can be freely extended");
+  "Armaldo tiene una sólida armadura que\n"
+  "repele cualquier ataque. Este Pokémon\n"
+  "puede estirar o encoger todo lo que");
 static const u8 DexDescription_Armaldo_2[] = _(
-  "or contracted. They have the power to\n"
-  "punch right through a steel slab.");
+  "quiera las pinzas que tiene. Con ellas,\n"
+  "puede atravesar una plancha de acero.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4682,13 +4716,13 @@ static const u8 DexDescription_Feebas_2[] = _(
   "dimwitted, making it an easy catch.");
 #else
 static const u8 DexDescription_Feebas_1[] = _(
-  "FEEBAS’s fins are ragged and\n"
-  "tattered from the start of its life.\n"
-  "Because of its shoddy appearance, this");
+  "Feebas tiene las aletas melladas y\n"
+  "rasgadas desde que nace. Debido a este\n"
+  "aspecto poco imponente, son pocos los");
 static const u8 DexDescription_Feebas_2[] = _(
-  "POKéMON is largely ignored.\n"
-  "It is capable of living in both the sea\n"
-  "and in rivers.");
+  "que lo tienen en cuenta. Este Pokémon\n"
+  "puede vivir tanto en agua salada como\n"
+  "dulce.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4701,12 +4735,12 @@ static const u8 DexDescription_Milotic_2[] = _(
   "restless spirits.");
 #else
 static const u8 DexDescription_Milotic_1[] = _(
-  "MILOTIC is said to be the most\n"
-  "beautiful of all the POKéMON.\n"
-  "It has the power to becalm such");
+  "De Milotic se dice que es el Pokémon\n"
+  "más bello. Tiene la capacidad de calmar\n"
+  "sentimientos tales como el miedo y la");
 static const u8 DexDescription_Milotic_2[] = _(
-  "emotions as anger and hostility to quell\n"
-  "bitter feuding.");
+  "hostilidad, y apaciguar las relaciones\n"
+  "de áspera enemistad.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4719,12 +4753,12 @@ static const u8 DexDescription_Castform_2[] = _(
   "weather.");
 #else
 static const u8 DexDescription_Castform_1[] = _(
-  "CASTFORM’s appearance changes with\n"
-  "the weather.\n"
-  "This POKéMON gained the ability to use");
+  "El tipo de Castform cambia con las\n"
+  "variaciones del tiempo. Este Pokémon\n"
+  "consiguió aprender a usar el gran poder");
 static const u8 DexDescription_Castform_2[] = _(
-  "the vast power of nature to protect\n"
-  "its tiny body.");
+  "de la Naturaleza para proteger el\n"
+  "pequeño cuerpo que tiene.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4738,13 +4772,12 @@ static const u8 DexDescription_Kecleon_2[] = _(
   "the unsuspecting target.");
 #else
 static const u8 DexDescription_Kecleon_1[] = _(
-  "KECLEON is capable of changing its body\n"
-  "colors at will to blend in with its\n"
-  "surroundings.");
+  "Kecleon puede alterar la pigmentación\n"
+  "de la piel para mezclarse con su\n"
+  "entorno. Lo único que no es capaz de");
 static const u8 DexDescription_Kecleon_2[] = _(
-  "There is one exception - this POKéMON\n"
-  "can’t change the zigzag pattern on its\n"
-  "belly.");
+  "cambiar es el trazado en zigzag que\n"
+  "tiene en la panza.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4757,13 +4790,12 @@ static const u8 DexDescription_Shuppet_2[] = _(
   "grudges that taint people.");
 #else
 static const u8 DexDescription_Shuppet_1[] = _(
-  "SHUPPET is attracted by feelings\n"
-  "of jealousy and vindictiveness.\n"
-  "If someone develops strong feelings of");
+  "A Shuppet le atraen los sentimientos de\n"
+  "celos y rencor. Si alguien desarrolla\n"
+  "fuertes sentimientos de venganza,");
 static const u8 DexDescription_Shuppet_2[] = _(
-  "vengeance, this POKéMON will appear\n"
-  "in a swarm and line up beneath the eaves\n"
-  "of that person’s home.");
+  "aparecerá una multitud de Shuppet que\n"
+  "se quedará bajo los aleros de su casa.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4776,12 +4808,12 @@ static const u8 DexDescription_Banette_2[] = _(
   "were to ever open its mouth.");
 #else
 static const u8 DexDescription_Banette_1[] = _(
-  "BANETTE generates energy for laying\n"
-  "strong curses by sticking pins into its\n"
-  "own body.");
+  "Banette genera energía para echar un\n"
+  "infalible hechizo clavándose púas a sí\n"
+  "mismo. Los orígenes de este Pokémon son");
 static const u8 DexDescription_Banette_2[] = _(
-  "This POKéMON was originally a pitiful\n"
-  "plush doll that was thrown away.");
+  "algo tristes: era un muñeco de felpa al\n"
+  "que tirAron a la basura.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4795,12 +4827,11 @@ static const u8 DexDescription_Duskull_2[] = _(
   "from their mothers.");
 #else
 static const u8 DexDescription_Duskull_1[] = _(
-  "DUSKULL can pass through any wall no\n"
-  "matter how thick it may be.\n"
-  "Once this POKéMON chooses a target,");
+  "Duskull puede atravesar los muros, sea\n"
+  "cual sea el grosor que tengan. Cuando\n"
+  "este Pokémon elige su objetivo, lo");
 static const u8 DexDescription_Duskull_2[] = _(
-  "it will doggedly pursue the intended\n"
-  "victim until the break of dawn.");
+  "persigue hábilmente hasta el amanecer.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4814,13 +4845,13 @@ static const u8 DexDescription_Dusclops_2[] = _(
   "is made to do DUSCLOPS’s bidding.");
 #else
 static const u8 DexDescription_Dusclops_1[] = _(
-  "DUSCLOPS’s body is completely hollow -\n"
-  "there is nothing at all inside.\n"
-  "It is said that its body is like a black");
+  "Dusclops está completamente hueco por\n"
+  "dentro. Dicen que su cuerpo es como un\n"
+  "agujero negro. Este Pokémon es capaz de");
 static const u8 DexDescription_Dusclops_2[] = _(
-  "hole. This POKéMON will absorb anything\n"
-  "into its body, but nothing will ever come\n"
-  "back out.");
+  "absorber cualquier cosa, pero cosa que\n"
+  "absorba, cosa que no dejará salir nunca\n"
+  "más.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4834,13 +4865,12 @@ static const u8 DexDescription_Tropius_2[] = _(
   "wings.");
 #else
 static const u8 DexDescription_Tropius_1[] = _(
-  "The bunches of fruit around TROPIUS’s\n"
-  "neck are very popular with children.\n"
-  "This POKéMON loves fruit, and eats it");
+  "A los niños les encantan los racimos de\n"
+  "fruta que Tropius tiene en el cuello.\n"
+  "Este Pokémon siempre come fruta; le");
 static const u8 DexDescription_Tropius_2[] = _(
-  "continuously. Apparently, its love for\n"
-  "fruit resulted in its own outgrowth\n"
-  "of fruit.");
+  "encanta. De hecho, ése parece ser el\n"
+  "motivo por el que él mismo da fruta.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4854,12 +4884,12 @@ static const u8 DexDescription_Chimecho_2[] = _(
   "long tail and eats them.");
 #else
 static const u8 DexDescription_Chimecho_1[] = _(
-  "CHIMECHO makes its cries echo\n"
-  "inside its hollow body. When this\n"
-  "POKéMON becomes enraged, its cries");
+  "Chimecho hace que sus gritos resuenen\n"
+  "con eco en su interior. Cuando se\n"
+  "enfada, los chillidos se convierten en");
 static const u8 DexDescription_Chimecho_2[] = _(
-  "result in ultrasonic waves that have\n"
-  "the power to knock foes flying.");
+  "ondas ultrasónicas capaces de derribar\n"
+  "a los enemigos voladores.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4872,12 +4902,12 @@ static const u8 DexDescription_Absol_2[] = _(
   "ventures down from the mountains.");
 #else
 static const u8 DexDescription_Absol_1[] = _(
-  "Every time ABSOL appears before people,\n"
-  "it is followed by a disaster such as an\n"
-  "earthquake or a tidal wave.");
+  "Cada vez que Absol aparece ante la\n"
+  "gente, ocurre una catástrofe Natural\n"
+  "como un terremoto o un maremoto. Por");
 static const u8 DexDescription_Absol_2[] = _(
-  "As a result, it came to be known as the\n"
-  "disaster POKéMON.");
+  "esta razón se le conoce como el Pokémon\n"
+  "de las catástrofes.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4890,12 +4920,12 @@ static const u8 DexDescription_Wynaut_2[] = _(
   "powerful counterattacks.");
 #else
 static const u8 DexDescription_Wynaut_1[] = _(
-  "WYNAUT can always be seen with a big,\n"
-  "happy smile on its face. Look at its tail\n"
-  "to determine if it is angry.");
+  "Wynaut está siempre con una gran\n"
+  "sonrisa puesta. Para ver si está\n"
+  "enfadado, basta con mirarle la cola.");
 static const u8 DexDescription_Wynaut_2[] = _(
-  "When angered, this POKéMON will be\n"
-  "slapping the ground with its tail.");
+  "Cuando se le molesta, se pone a dar\n"
+  "golpetazos en el suelo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4908,13 +4938,12 @@ static const u8 DexDescription_Snorunt_2[] = _(
   "many generations to come.");
 #else
 static const u8 DexDescription_Snorunt_1[] = _(
-  "SNORUNT live in regions with heavy\n"
-  "snowfall. In seasons without snow, such\n"
-  "as spring and summer, this POKéMON");
+  "Snorunt vive en zonas de grandes\n"
+  "nevadas. En primavera y verano (cuando\n"
+  "no nieva), se retira a las cavernas");
 static const u8 DexDescription_Snorunt_2[] = _(
-  "steals away to live quietly among\n"
-  "stalactites and stalagmites deep in\n"
-  "caverns.");
+  "para vivir tranquilamente entre\n"
+  "estalactitas y estalagmitas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4928,12 +4957,12 @@ static const u8 DexDescription_Glalie_2[] = _(
   "fashion.");
 #else
 static const u8 DexDescription_Glalie_1[] = _(
-  "GLALIE has a body made of rock, which it\n"
-  "hardens with an armor of ice.\n"
-  "This POKéMON has the ability to freeze");
+  "Glalie endurece el cuerpo rocoso que\n"
+  "tiene con una coraza de hielo. Este\n"
+  "Pokémon tiene la habilidad de congelar");
 static const u8 DexDescription_Glalie_2[] = _(
-  "moisture in the atmosphere into any\n"
-  "shape it desires.");
+  "la humedad del ambiente y formar la\n"
+  "figura que se le antoje.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4946,12 +4975,13 @@ static const u8 DexDescription_Spheal_2[] = _(
   "ice and crossing the sea.");
 #else
 static const u8 DexDescription_Spheal_1[] = _(
-  "SPHEAL is much faster rolling than \n"
-  "walking to get around. When groups of\n"
-  "this POKéMON eat, they all clap at once");
+  "Spheal se desplaza por el suelo más\n"
+  "rápido rodando que caminando. Cuando\n"
+  "come con otros de su especie, todos se");
 static const u8 DexDescription_Spheal_2[] = _(
-  "to show their pleasure. Because of this,\n"
-  "their mealtimes are noisy.");
+  "ponen a aplaudir para expresar su\n"
+  "alegría. Por eso, a veces son algo\n"
+  "escandalosos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4965,13 +4995,11 @@ static const u8 DexDescription_Sealeo_2[] = _(
   "or not.");
 #else
 static const u8 DexDescription_Sealeo_1[] = _(
-  "SEALEO has the habit of always juggling\n"
-  "on the tip of its nose anything it sees\n"
-  "for the first time.");
+  "Cada vez que Sealeo ve algo nuevo, se\n"
+  "lo pone en el morro y empieza a darle\n"
+  "vueltas. A veces, para entretenerse,");
 static const u8 DexDescription_Sealeo_2[] = _(
-  "This POKéMON occasionally entertains\n"
-  "itself by balancing and rolling a SPHEAL\n"
-  "on its nose.");
+  "hace lo mismo con un Spheal.");
 #endif
 
 #ifdef SAPPHIRE
@@ -4984,12 +5012,12 @@ static const u8 DexDescription_Walrein_2[] = _(
   "attacks bounce off harmlessly.");
 #else
 static const u8 DexDescription_Walrein_1[] = _(
-  "WALREIN’s two massively developed\n"
-  "tusks can totally shatter blocks of\n"
-  "ice weighing ten tons with one blow.");
+  "Para proteger a su manada, el líder\n"
+  "luchará hasta el final contra todo lo\n"
+  "que invada su territorio. En el");
 static const u8 DexDescription_Walrein_2[] = _(
-  "This POKéMON’s thick coat of blubber\n"
-  "insulates it from subzero temperatures.");
+  "transcurso del combate, es posible que\n"
+  "pierda los colmillos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5002,13 +5030,13 @@ static const u8 DexDescription_Clamperl_2[] = _(
   "POKéMON is getting close to evolution.");
 #else
 static const u8 DexDescription_Clamperl_1[] = _(
-  "CLAMPERL’s sturdy shell is not only good\n"
-  "for protection - it is also used for\n"
-  "clamping and catching prey.");
+  "La sólida concha que rodea a Clamperl\n"
+  "no sólo le sirve para protegerse, sino\n"
+  "también para poner un cepo y atrapar a");
 static const u8 DexDescription_Clamperl_2[] = _(
-  "A fully grown CLAMPERL’s shell will be\n"
-  "scored with nicks and scratches all\n"
-  "over.");
+  "su presa. Cuando la concha alcanza su\n"
+  "mayor tamaño, presenta muescas y\n"
+  "rasguños por todas partes.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5022,13 +5050,13 @@ static const u8 DexDescription_Huntail_2[] = _(
   "slender body like a snake.");
 #else
 static const u8 DexDescription_Huntail_1[] = _(
-  "HUNTAIL’s presence went unnoticed by\n"
-  "people for a long time because it lives\n"
-  "at extreme depths in the sea.");
+  "Huntail ha pasado desapercibido Durante\n"
+  "mucho tiempo por vivir en las\n"
+  "profundidades del mar. El sentido de la");
 static const u8 DexDescription_Huntail_2[] = _(
-  "This POKéMON’s eyes can see clearly\n"
-  "even in the murky dark depths of the\n"
-  "ocean.");
+  "vista de este Pokémon le permite ver en\n"
+  "las oscuras y lodosas profundidades del\n"
+  "océano.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5042,13 +5070,13 @@ static const u8 DexDescription_Gorebyss_2[] = _(
   "body fluids.");
 #else
 static const u8 DexDescription_Gorebyss_1[] = _(
-  "GOREBYSS lives in the southern seas\n"
-  "at extreme depths. Its body is built to\n"
-  "withstand the enormous pressure of");
+  "Gorebyss vive en los Mares del Sur, en\n"
+  "lo más profundo; de ahí que tenga el\n"
+  "cuerpo preparado para soportar la");
 static const u8 DexDescription_Gorebyss_2[] = _(
-  "water at incredible depths. Because of\n"
-  "this, this POKéMON’s body is unharmed\n"
-  "by ordinary attacks.");
+  "presión tan grande que hay en el fondo\n"
+  "marino, y que no le hagan daño los\n"
+  "ataques comunes.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5062,13 +5090,12 @@ static const u8 DexDescription_Relicanth_2[] = _(
   "scales that are like craggy rocks.");
 #else
 static const u8 DexDescription_Relicanth_1[] = _(
-  "RELICANTH is a POKéMON species that\n"
-  "existed for a hundred million years\n"
-  "without ever changing its form.");
+  "Relicanth pertenece a una especie de\n"
+  "Pokémon que lleva millones de años sin\n"
+  "cambiar de forma. Este ancestral");
 static const u8 DexDescription_Relicanth_2[] = _(
-  "This ancient POKéMON feeds on\n"
-  "microscopic organisms with its\n"
-  "toothless mouth.");
+  "Pokémon se alimenta de microorganismos\n"
+  "por la boca desdentada que tiene.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5081,12 +5108,13 @@ static const u8 DexDescription_Luvdisc_2[] = _(
   "relationship that never ends.");
 #else
 static const u8 DexDescription_Luvdisc_1[] = _(
-  "LUVDISC live in shallow seas in the\n"
-  "tropics. This heart-shaped POKéMON\n"
-  "earned its name by swimming after");
+  "Luvdisc vive en aguas tropicales poco\n"
+  "profundas. Este Pokémon con forma de\n"
+  "corazón se ha ganado la reputación que");
 static const u8 DexDescription_Luvdisc_2[] = _(
-  "loving couples it spotted in the\n"
-  "ocean’s waves.");
+  "tiene por ir nadando detrás de las\n"
+  "parejas de enamorados que veía entre\n"
+  "las olas del océano.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5100,13 +5128,13 @@ static const u8 DexDescription_Bagon_2[] = _(
   "and shatters them into pebbles.");
 #else
 static const u8 DexDescription_Bagon_1[] = _(
-  "BAGON has a dream of one day soaring\n"
-  "in the sky. In doomed efforts to fly,\n"
-  "this POKéMON hurls itself off cliffs.");
+  "Bagon sueña con poder pasar un día\n"
+  "volando por el cielo. En vanos intentos\n"
+  "por volar, ha llegado a tirarse desde");
 static const u8 DexDescription_Bagon_2[] = _(
-  "As a result of its dives, its head has \n"
-  "grown tough and as hard as tempered\n"
-  "steel.");
+  "riscos. Como resultado de estas caídas\n"
+  "en picado, se le ha puesto la cabeza\n"
+  "dura como las piedras.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5119,12 +5147,12 @@ static const u8 DexDescription_Shelgon_2[] = _(
   "hides away in a cavern.");
 #else
 static const u8 DexDescription_Shelgon_1[] = _(
-  "Inside SHELGON’s armor-like shell, cells\n"
-  "are in the midst of transformation\n"
-  "to create an entirely new body.");
+  "Dentro de la capa acorazada de Shelgon,\n"
+  "las células están en pleno proceso de\n"
+  "creación de un cuerpo nuevo. El peso de");
 static const u8 DexDescription_Shelgon_2[] = _(
-  "This POKéMON’s shell is extremely heavy,\n"
-  "making its movements sluggish.");
+  "la coraza le hace tener unos\n"
+  "movimientos lentos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5138,13 +5166,12 @@ static const u8 DexDescription_Salamence_2[] = _(
   "from its mouth.");
 #else
 static const u8 DexDescription_Salamence_1[] = _(
-  "SALAMENCE came about as a result of a\n"
-  "strong, long-held dream of growing\n"
-  "wings. It is said that this powerful");
+  "Salamence surgió del profundo deseo de\n"
+  "tener alas. Dicen que este fuerte deseo\n"
+  "fue lo que causó la repentina mutación");
 static const u8 DexDescription_Salamence_2[] = _(
-  "desire triggered a sudden mutation in\n"
-  "this POKéMON’s cells, causing it to\n"
-  "sprout its magnificent wings.");
+  "de las células y el crecimiento de las\n"
+  "alas.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5158,12 +5185,12 @@ static const u8 DexDescription_Beldum_2[] = _(
   "its rear.");
 #else
 static const u8 DexDescription_Beldum_1[] = _(
-  "Instead of blood, a powerful magnetic\n"
-  "force courses throughout BELDUM’s\n"
-  "body. This POKéMON communicates with");
+  "En lugar de sangre, Beldum tiene una\n"
+  "poderosa fuerza magnética corriéndole\n"
+  "por las venas. Este Pokémon se comunica");
 static const u8 DexDescription_Beldum_2[] = _(
-  "others by sending controlled pulses of\n"
-  "magnetism.");
+  "enviando controlados impulsos\n"
+  "magnéticos.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5176,13 +5203,12 @@ static const u8 DexDescription_Metang_2[] = _(
   "for traveling at high speed.");
 #else
 static const u8 DexDescription_Metang_1[] = _(
-  "When two BELDUM fuse together, METANG\n"
-  "is formed. The brains of the BELDUM are\n"
-  "joined by a magnetic nervous system.");
+  "Cuando dos Beldum se fusionan, forman\n"
+  "un Metang. Los cerebros de los Beldum\n"
+  "se unen mediante un sistema nervioso");
 static const u8 DexDescription_Metang_2[] = _(
-  "By linking its brains magnetically,\n"
-  "this POKéMON generates strong\n"
-  "psychokinetic power.");
+  "magnético y generan potente energía\n"
+  "psicoquinética.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5196,18 +5222,18 @@ static const u8 DexDescription_Metagross_2[] = _(
   "mouth on its stomach.");
 #else
 static const u8 DexDescription_Metagross_1[] = _(
-  "METAGROSS has four brains in total.\n"
-  "Combined, the four brains can breeze\n"
-  "through difficult calculations faster");
+  "Metagross tiene cuatro cerebros en\n"
+  "total que, combinados, son capaces de\n"
+  "resolver cálculos complicados más");
 static const u8 DexDescription_Metagross_2[] = _(
-  "than a supercomputer.\n"
-  "This POKéMON can float in the air by\n"
-  "tucking in its four legs.");
+  "rápido que el mejor ordenador que haya.\n"
+  "Metagross puede flotar en el aire si\n"
+  "mete las patas hacia adentro.");
 #endif
 
 #ifdef SAPPHIRE
 static const u8 DexDescription_Regirock_1[] = _(
-  "REGIROCK’s body is composed entirely of\n"
+  "REGIRoca’s body is composed entirely of\n"
   "rocks. Recently, a study made the\n"
   "startling discovery that the rocks");
 static const u8 DexDescription_Regirock_2[] = _(
@@ -5215,12 +5241,12 @@ static const u8 DexDescription_Regirock_2[] = _(
   "locations.");
 #else
 static const u8 DexDescription_Regirock_1[] = _(
-  "REGIROCK was sealed away by people\n"
-  "long ago. If this POKéMON’s body is\n"
-  "damaged in battle, it is said to seek");
+  "A Regirock lo mantuvieron encerrado y\n"
+  "lejos hace tiempo. Dicen que, si\n"
+  "resulta dañado en combate, se pone él");
 static const u8 DexDescription_Regirock_2[] = _(
-  "out suitable rocks on its own to repair\n"
-  "itself.");
+  "mismo a buscar piedras parecidas a las\n"
+  "suyas y se las pone para recomponerse.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5234,12 +5260,13 @@ static const u8 DexDescription_Regice_2[] = _(
   "even if it is immersed in magma.");
 #else
 static const u8 DexDescription_Regice_1[] = _(
-  "REGICE’s body was made during an ice\n"
-  "age. The deep-frozen body can’t be\n"
-  "melted, even by fire.");
+  "Regice surgió Durante la edad de hielo.\n"
+  "El cuerpo de este Pokémon está\n"
+  "totalmente congelado, ni siquiera el");
 static const u8 DexDescription_Regice_2[] = _(
-  "This POKéMON controls frigid air of\n"
-  "minus 328 degrees F.");
+  "fuego puede derretirlo. Regice libera y\n"
+  "regula un aire gélido de -200 grados\n"
+  "centígrados.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5252,12 +5279,11 @@ static const u8 DexDescription_Registeel_2[] = _(
   "of this earth.");
 #else
 static const u8 DexDescription_Registeel_1[] = _(
-  "REGISTEEL has a body that is harder\n"
-  "than any kind of metal.\n"
-  "Its body is apparently hollow.");
+  "No hay metal que supere en dureza el\n"
+  "cuerpo de Registeel, que tiene aspecto\n"
+  "de estar hueco. Nadie sabe de qué se");
 static const u8 DexDescription_Registeel_2[] = _(
-  "No one has any idea what this POKéMON\n"
-  "eats.");
+  "alimenta este Pokémon.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5271,12 +5297,13 @@ static const u8 DexDescription_Latias_2[] = _(
   "appearance.");
 #else
 static const u8 DexDescription_Latias_1[] = _(
-  "LATIAS is highly sensitive to the\n"
-  "emotions of people. If it senses any\n"
-  "hostility, this POKéMON ruffles the");
+  "Latias es muy sensible a los\n"
+  "sentimientos de la gente. Si detecta\n"
+  "algún ápice de hostilidad, desplegará");
 static const u8 DexDescription_Latias_2[] = _(
-  "feathers all over its body and cries\n"
-  "shrilly to intimidate the foe.");
+  "las plumas que tiene por todo el cuerpo\n"
+  "y se pondrá a chillar para intimidar al\n"
+  "enemigo.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5289,12 +5316,12 @@ static const u8 DexDescription_Latios_2[] = _(
   "air resistance.");
 #else
 static const u8 DexDescription_Latios_1[] = _(
-  "LATIOS has the ability to make its foe\n"
-  "see an image of what it has seen or\n"
-  "imagines in its head.");
+  "Latios tiene la habilidad de hacer que\n"
+  "su rival vea algo que él ha visto o\n"
+  "imaginado. Este Pokémon es muy");
 static const u8 DexDescription_Latios_2[] = _(
-  "This POKéMON is intelligent and\n"
-  "understands human speech.");
+  "inteligente. Es capaz de entender el\n"
+  "lenguaje humano.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5308,12 +5335,12 @@ static const u8 DexDescription_Kyogre_2[] = _(
   "battle with GROUDON.");
 #else
 static const u8 DexDescription_Kyogre_1[] = _(
-  "KYOGRE has the power to create massive\n"
-  "rain clouds that cover the entire sky\n"
-  "and bring about torrential downpours.");
+  "Kyogre es capaz de crear grandes\n"
+  "cantidades de nubarrones, cubrir el\n"
+  "cielo y desatar lluvias torrenciales.");
 static const u8 DexDescription_Kyogre_2[] = _(
-  "This POKéMON saved people who were\n"
-  "suffering from droughts.");
+  "Este Pokémon ha salvado de la sequía a\n"
+  "mucha gente.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5326,12 +5353,12 @@ static const u8 DexDescription_Groudon_2[] = _(
   "been suffering from terrible floods.");
 #else
 static const u8 DexDescription_Groudon_1[] = _(
-  "GROUDON has long been described in \n"
-  "mythology as the POKéMON that raised\n"
-  "lands and expanded continents.");
+  "A Groudon siempre se le ha descrito en\n"
+  "mitología como el Pokémon que elevó la\n"
+  "tierra y expandió los continentes. Tras");
 static const u8 DexDescription_Groudon_2[] = _(
-  "This POKéMON took to sleep after a\n"
-  "cataclysmic battle with KYOGRE.");
+  "un combate contra Kyogre que acabó en\n"
+  "cataclismo, se echó a dormir.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5345,12 +5372,13 @@ static const u8 DexDescription_Rayquaza_2[] = _(
   "the sky.");
 #else
 static const u8 DexDescription_Rayquaza_1[] = _(
-  "RAYQUAZA lived for hundreds of millions\n"
-  "of years in the earth’s ozone layer, \n"
-  "never descending to the ground.");
+  "Rayquaza vivió Durante cientos de\n"
+  "millones de años en la capa de ozono\n"
+  "sin bajar a la tierra ni una vez. Según");
 static const u8 DexDescription_Rayquaza_2[] = _(
-  "This POKéMON appears to feed on water\n"
-  "and particles in the atmosphere.");
+  "parece, este Pokémon se alimentaba del\n"
+  "agua y las partículas que había en la\n"
+  "atmósfera.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5363,12 +5391,13 @@ static const u8 DexDescription_Jirachi_2[] = _(
   "people desire.");
 #else
 static const u8 DexDescription_Jirachi_1[] = _(
-  "A legend states that JIRACHI will make\n"
-  "true any wish that is written on notes\n"
-  "attached to its head when it awakens.");
+  "Cuenta la leyenda que Jirachi hará\n"
+  "realidad el deseo que se le escriba en\n"
+  "las notas que lleva en la cabeza cuando");
 static const u8 DexDescription_Jirachi_2[] = _(
-  "If this POKéMON senses danger, it will\n"
-  "fight without awakening.");
+  "las lea al despertarse. Si este Pokémon\n"
+  "siente peligro, luchará sin haber\n"
+  "llegado a despertarse.");
 #endif
 
 #ifdef SAPPHIRE
@@ -5381,12 +5410,13 @@ static const u8 DexDescription_Deoxys_2[] = _(
   "crystalline organ on its chest.");
 #else
 static const u8 DexDescription_Deoxys_1[] = _(
-  "The DNA of a space virus underwent a\n"
-  "sudden mutation upon exposure to a\n"
-  "laser beam and resulted in DEOXYS.");
+  "Tras estar expuesto a un rayo láser, el\n"
+  "ADN de un virus espacial sufrió una\n"
+  "mutación y dio origen a Deoxys. Según");
 static const u8 DexDescription_Deoxys_2[] = _(
-  "The crystalline organ on this POKéMON’s\n"
-  "chest appears to be its brain.");
+  "parece, el órgano cristalino que este\n"
+  "Pokémon tiene en el torso es el\n"
+  "cerebro.");
 #endif
 
 const struct PokedexEntry gPokedexEntries[] =
@@ -5403,7 +5433,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Bulbasaur
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 7,
         .weight = 69,
         .descriptionPage1 = DexDescription_Bulbasaur_1,
@@ -5414,7 +5444,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ivysaur
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 10,
         .weight = 130,
         .descriptionPage1 = DexDescription_Ivysaur_1,
@@ -5425,7 +5455,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Venusaur
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 20,
         .weight = 1000,
         .descriptionPage1 = DexDescription_Venusaur_1,
@@ -5436,7 +5466,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 6,
     },
     {  //Charmander
-        .categoryName = _("LIZARD"),
+        .categoryName = _("Lagartija"),
         .height = 6,
         .weight = 85,
         .descriptionPage1 = DexDescription_Charmander_1,
@@ -5447,7 +5477,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Charmeleon
-        .categoryName = _("FLAME"),
+        .categoryName = _("Llama"),
         .height = 11,
         .weight = 190,
         .descriptionPage1 = DexDescription_Charmeleon_1,
@@ -5458,7 +5488,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Charizard
-        .categoryName = _("FLAME"),
+        .categoryName = _("Llama"),
         .height = 17,
         .weight = 905,
         .descriptionPage1 = DexDescription_Charizard_1,
@@ -5469,7 +5499,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Squirtle
-        .categoryName = _("TINY TURTLE"),
+        .categoryName = _("Tortuguita"),
         .height = 5,
         .weight = 90,
         .descriptionPage1 = DexDescription_Squirtle_1,
@@ -5480,7 +5510,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wartortle
-        .categoryName = _("TURTLE"),
+        .categoryName = _("Tortuga"),
         .height = 10,
         .weight = 225,
         .descriptionPage1 = DexDescription_Wartortle_1,
@@ -5491,7 +5521,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Blastoise
-        .categoryName = _("SHELLFISH"),
+        .categoryName = _("Marisco"),
         .height = 16,
         .weight = 855,
         .descriptionPage1 = DexDescription_Blastoise_1,
@@ -5502,7 +5532,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Caterpie
-        .categoryName = _("WORM"),
+        .categoryName = _("Gusano"),
         .height = 3,
         .weight = 29,
         .descriptionPage1 = DexDescription_Caterpie_1,
@@ -5513,7 +5543,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Metapod
-        .categoryName = _("COCOON"),
+        .categoryName = _("Capullo"),
         .height = 7,
         .weight = 99,
         .descriptionPage1 = DexDescription_Metapod_1,
@@ -5524,7 +5554,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Butterfree
-        .categoryName = _("BUTTERFLY"),
+        .categoryName = _("Mariposa"),
         .height = 11,
         .weight = 320,
         .descriptionPage1 = DexDescription_Butterfree_1,
@@ -5535,7 +5565,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Weedle
-        .categoryName = _("HAIRY BUG"),
+        .categoryName = _("Oruga"),
         .height = 3,
         .weight = 32,
         .descriptionPage1 = DexDescription_Weedle_1,
@@ -5546,7 +5576,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kakuna
-        .categoryName = _("COCOON"),
+        .categoryName = _("Capullo"),
         .height = 6,
         .weight = 100,
         .descriptionPage1 = DexDescription_Kakuna_1,
@@ -5557,7 +5587,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Beedrill
-        .categoryName = _("POISON BEE"),
+        .categoryName = _("Abeja Ven."),
         .height = 10,
         .weight = 295,
         .descriptionPage1 = DexDescription_Beedrill_1,
@@ -5568,7 +5598,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pidgey
-        .categoryName = _("TINY BIRD"),
+        .categoryName = _("Pajarito"),
         .height = 3,
         .weight = 18,
         .descriptionPage1 = DexDescription_Pidgey_1,
@@ -5579,7 +5609,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pidgeotto
-        .categoryName = _("BIRD"),
+        .categoryName = _("Pajaro"),
         .height = 11,
         .weight = 300,
         .descriptionPage1 = DexDescription_Pidgeotto_1,
@@ -5590,7 +5620,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pidgeot
-        .categoryName = _("BIRD"),
+        .categoryName = _("Pajaro"),
         .height = 15,
         .weight = 395,
         .descriptionPage1 = DexDescription_Pidgeot_1,
@@ -5601,7 +5631,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Rattata
-        .categoryName = _("MOUSE"),
+        .categoryName = _("Ratón"),
         .height = 3,
         .weight = 35,
         .descriptionPage1 = DexDescription_Rattata_1,
@@ -5612,7 +5642,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Raticate
-        .categoryName = _("MOUSE"),
+        .categoryName = _("Ratón"),
         .height = 7,
         .weight = 185,
         .descriptionPage1 = DexDescription_Raticate_1,
@@ -5623,7 +5653,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Spearow
-        .categoryName = _("TINY BIRD"),
+        .categoryName = _("Pajarito"),
         .height = 3,
         .weight = 20,
         .descriptionPage1 = DexDescription_Spearow_1,
@@ -5634,7 +5664,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Fearow
-        .categoryName = _("BEAK"),
+        .categoryName = _("Pico"),
         .height = 12,
         .weight = 380,
         .descriptionPage1 = DexDescription_Fearow_1,
@@ -5645,7 +5675,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ekans
-        .categoryName = _("SNAKE"),
+        .categoryName = _("Serpiente"),
         .height = 20,
         .weight = 69,
         .descriptionPage1 = DexDescription_Ekans_1,
@@ -5656,7 +5686,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Arbok
-        .categoryName = _("COBRA"),
+        .categoryName = _("Cobra"),
         .height = 35,
         .weight = 650,
         .descriptionPage1 = DexDescription_Arbok_1,
@@ -5667,7 +5697,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Pikachu
-        .categoryName = _("MOUSE"),
+        .categoryName = _("Ratón"),
         .height = 4,
         .weight = 60,
         .descriptionPage1 = DexDescription_Pikachu_1,
@@ -5678,7 +5708,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Raichu
-        .categoryName = _("MOUSE"),
+        .categoryName = _("Ratón"),
         .height = 8,
         .weight = 300,
         .descriptionPage1 = DexDescription_Raichu_1,
@@ -5689,7 +5719,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sandshrew
-        .categoryName = _("MOUSE"),
+        .categoryName = _("Ratón"),
         .height = 6,
         .weight = 120,
         .descriptionPage1 = DexDescription_Sandshrew_1,
@@ -5700,7 +5730,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sandslash
-        .categoryName = _("MOUSE"),
+        .categoryName = _("Ratón"),
         .height = 10,
         .weight = 295,
         .descriptionPage1 = DexDescription_Sandslash_1,
@@ -5711,7 +5741,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //NidoranF
-        .categoryName = _("POISON PIN"),
+        .categoryName = _("Pin Veneno"),
         .height = 4,
         .weight = 70,
         .descriptionPage1 = DexDescription_NidoranF_1,
@@ -5722,7 +5752,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Nidorina
-        .categoryName = _("POISON PIN"),
+        .categoryName = _("Pin Veneno"),
         .height = 8,
         .weight = 200,
         .descriptionPage1 = DexDescription_Nidorina_1,
@@ -5733,7 +5763,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Nidoqueen
-        .categoryName = _("DRILL"),
+        .categoryName = _("Taladro"),
         .height = 13,
         .weight = 600,
         .descriptionPage1 = DexDescription_Nidoqueen_1,
@@ -5744,7 +5774,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //NidoranM
-        .categoryName = _("POISON PIN"),
+        .categoryName = _("Pin Veneno"),
         .height = 5,
         .weight = 90,
         .descriptionPage1 = DexDescription_NidoranM_1,
@@ -5755,7 +5785,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Nidorino
-        .categoryName = _("POISON PIN"),
+        .categoryName = _("Pin Veneno"),
         .height = 9,
         .weight = 195,
         .descriptionPage1 = DexDescription_Nidorino_1,
@@ -5766,7 +5796,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Nidoking
-        .categoryName = _("DRILL"),
+        .categoryName = _("Taladro"),
         .height = 14,
         .weight = 620,
         .descriptionPage1 = DexDescription_Nidoking_1,
@@ -5777,7 +5807,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Clefairy
-        .categoryName = _("FAIRY"),
+        .categoryName = _("Hada"),
         .height = 6,
         .weight = 75,
         .descriptionPage1 = DexDescription_Clefairy_1,
@@ -5788,7 +5818,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Clefable
-        .categoryName = _("FAIRY"),
+        .categoryName = _("Hada"),
         .height = 13,
         .weight = 400,
         .descriptionPage1 = DexDescription_Clefable_1,
@@ -5799,7 +5829,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Vulpix
-        .categoryName = _("FOX"),
+        .categoryName = _("Zorro"),
         .height = 6,
         .weight = 99,
         .descriptionPage1 = DexDescription_Vulpix_1,
@@ -5810,7 +5840,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ninetales
-        .categoryName = _("FOX"),
+        .categoryName = _("Zorro"),
         .height = 11,
         .weight = 199,
         .descriptionPage1 = DexDescription_Ninetales_1,
@@ -5821,7 +5851,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Jigglypuff
-        .categoryName = _("BALLOON"),
+        .categoryName = _("Globo"),
         .height = 5,
         .weight = 55,
         .descriptionPage1 = DexDescription_Jigglypuff_1,
@@ -5832,7 +5862,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wigglytuff
-        .categoryName = _("BALLOON"),
+        .categoryName = _("Globo"),
         .height = 10,
         .weight = 120,
         .descriptionPage1 = DexDescription_Wigglytuff_1,
@@ -5843,7 +5873,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Zubat
-        .categoryName = _("BAT"),
+        .categoryName = _("Murciélago"),
         .height = 8,
         .weight = 75,
         .descriptionPage1 = DexDescription_Zubat_1,
@@ -5854,7 +5884,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Golbat
-        .categoryName = _("BAT"),
+        .categoryName = _("Murciélago"),
         .height = 16,
         .weight = 550,
         .descriptionPage1 = DexDescription_Golbat_1,
@@ -5865,7 +5895,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Oddish
-        .categoryName = _("WEED"),
+        .categoryName = _("Hierbajo"),
         .height = 5,
         .weight = 54,
         .descriptionPage1 = DexDescription_Oddish_1,
@@ -5876,7 +5906,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Gloom
-        .categoryName = _("WEED"),
+        .categoryName = _("Hierbajo"),
         .height = 8,
         .weight = 86,
         .descriptionPage1 = DexDescription_Gloom_1,
@@ -5887,7 +5917,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Vileplume
-        .categoryName = _("FLOWER"),
+        .categoryName = _("Flor"),
         .height = 12,
         .weight = 186,
         .descriptionPage1 = DexDescription_Vileplume_1,
@@ -5898,7 +5928,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Paras
-        .categoryName = _("MUSHROOM"),
+        .categoryName = _("Hongo"),
         .height = 3,
         .weight = 54,
         .descriptionPage1 = DexDescription_Paras_1,
@@ -5909,7 +5939,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Parasect
-        .categoryName = _("MUSHROOM"),
+        .categoryName = _("Hongo"),
         .height = 10,
         .weight = 295,
         .descriptionPage1 = DexDescription_Parasect_1,
@@ -5920,7 +5950,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Venonat
-        .categoryName = _("INSECT"),
+        .categoryName = _("Insecto"),
         .height = 10,
         .weight = 300,
         .descriptionPage1 = DexDescription_Venonat_1,
@@ -5931,7 +5961,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -1,
     },
     {  //Venomoth
-        .categoryName = _("POISON MOTH"),
+        .categoryName = _("Polilla"),
         .height = 15,
         .weight = 125,
         .descriptionPage1 = DexDescription_Venomoth_1,
@@ -5942,7 +5972,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Diglett
-        .categoryName = _("MOLE"),
+        .categoryName = _("Topo"),
         .height = 2,
         .weight = 8,
         .descriptionPage1 = DexDescription_Diglett_1,
@@ -5953,7 +5983,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Dugtrio
-        .categoryName = _("MOLE"),
+        .categoryName = _("Topo"),
         .height = 7,
         .weight = 333,
         .descriptionPage1 = DexDescription_Dugtrio_1,
@@ -5964,7 +5994,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Meowth
-        .categoryName = _("SCRATCH CAT"),
+        .categoryName = _("Gato Araña"),
         .height = 4,
         .weight = 42,
         .descriptionPage1 = DexDescription_Meowth_1,
@@ -5975,7 +6005,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Persian
-        .categoryName = _("CLASSY CAT"),
+        .categoryName = _("Gato Fino"),
         .height = 10,
         .weight = 320,
         .descriptionPage1 = DexDescription_Persian_1,
@@ -5986,7 +6016,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Psyduck
-        .categoryName = _("DUCK"),
+        .categoryName = _("Pato"),
         .height = 8,
         .weight = 196,
         .descriptionPage1 = DexDescription_Psyduck_1,
@@ -5997,7 +6027,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Golduck
-        .categoryName = _("DUCK"),
+        .categoryName = _("Pato"),
         .height = 17,
         .weight = 766,
         .descriptionPage1 = DexDescription_Golduck_1,
@@ -6008,7 +6038,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Mankey
-        .categoryName = _("PIG MONKEY"),
+        .categoryName = _("Mono Cerdo"),
         .height = 5,
         .weight = 280,
         .descriptionPage1 = DexDescription_Mankey_1,
@@ -6019,7 +6049,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Primeape
-        .categoryName = _("PIG MONKEY"),
+        .categoryName = _("Mono Cerdo"),
         .height = 10,
         .weight = 320,
         .descriptionPage1 = DexDescription_Primeape_1,
@@ -6030,7 +6060,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Growlithe
-        .categoryName = _("PUPPY"),
+        .categoryName = _("Perrito"),
         .height = 7,
         .weight = 190,
         .descriptionPage1 = DexDescription_Growlithe_1,
@@ -6041,7 +6071,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Arcanine
-        .categoryName = _("LEGENDARY"),
+        .categoryName = _("Legendario"),
         .height = 19,
         .weight = 1550,
         .descriptionPage1 = DexDescription_Arcanine_1,
@@ -6052,7 +6082,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 4,
     },
     {  //Poliwag
-        .categoryName = _("TADPOLE"),
+        .categoryName = _("Renacuajo"),
         .height = 6,
         .weight = 124,
         .descriptionPage1 = DexDescription_Poliwag_1,
@@ -6063,7 +6093,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Poliwhirl
-        .categoryName = _("TADPOLE"),
+        .categoryName = _("Renacuajo"),
         .height = 10,
         .weight = 200,
         .descriptionPage1 = DexDescription_Poliwhirl_1,
@@ -6074,7 +6104,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Poliwrath
-        .categoryName = _("TADPOLE"),
+        .categoryName = _("Renacuajo"),
         .height = 13,
         .weight = 540,
         .descriptionPage1 = DexDescription_Poliwrath_1,
@@ -6085,7 +6115,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Abra
-        .categoryName = _("PSI"),
+        .categoryName = _("Psi"),
         .height = 9,
         .weight = 195,
         .descriptionPage1 = DexDescription_Abra_1,
@@ -6096,7 +6126,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kadabra
-        .categoryName = _("PSI"),
+        .categoryName = _("Psi"),
         .height = 13,
         .weight = 565,
         .descriptionPage1 = DexDescription_Kadabra_1,
@@ -6107,7 +6137,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Alakazam
-        .categoryName = _("PSI"),
+        .categoryName = _("Psi"),
         .height = 15,
         .weight = 480,
         .descriptionPage1 = DexDescription_Alakazam_1,
@@ -6118,7 +6148,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Machop
-        .categoryName = _("SUPERPOWER"),
+        .categoryName = _("Superpoder"),
         .height = 8,
         .weight = 195,
         .descriptionPage1 = DexDescription_Machop_1,
@@ -6129,7 +6159,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Machoke
-        .categoryName = _("SUPERPOWER"),
+        .categoryName = _("Superpoder"),
         .height = 15,
         .weight = 705,
         .descriptionPage1 = DexDescription_Machoke_1,
@@ -6140,7 +6170,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Machamp
-        .categoryName = _("SUPERPOWER"),
+        .categoryName = _("Superpoder"),
         .height = 16,
         .weight = 1300,
         .descriptionPage1 = DexDescription_Machamp_1,
@@ -6151,7 +6181,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -1,
     },
     {  //Bellsprout
-        .categoryName = _("FLOWER"),
+        .categoryName = _("Flor"),
         .height = 7,
         .weight = 40,
         .descriptionPage1 = DexDescription_Bellsprout_1,
@@ -6162,7 +6192,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Weepinbell
-        .categoryName = _("FLYCATCHER"),
+        .categoryName = _("Matamoscas"),
         .height = 10,
         .weight = 64,
         .descriptionPage1 = DexDescription_Weepinbell_1,
@@ -6173,7 +6203,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Victreebel
-        .categoryName = _("FLYCATCHER"),
+        .categoryName = _("Matamoscas"),
         .height = 17,
         .weight = 155,
         .descriptionPage1 = DexDescription_Victreebel_1,
@@ -6184,7 +6214,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Tentacool
-        .categoryName = _("JELLYFISH"),
+        .categoryName = _("Medusa"),
         .height = 9,
         .weight = 455,
         .descriptionPage1 = DexDescription_Tentacool_1,
@@ -6195,7 +6225,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Tentacruel
-        .categoryName = _("JELLYFISH"),
+        .categoryName = _("Medusa"),
         .height = 16,
         .weight = 550,
         .descriptionPage1 = DexDescription_Tentacruel_1,
@@ -6206,7 +6236,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Geodude
-        .categoryName = _("ROCK"),
+        .categoryName = _("Roca"),
         .height = 4,
         .weight = 200,
         .descriptionPage1 = DexDescription_Geodude_1,
@@ -6217,7 +6247,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Graveler
-        .categoryName = _("ROCK"),
+        .categoryName = _("Roca"),
         .height = 10,
         .weight = 1050,
         .descriptionPage1 = DexDescription_Graveler_1,
@@ -6228,7 +6258,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Golem
-        .categoryName = _("MEGATON"),
+        .categoryName = _("Megatón"),
         .height = 14,
         .weight = 3000,
         .descriptionPage1 = DexDescription_Golem_1,
@@ -6239,7 +6269,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Ponyta
-        .categoryName = _("FIRE HORSE"),
+        .categoryName = _("Caballo F."),
         .height = 10,
         .weight = 300,
         .descriptionPage1 = DexDescription_Ponyta_1,
@@ -6250,7 +6280,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Rapidash
-        .categoryName = _("FIRE HORSE"),
+        .categoryName = _("Caballo F."),
         .height = 17,
         .weight = 950,
         .descriptionPage1 = DexDescription_Rapidash_1,
@@ -6261,7 +6291,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Slowpoke
-        .categoryName = _("DOPEY"),
+        .categoryName = _("Atontado"),
         .height = 12,
         .weight = 360,
         .descriptionPage1 = DexDescription_Slowpoke_1,
@@ -6272,7 +6302,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Slowbro
-        .categoryName = _("HERMIT CRAB"),
+        .categoryName = _("Ermitaño"),
         .height = 16,
         .weight = 785,
         .descriptionPage1 = DexDescription_Slowbro_1,
@@ -6283,7 +6313,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Magnemite
-        .categoryName = _("MAGNET"),
+        .categoryName = _("Imán"),
         .height = 3,
         .weight = 60,
         .descriptionPage1 = DexDescription_Magnemite_1,
@@ -6294,7 +6324,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Magneton
-        .categoryName = _("MAGNET"),
+        .categoryName = _("Imán"),
         .height = 10,
         .weight = 600,
         .descriptionPage1 = DexDescription_Magneton_1,
@@ -6305,7 +6335,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Farfetchd
-        .categoryName = _("WILD DUCK"),
+        .categoryName = _("Pato salv."),
         .height = 8,
         .weight = 150,
         .descriptionPage1 = DexDescription_Farfetchd_1,
@@ -6316,7 +6346,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Doduo
-        .categoryName = _("TWIN BIRD"),
+        .categoryName = _("Ave gemela"),
         .height = 14,
         .weight = 392,
         .descriptionPage1 = DexDescription_Doduo_1,
@@ -6327,7 +6357,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -1,
     },
     {  //Dodrio
-        .categoryName = _("TRIPLE BIRD"),
+        .categoryName = _("Ave triple"),
         .height = 18,
         .weight = 852,
         .descriptionPage1 = DexDescription_Dodrio_1,
@@ -6338,7 +6368,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Seel
-        .categoryName = _("SEA LION"),
+        .categoryName = _("León Marino"),
         .height = 11,
         .weight = 900,
         .descriptionPage1 = DexDescription_Seel_1,
@@ -6349,7 +6379,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Dewgong
-        .categoryName = _("SEA LION"),
+        .categoryName = _("León Marino"),
         .height = 17,
         .weight = 1200,
         .descriptionPage1 = DexDescription_Dewgong_1,
@@ -6360,7 +6390,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Grimer
-        .categoryName = _("SLUDGE"),
+        .categoryName = _("Lodo"),
         .height = 9,
         .weight = 300,
         .descriptionPage1 = DexDescription_Grimer_1,
@@ -6371,7 +6401,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Muk
-        .categoryName = _("SLUDGE"),
+        .categoryName = _("Lodo"),
         .height = 12,
         .weight = 300,
         .descriptionPage1 = DexDescription_Muk_1,
@@ -6382,7 +6412,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shellder
-        .categoryName = _("BIVALVE"),
+        .categoryName = _("Bivalvo"),
         .height = 3,
         .weight = 40,
         .descriptionPage1 = DexDescription_Shellder_1,
@@ -6393,7 +6423,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Cloyster
-        .categoryName = _("BIVALVE"),
+        .categoryName = _("Bivalvo"),
         .height = 15,
         .weight = 1325,
         .descriptionPage1 = DexDescription_Cloyster_1,
@@ -6404,7 +6434,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Gastly
-        .categoryName = _("GAS"),
+        .categoryName = _("Gas"),
         .height = 13,
         .weight = 1,
         .descriptionPage1 = DexDescription_Gastly_1,
@@ -6415,7 +6445,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Haunter
-        .categoryName = _("GAS"),
+        .categoryName = _("Gas"),
         .height = 16,
         .weight = 1,
         .descriptionPage1 = DexDescription_Haunter_1,
@@ -6426,7 +6456,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Gengar
-        .categoryName = _("SHADOW"),
+        .categoryName = _("Sombra"),
         .height = 15,
         .weight = 405,
         .descriptionPage1 = DexDescription_Gengar_1,
@@ -6437,7 +6467,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Onix
-        .categoryName = _("ROCK SNAKE"),
+        .categoryName = _("Serp. Roca"),
         .height = 88,
         .weight = 2100,
         .descriptionPage1 = DexDescription_Onix_1,
@@ -6448,7 +6478,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 14,
     },
     {  //Drowzee
-        .categoryName = _("HYPNOSIS"),
+        .categoryName = _("Hypnosis"),
         .height = 10,
         .weight = 324,
         .descriptionPage1 = DexDescription_Drowzee_1,
@@ -6459,7 +6489,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Hypno
-        .categoryName = _("HYPNOSIS"),
+        .categoryName = _("Hypnosis"),
         .height = 16,
         .weight = 756,
         .descriptionPage1 = DexDescription_Hypno_1,
@@ -6470,7 +6500,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Krabby
-        .categoryName = _("RIVER CRAB"),
+        .categoryName = _("Cangrejo"),
         .height = 4,
         .weight = 65,
         .descriptionPage1 = DexDescription_Krabby_1,
@@ -6481,7 +6511,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kingler
-        .categoryName = _("PINCER"),
+        .categoryName = _("Tenaza"),
         .height = 13,
         .weight = 600,
         .descriptionPage1 = DexDescription_Kingler_1,
@@ -6492,7 +6522,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Voltorb
-        .categoryName = _("BALL"),
+        .categoryName = _("Bola"),
         .height = 5,
         .weight = 104,
         .descriptionPage1 = DexDescription_Voltorb_1,
@@ -6503,7 +6533,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Electrode
-        .categoryName = _("BALL"),
+        .categoryName = _("Bola"),
         .height = 12,
         .weight = 666,
         .descriptionPage1 = DexDescription_Electrode_1,
@@ -6514,7 +6544,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Exeggcute
-        .categoryName = _("EGG"),
+        .categoryName = _("Huevo"),
         .height = 4,
         .weight = 25,
         .descriptionPage1 = DexDescription_Exeggcute_1,
@@ -6525,7 +6555,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Exeggutor
-        .categoryName = _("COCONUT"),
+        .categoryName = _("Coco"),
         .height = 20,
         .weight = 1200,
         .descriptionPage1 = DexDescription_Exeggutor_1,
@@ -6536,7 +6566,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 5,
     },
     {  //Cubone
-        .categoryName = _("LONELY"),
+        .categoryName = _("Solitario"),
         .height = 4,
         .weight = 65,
         .descriptionPage1 = DexDescription_Cubone_1,
@@ -6547,7 +6577,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Marowak
-        .categoryName = _("BONE KEEPER"),
+        .categoryName = _("Apilahueso"),
         .height = 10,
         .weight = 450,
         .descriptionPage1 = DexDescription_Marowak_1,
@@ -6558,7 +6588,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Hitmonlee
-        .categoryName = _("KICKING"),
+        .categoryName = _("Patada"),
         .height = 15,
         .weight = 498,
         .descriptionPage1 = DexDescription_Hitmonlee_1,
@@ -6569,7 +6599,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Hitmonchan
-        .categoryName = _("PUNCHING"),
+        .categoryName = _("Puñetazo"),
         .height = 14,
         .weight = 502,
         .descriptionPage1 = DexDescription_Hitmonchan_1,
@@ -6580,7 +6610,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Lickitung
-        .categoryName = _("LICKING"),
+        .categoryName = _("Lametazo"),
         .height = 12,
         .weight = 655,
         .descriptionPage1 = DexDescription_Lickitung_1,
@@ -6591,7 +6621,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Koffing
-        .categoryName = _("POISON GAS"),
+        .categoryName = _("Gas ven."),
         .height = 6,
         .weight = 10,
         .descriptionPage1 = DexDescription_Koffing_1,
@@ -6602,7 +6632,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Weezing
-        .categoryName = _("POISON GAS"),
+        .categoryName = _("Gas ven."),
         .height = 12,
         .weight = 95,
         .descriptionPage1 = DexDescription_Weezing_1,
@@ -6613,7 +6643,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Rhyhorn
-        .categoryName = _("SPIKES"),
+        .categoryName = _("Clavos"),
         .height = 10,
         .weight = 1150,
         .descriptionPage1 = DexDescription_Rhyhorn_1,
@@ -6624,7 +6654,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Rhydon
-        .categoryName = _("DRILL"),
+        .categoryName = _("Taladro"),
         .height = 19,
         .weight = 1200,
         .descriptionPage1 = DexDescription_Rhydon_1,
@@ -6635,7 +6665,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Chansey
-        .categoryName = _("EGG"),
+        .categoryName = _("Huevo"),
         .height = 11,
         .weight = 346,
         .descriptionPage1 = DexDescription_Chansey_1,
@@ -6646,7 +6676,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Tangela
-        .categoryName = _("VINE"),
+        .categoryName = _("Enredadera"),
         .height = 10,
         .weight = 350,
         .descriptionPage1 = DexDescription_Tangela_1,
@@ -6657,7 +6687,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kangaskhan
-        .categoryName = _("PARENT"),
+        .categoryName = _("Padres"),
         .height = 22,
         .weight = 800,
         .descriptionPage1 = DexDescription_Kangaskhan_1,
@@ -6668,7 +6698,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 8,
     },
     {  //Horsea
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 4,
         .weight = 80,
         .descriptionPage1 = DexDescription_Horsea_1,
@@ -6679,7 +6709,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Seadra
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 12,
         .weight = 250,
         .descriptionPage1 = DexDescription_Seadra_1,
@@ -6690,7 +6720,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Goldeen
-        .categoryName = _("GOLDFISH"),
+        .categoryName = _("Pez Color"),
         .height = 6,
         .weight = 150,
         .descriptionPage1 = DexDescription_Goldeen_1,
@@ -6701,7 +6731,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Seaking
-        .categoryName = _("GOLDFISH"),
+        .categoryName = _("Pez Color"),
         .height = 13,
         .weight = 390,
         .descriptionPage1 = DexDescription_Seaking_1,
@@ -6712,7 +6742,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Staryu
-        .categoryName = _("STAR SHAPE"),
+        .categoryName = _("Estrella"),
         .height = 8,
         .weight = 345,
         .descriptionPage1 = DexDescription_Staryu_1,
@@ -6723,7 +6753,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Starmie
-        .categoryName = _("MYSTERIOUS"),
+        .categoryName = _("Misterioso"),
         .height = 11,
         .weight = 800,
         .descriptionPage1 = DexDescription_Starmie_1,
@@ -6734,7 +6764,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Mrmime
-        .categoryName = _("BARRIER"),
+        .categoryName = _("Barrera"),
         .height = 13,
         .weight = 545,
         .descriptionPage1 = DexDescription_Mrmime_1,
@@ -6745,7 +6775,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Scyther
-        .categoryName = _("MANTIS"),
+        .categoryName = _("Mantis"),
         .height = 15,
         .weight = 560,
         .descriptionPage1 = DexDescription_Scyther_1,
@@ -6756,7 +6786,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Jynx
-        .categoryName = _("HUMAN SHAPE"),
+        .categoryName = _("F. Humana"),
         .height = 14,
         .weight = 406,
         .descriptionPage1 = DexDescription_Jynx_1,
@@ -6767,7 +6797,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Electabuzz
-        .categoryName = _("ELECTRIC"),
+        .categoryName = _("Eléctrico"),
         .height = 11,
         .weight = 300,
         .descriptionPage1 = DexDescription_Electabuzz_1,
@@ -6778,7 +6808,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Magmar
-        .categoryName = _("SPITFIRE"),
+        .categoryName = _("Escupefuego"),
         .height = 13,
         .weight = 445,
         .descriptionPage1 = DexDescription_Magmar_1,
@@ -6789,7 +6819,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pinsir
-        .categoryName = _("STAG BEETLE"),
+        .categoryName = _("Escarabajo"),
         .height = 15,
         .weight = 550,
         .descriptionPage1 = DexDescription_Pinsir_1,
@@ -6800,7 +6830,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Tauros
-        .categoryName = _("WILD BULL"),
+        .categoryName = _("Toro Bravo"),
         .height = 14,
         .weight = 884,
         .descriptionPage1 = DexDescription_Tauros_1,
@@ -6811,7 +6841,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Magikarp
-        .categoryName = _("FISH"),
+        .categoryName = _("Pez"),
         .height = 9,
         .weight = 100,
         .descriptionPage1 = DexDescription_Magikarp_1,
@@ -6822,7 +6852,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Gyarados
-        .categoryName = _("ATROCIOUS"),
+        .categoryName = _("Atrocidad"),
         .height = 65,
         .weight = 2350,
         .descriptionPage1 = DexDescription_Gyarados_1,
@@ -6833,7 +6863,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 13,
     },
     {  //Lapras
-        .categoryName = _("TRANSPORT"),
+        .categoryName = _("Transporte"),
         .height = 25,
         .weight = 2200,
         .descriptionPage1 = DexDescription_Lapras_1,
@@ -6844,7 +6874,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 8,
     },
     {  //Ditto
-        .categoryName = _("TRANSFORM"),
+        .categoryName = _("Transform."),
         .height = 3,
         .weight = 40,
         .descriptionPage1 = DexDescription_Ditto_1,
@@ -6855,7 +6885,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Eevee
-        .categoryName = _("EVOLUTION"),
+        .categoryName = _("Evolución"),
         .height = 3,
         .weight = 65,
         .descriptionPage1 = DexDescription_Eevee_1,
@@ -6866,7 +6896,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Vaporeon
-        .categoryName = _("BUBBLE JET"),
+        .categoryName = _("Burbuja"),
         .height = 10,
         .weight = 290,
         .descriptionPage1 = DexDescription_Vaporeon_1,
@@ -6877,7 +6907,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Jolteon
-        .categoryName = _("LIGHTNING"),
+        .categoryName = _("Relámpago"),
         .height = 8,
         .weight = 245,
         .descriptionPage1 = DexDescription_Jolteon_1,
@@ -6888,7 +6918,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Flareon
-        .categoryName = _("FLAME"),
+        .categoryName = _("Llama"),
         .height = 9,
         .weight = 250,
         .descriptionPage1 = DexDescription_Flareon_1,
@@ -6899,7 +6929,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Porygon
-        .categoryName = _("VIRTUAL"),
+        .categoryName = _("Virtual"),
         .height = 8,
         .weight = 365,
         .descriptionPage1 = DexDescription_Porygon_1,
@@ -6910,7 +6940,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Omanyte
-        .categoryName = _("SPIRAL"),
+        .categoryName = _("Espiral"),
         .height = 4,
         .weight = 75,
         .descriptionPage1 = DexDescription_Omanyte_1,
@@ -6921,7 +6951,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Omastar
-        .categoryName = _("SPIRAL"),
+        .categoryName = _("Espiral"),
         .height = 10,
         .weight = 350,
         .descriptionPage1 = DexDescription_Omastar_1,
@@ -6932,7 +6962,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kabuto
-        .categoryName = _("SHELLFISH"),
+        .categoryName = _("Marisco"),
         .height = 5,
         .weight = 115,
         .descriptionPage1 = DexDescription_Kabuto_1,
@@ -6943,7 +6973,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kabutops
-        .categoryName = _("SHELLFISH"),
+        .categoryName = _("Marisco"),
         .height = 13,
         .weight = 405,
         .descriptionPage1 = DexDescription_Kabutops_1,
@@ -6954,7 +6984,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Aerodactyl
-        .categoryName = _("FOSSIL"),
+        .categoryName = _("Fósil"),
         .height = 18,
         .weight = 590,
         .descriptionPage1 = DexDescription_Aerodactyl_1,
@@ -6965,7 +6995,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 4,
     },
     {  //Snorlax
-        .categoryName = _("SLEEPING"),
+        .categoryName = _("Dormir"),
         .height = 21,
         .weight = 4600,
         .descriptionPage1 = DexDescription_Snorlax_1,
@@ -6976,7 +7006,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 11,
     },
     {  //Articuno
-        .categoryName = _("FREEZE"),
+        .categoryName = _("Congelar"),
         .height = 17,
         .weight = 554,
         .descriptionPage1 = DexDescription_Articuno_1,
@@ -6987,7 +7017,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Zapdos
-        .categoryName = _("ELECTRIC"),
+        .categoryName = _("Eléctrico"),
         .height = 16,
         .weight = 526,
         .descriptionPage1 = DexDescription_Zapdos_1,
@@ -6998,7 +7028,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Moltres
-        .categoryName = _("FLAME"),
+        .categoryName = _("Llama"),
         .height = 20,
         .weight = 600,
         .descriptionPage1 = DexDescription_Moltres_1,
@@ -7009,7 +7039,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 8,
     },
     {  //Dratini
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 18,
         .weight = 33,
         .descriptionPage1 = DexDescription_Dratini_1,
@@ -7020,7 +7050,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 6,
     },
     {  //Dragonair
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 40,
         .weight = 165,
         .descriptionPage1 = DexDescription_Dragonair_1,
@@ -7031,7 +7061,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 5,
     },
     {  //Dragonite
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 22,
         .weight = 2100,
         .descriptionPage1 = DexDescription_Dragonite_1,
@@ -7042,7 +7072,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 4,
     },
     {  //Mewtwo
-        .categoryName = _("GENETIC"),
+        .categoryName = _("Genético"),
         .height = 20,
         .weight = 1220,
         .descriptionPage1 = DexDescription_Mewtwo_1,
@@ -7053,7 +7083,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 4,
     },
     {  //Mew
-        .categoryName = _("NEW SPECIES"),
+        .categoryName = _("N. Especie"),
         .height = 4,
         .weight = 40,
         .descriptionPage1 = DexDescription_Mew_1,
@@ -7064,7 +7094,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Chikorita
-        .categoryName = _("LEAF"),
+        .categoryName = _("Hoja"),
         .height = 9,
         .weight = 64,
         .descriptionPage1 = DexDescription_Chikorita_1,
@@ -7075,7 +7105,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Bayleef
-        .categoryName = _("LEAF"),
+        .categoryName = _("Hoja"),
         .height = 12,
         .weight = 158,
         .descriptionPage1 = DexDescription_Bayleef_1,
@@ -7086,7 +7116,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Meganium
-        .categoryName = _("HERB"),
+        .categoryName = _("Hierba"),
         .height = 18,
         .weight = 1005,
         .descriptionPage1 = DexDescription_Meganium_1,
@@ -7097,7 +7127,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Cyndaquil
-        .categoryName = _("FIRE MOUSE"),
+        .categoryName = _("Ratón F."),
         .height = 5,
         .weight = 79,
         .descriptionPage1 = DexDescription_Cyndaquil_1,
@@ -7108,7 +7138,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Quilava
-        .categoryName = _("VOLCANO"),
+        .categoryName = _("Volcán"),
         .height = 9,
         .weight = 190,
         .descriptionPage1 = DexDescription_Quilava_1,
@@ -7119,7 +7149,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Typhlosion
-        .categoryName = _("VOLCANO"),
+        .categoryName = _("Volcán"),
         .height = 17,
         .weight = 795,
         .descriptionPage1 = DexDescription_Typhlosion_1,
@@ -7130,7 +7160,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Totodile
-        .categoryName = _("BIG JAW"),
+        .categoryName = _("Fauces"),
         .height = 6,
         .weight = 95,
         .descriptionPage1 = DexDescription_Totodile_1,
@@ -7141,7 +7171,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Croconaw
-        .categoryName = _("BIG JAW"),
+        .categoryName = _("Fauces"),
         .height = 11,
         .weight = 250,
         .descriptionPage1 = DexDescription_Croconaw_1,
@@ -7152,7 +7182,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Feraligatr
-        .categoryName = _("BIG JAW"),
+        .categoryName = _("Fauces"),
         .height = 23,
         .weight = 888,
         .descriptionPage1 = DexDescription_Feraligatr_1,
@@ -7163,7 +7193,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Sentret
-        .categoryName = _("SCOUT"),
+        .categoryName = _("Explorador"),
         .height = 8,
         .weight = 60,
         .descriptionPage1 = DexDescription_Sentret_1,
@@ -7174,7 +7204,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Furret
-        .categoryName = _("LONG BODY"),
+        .categoryName = _("Alargado"),
         .height = 18,
         .weight = 325,
         .descriptionPage1 = DexDescription_Furret_1,
@@ -7185,7 +7215,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Hoothoot
-        .categoryName = _("OWL"),
+        .categoryName = _("Búho"),
         .height = 7,
         .weight = 212,
         .descriptionPage1 = DexDescription_Hoothoot_1,
@@ -7196,7 +7226,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Noctowl
-        .categoryName = _("OWL"),
+        .categoryName = _("Búho"),
         .height = 16,
         .weight = 408,
         .descriptionPage1 = DexDescription_Noctowl_1,
@@ -7207,7 +7237,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ledyba
-        .categoryName = _("FIVE STAR"),
+        .categoryName = _("5 Estrellas"),
         .height = 10,
         .weight = 108,
         .descriptionPage1 = DexDescription_Ledyba_1,
@@ -7218,7 +7248,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ledian
-        .categoryName = _("FIVE STAR"),
+        .categoryName = _("5 Estrellas"),
         .height = 14,
         .weight = 356,
         .descriptionPage1 = DexDescription_Ledian_1,
@@ -7229,7 +7259,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Spinarak
-        .categoryName = _("STRING SPIT"),
+        .categoryName = _("Escupesoga"),
         .height = 5,
         .weight = 85,
         .descriptionPage1 = DexDescription_Spinarak_1,
@@ -7240,7 +7270,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ariados
-        .categoryName = _("LONG LEG"),
+        .categoryName = _("Pata Larga"),
         .height = 11,
         .weight = 335,
         .descriptionPage1 = DexDescription_Ariados_1,
@@ -7251,7 +7281,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Crobat
-        .categoryName = _("BAT"),
+        .categoryName = _("Murciélago"),
         .height = 18,
         .weight = 750,
         .descriptionPage1 = DexDescription_Crobat_1,
@@ -7262,7 +7292,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Chinchou
-        .categoryName = _("ANGLER"),
+        .categoryName = _("Rape"),
         .height = 5,
         .weight = 120,
         .descriptionPage1 = DexDescription_Chinchou_1,
@@ -7273,7 +7303,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Lanturn
-        .categoryName = _("LIGHT"),
+        .categoryName = _("Luz"),
         .height = 12,
         .weight = 225,
         .descriptionPage1 = DexDescription_Lanturn_1,
@@ -7284,7 +7314,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pichu
-        .categoryName = _("TINY MOUSE"),
+        .categoryName = _("Ratoncito"),
         .height = 3,
         .weight = 20,
         .descriptionPage1 = DexDescription_Pichu_1,
@@ -7295,7 +7325,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Cleffa
-        .categoryName = _("STAR SHAPE"),
+        .categoryName = _("Estrellada"),
         .height = 3,
         .weight = 30,
         .descriptionPage1 = DexDescription_Cleffa_1,
@@ -7306,7 +7336,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Igglybuff
-        .categoryName = _("BALLOON"),
+        .categoryName = _("Globo"),
         .height = 3,
         .weight = 10,
         .descriptionPage1 = DexDescription_Igglybuff_1,
@@ -7317,7 +7347,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Togepi
-        .categoryName = _("SPIKE BALL"),
+        .categoryName = _("Bolaclavos"),
         .height = 3,
         .weight = 15,
         .descriptionPage1 = DexDescription_Togepi_1,
@@ -7328,7 +7358,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Togetic
-        .categoryName = _("HAPPINESS"),
+        .categoryName = _("Felicidad"),
         .height = 6,
         .weight = 32,
         .descriptionPage1 = DexDescription_Togetic_1,
@@ -7339,7 +7369,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Natu
-        .categoryName = _("TINY BIRD"),
+        .categoryName = _("Pajarito"),
         .height = 2,
         .weight = 20,
         .descriptionPage1 = DexDescription_Natu_1,
@@ -7350,7 +7380,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Xatu
-        .categoryName = _("MYSTIC"),
+        .categoryName = _("Místico"),
         .height = 15,
         .weight = 150,
         .descriptionPage1 = DexDescription_Xatu_1,
@@ -7361,7 +7391,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 4,
     },
     {  //Mareep
-        .categoryName = _("WOOL"),
+        .categoryName = _("Lana"),
         .height = 6,
         .weight = 78,
         .descriptionPage1 = DexDescription_Mareep_1,
@@ -7372,7 +7402,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Flaaffy
-        .categoryName = _("WOOL"),
+        .categoryName = _("Lana"),
         .height = 8,
         .weight = 133,
         .descriptionPage1 = DexDescription_Flaaffy_1,
@@ -7383,7 +7413,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ampharos
-        .categoryName = _("LIGHT"),
+        .categoryName = _("Luz"),
         .height = 14,
         .weight = 615,
         .descriptionPage1 = DexDescription_Ampharos_1,
@@ -7394,7 +7424,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Bellossom
-        .categoryName = _("FLOWER"),
+        .categoryName = _("Flor"),
         .height = 4,
         .weight = 58,
         .descriptionPage1 = DexDescription_Bellossom_1,
@@ -7405,7 +7435,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Marill
-        .categoryName = _("AQUA MOUSE"),
+        .categoryName = _("Ratón Agua"),
         .height = 4,
         .weight = 85,
         .descriptionPage1 = DexDescription_Marill_1,
@@ -7416,7 +7446,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Azumarill
-        .categoryName = _("AQUA RABBIT"),
+        .categoryName = _("Conejo Agua"),
         .height = 8,
         .weight = 285,
         .descriptionPage1 = DexDescription_Azumarill_1,
@@ -7427,7 +7457,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sudowoodo
-        .categoryName = _("IMITATION"),
+        .categoryName = _("Imitación"),
         .height = 12,
         .weight = 380,
         .descriptionPage1 = DexDescription_Sudowoodo_1,
@@ -7438,7 +7468,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Politoed
-        .categoryName = _("FROG"),
+        .categoryName = _("Rana"),
         .height = 11,
         .weight = 339,
         .descriptionPage1 = DexDescription_Politoed_1,
@@ -7449,7 +7479,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Hoppip
-        .categoryName = _("COTTONWEED"),
+        .categoryName = _("Algadón"),
         .height = 4,
         .weight = 5,
         .descriptionPage1 = DexDescription_Hoppip_1,
@@ -7460,7 +7490,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Skiploom
-        .categoryName = _("COTTONWEED"),
+        .categoryName = _("Algadón"),
         .height = 6,
         .weight = 10,
         .descriptionPage1 = DexDescription_Skiploom_1,
@@ -7471,7 +7501,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Jumpluff
-        .categoryName = _("COTTONWEED"),
+        .categoryName = _("Algadón"),
         .height = 8,
         .weight = 30,
         .descriptionPage1 = DexDescription_Jumpluff_1,
@@ -7482,7 +7512,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Aipom
-        .categoryName = _("LONG TAIL"),
+        .categoryName = _("Cola Larga"),
         .height = 8,
         .weight = 115,
         .descriptionPage1 = DexDescription_Aipom_1,
@@ -7493,7 +7523,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sunkern
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 3,
         .weight = 18,
         .descriptionPage1 = DexDescription_Sunkern_1,
@@ -7504,7 +7534,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sunflora
-        .categoryName = _("SUN"),
+        .categoryName = _("Sol"),
         .height = 8,
         .weight = 85,
         .descriptionPage1 = DexDescription_Sunflora_1,
@@ -7515,7 +7545,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Yanma
-        .categoryName = _("CLEAR WING"),
+        .categoryName = _("Ala Clara"),
         .height = 12,
         .weight = 380,
         .descriptionPage1 = DexDescription_Yanma_1,
@@ -7526,7 +7556,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wooper
-        .categoryName = _("WATER FISH"),
+        .categoryName = _("Pez Agua"),
         .height = 4,
         .weight = 85,
         .descriptionPage1 = DexDescription_Wooper_1,
@@ -7537,7 +7567,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Quagsire
-        .categoryName = _("WATER FISH"),
+        .categoryName = _("Pez Agua"),
         .height = 14,
         .weight = 750,
         .descriptionPage1 = DexDescription_Quagsire_1,
@@ -7548,7 +7578,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Espeon
-        .categoryName = _("SUN"),
+        .categoryName = _("Sol"),
         .height = 9,
         .weight = 265,
         .descriptionPage1 = DexDescription_Espeon_1,
@@ -7559,7 +7589,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Umbreon
-        .categoryName = _("MOONLIGHT"),
+        .categoryName = _("Luz Lunar"),
         .height = 10,
         .weight = 270,
         .descriptionPage1 = DexDescription_Umbreon_1,
@@ -7570,7 +7600,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Murkrow
-        .categoryName = _("DARKNESS"),
+        .categoryName = _("Oscuridad"),
         .height = 5,
         .weight = 21,
         .descriptionPage1 = DexDescription_Murkrow_1,
@@ -7581,7 +7611,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Slowking
-        .categoryName = _("ROYAL"),
+        .categoryName = _("Regio"),
         .height = 20,
         .weight = 795,
         .descriptionPage1 = DexDescription_Slowking_1,
@@ -7592,7 +7622,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 5,
     },
     {  //Misdreavus
-        .categoryName = _("SCREECH"),
+        .categoryName = _("Chirrido"),
         .height = 7,
         .weight = 10,
         .descriptionPage1 = DexDescription_Misdreavus_1,
@@ -7603,7 +7633,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Unown
-        .categoryName = _("SYMBOL"),
+        .categoryName = _("Símbolo"),
         .height = 5,
         .weight = 50,
         .descriptionPage1 = DexDescription_Unown_1,
@@ -7614,7 +7644,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wobbuffet
-        .categoryName = _("PATIENT"),
+        .categoryName = _("Paciente"),
         .height = 13,
         .weight = 285,
         .descriptionPage1 = DexDescription_Wobbuffet_1,
@@ -7625,7 +7655,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Girafarig
-        .categoryName = _("LONG NECK"),
+        .categoryName = _("Gran Cuello"),
         .height = 15,
         .weight = 415,
         .descriptionPage1 = DexDescription_Girafarig_1,
@@ -7636,7 +7666,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pineco
-        .categoryName = _("BAGWORM"),
+        .categoryName = _("Larva"),
         .height = 6,
         .weight = 72,
         .descriptionPage1 = DexDescription_Pineco_1,
@@ -7647,7 +7677,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Forretress
-        .categoryName = _("BAGWORM"),
+        .categoryName = _("Larva"),
         .height = 12,
         .weight = 1258,
         .descriptionPage1 = DexDescription_Forretress_1,
@@ -7658,7 +7688,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Dunsparce
-        .categoryName = _("LAND SNAKE"),
+        .categoryName = _("Serptierra"),
         .height = 15,
         .weight = 140,
         .descriptionPage1 = DexDescription_Dunsparce_1,
@@ -7669,7 +7699,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Gligar
-        .categoryName = _("FLYSCORPION"),
+        .categoryName = _("Escorpiala"),
         .height = 11,
         .weight = 648,
         .descriptionPage1 = DexDescription_Gligar_1,
@@ -7680,7 +7710,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Steelix
-        .categoryName = _("IRON SNAKE"),
+        .categoryName = _("Serpférrea"),
         .height = 92,
         .weight = 4000,
         .descriptionPage1 = DexDescription_Steelix_1,
@@ -7691,7 +7721,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 13,
     },
     {  //Snubbull
-        .categoryName = _("FAIRY"),
+        .categoryName = _("Hada"),
         .height = 6,
         .weight = 78,
         .descriptionPage1 = DexDescription_Snubbull_1,
@@ -7702,7 +7732,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Granbull
-        .categoryName = _("FAIRY"),
+        .categoryName = _("Hada"),
         .height = 14,
         .weight = 487,
         .descriptionPage1 = DexDescription_Granbull_1,
@@ -7713,7 +7743,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Qwilfish
-        .categoryName = _("BALLOON"),
+        .categoryName = _("Globo"),
         .height = 5,
         .weight = 39,
         .descriptionPage1 = DexDescription_Qwilfish_1,
@@ -7724,7 +7754,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Scizor
-        .categoryName = _("PINCER"),
+        .categoryName = _("Tenaza"),
         .height = 18,
         .weight = 1180,
         .descriptionPage1 = DexDescription_Scizor_1,
@@ -7735,7 +7765,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shuckle
-        .categoryName = _("MOLD"),
+        .categoryName = _("Moho"),
         .height = 6,
         .weight = 205,
         .descriptionPage1 = DexDescription_Shuckle_1,
@@ -7746,7 +7776,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Heracross
-        .categoryName = _("SINGLE HORN"),
+        .categoryName = _("Unicornio"),
         .height = 15,
         .weight = 540,
         .descriptionPage1 = DexDescription_Heracross_1,
@@ -7757,7 +7787,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sneasel
-        .categoryName = _("SHARP CLAW"),
+        .categoryName = _("Garra Filo"),
         .height = 9,
         .weight = 280,
         .descriptionPage1 = DexDescription_Sneasel_1,
@@ -7768,7 +7798,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Teddiursa
-        .categoryName = _("LITTLE BEAR"),
+        .categoryName = _("Osito"),
         .height = 6,
         .weight = 88,
         .descriptionPage1 = DexDescription_Teddiursa_1,
@@ -7779,7 +7809,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ursaring
-        .categoryName = _("HIBERNATOR"),
+        .categoryName = _("Hibernante"),
         .height = 18,
         .weight = 1258,
         .descriptionPage1 = DexDescription_Ursaring_1,
@@ -7790,7 +7820,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Slugma
-        .categoryName = _("LAVA"),
+        .categoryName = _("Lava"),
         .height = 7,
         .weight = 350,
         .descriptionPage1 = DexDescription_Slugma_1,
@@ -7801,7 +7831,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Magcargo
-        .categoryName = _("LAVA"),
+        .categoryName = _("Lava"),
         .height = 8,
         .weight = 550,
         .descriptionPage1 = DexDescription_Magcargo_1,
@@ -7812,7 +7842,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Swinub
-        .categoryName = _("PIG"),
+        .categoryName = _("Cerdo"),
         .height = 4,
         .weight = 65,
         .descriptionPage1 = DexDescription_Swinub_1,
@@ -7823,7 +7853,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Piloswine
-        .categoryName = _("SWINE"),
+        .categoryName = _("Puerco"),
         .height = 11,
         .weight = 558,
         .descriptionPage1 = DexDescription_Piloswine_1,
@@ -7834,7 +7864,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Corsola
-        .categoryName = _("CORAL"),
+        .categoryName = _("Coral"),
         .height = 6,
         .weight = 50,
         .descriptionPage1 = DexDescription_Corsola_1,
@@ -7845,7 +7875,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Remoraid
-        .categoryName = _("JET"),
+        .categoryName = _("Reactor"),
         .height = 6,
         .weight = 120,
         .descriptionPage1 = DexDescription_Remoraid_1,
@@ -7856,7 +7886,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Octillery
-        .categoryName = _("JET"),
+        .categoryName = _("Reactor"),
         .height = 9,
         .weight = 285,
         .descriptionPage1 = DexDescription_Octillery_1,
@@ -7867,7 +7897,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Delibird
-        .categoryName = _("DELIVERY"),
+        .categoryName = _("Reparto"),
         .height = 9,
         .weight = 160,
         .descriptionPage1 = DexDescription_Delibird_1,
@@ -7878,7 +7908,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Mantine
-        .categoryName = _("KITE"),
+        .categoryName = _("Milano"),
         .height = 21,
         .weight = 2200,
         .descriptionPage1 = DexDescription_Mantine_1,
@@ -7889,7 +7919,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Skarmory
-        .categoryName = _("ARMOR BIRD"),
+        .categoryName = _("Coraza Ave"),
         .height = 17,
         .weight = 505,
         .descriptionPage1 = DexDescription_Skarmory_1,
@@ -7900,7 +7930,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Houndour
-        .categoryName = _("DARK"),
+        .categoryName = _("Siniestro"),
         .height = 6,
         .weight = 108,
         .descriptionPage1 = DexDescription_Houndour_1,
@@ -7911,7 +7941,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Houndoom
-        .categoryName = _("DARK"),
+        .categoryName = _("Siniestro"),
         .height = 14,
         .weight = 350,
         .descriptionPage1 = DexDescription_Houndoom_1,
@@ -7922,7 +7952,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kingdra
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 18,
         .weight = 1520,
         .descriptionPage1 = DexDescription_Kingdra_1,
@@ -7933,7 +7963,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Phanpy
-        .categoryName = _("LONG NOSE"),
+        .categoryName = _("Narizotas"),
         .height = 5,
         .weight = 335,
         .descriptionPage1 = DexDescription_Phanpy_1,
@@ -7944,7 +7974,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Donphan
-        .categoryName = _("ARMOR"),
+        .categoryName = _("Coraza"),
         .height = 11,
         .weight = 1200,
         .descriptionPage1 = DexDescription_Donphan_1,
@@ -7955,7 +7985,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Porygon2
-        .categoryName = _("VIRTUAL"),
+        .categoryName = _("Virtual"),
         .height = 6,
         .weight = 325,
         .descriptionPage1 = DexDescription_Porygon2_1,
@@ -7966,7 +7996,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Stantler
-        .categoryName = _("BIG HORN"),
+        .categoryName = _("Gran Cuerno"),
         .height = 14,
         .weight = 712,
         .descriptionPage1 = DexDescription_Stantler_1,
@@ -7977,7 +8007,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Smeargle
-        .categoryName = _("PAINTER"),
+        .categoryName = _("Pintor"),
         .height = 12,
         .weight = 580,
         .descriptionPage1 = DexDescription_Smeargle_1,
@@ -7988,7 +8018,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Tyrogue
-        .categoryName = _("SCUFFLE"),
+        .categoryName = _("Peleón"),
         .height = 7,
         .weight = 210,
         .descriptionPage1 = DexDescription_Tyrogue_1,
@@ -7999,7 +8029,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Hitmontop
-        .categoryName = _("HANDSTAND"),
+        .categoryName = _("Boca Abajo"),
         .height = 14,
         .weight = 480,
         .descriptionPage1 = DexDescription_Hitmontop_1,
@@ -8010,7 +8040,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Smoochum
-        .categoryName = _("KISS"),
+        .categoryName = _("Beso"),
         .height = 4,
         .weight = 60,
         .descriptionPage1 = DexDescription_Smoochum_1,
@@ -8021,7 +8051,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Elekid
-        .categoryName = _("ELECTRIC"),
+        .categoryName = _("Eléctrico"),
         .height = 6,
         .weight = 235,
         .descriptionPage1 = DexDescription_Elekid_1,
@@ -8032,7 +8062,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Magby
-        .categoryName = _("LIVE COAL"),
+        .categoryName = _("Ascuas"),
         .height = 7,
         .weight = 214,
         .descriptionPage1 = DexDescription_Magby_1,
@@ -8043,7 +8073,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Miltank
-        .categoryName = _("MILK COW"),
+        .categoryName = _("Lechera"),
         .height = 12,
         .weight = 755,
         .descriptionPage1 = DexDescription_Miltank_1,
@@ -8054,7 +8084,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Blissey
-        .categoryName = _("HAPPINESS"),
+        .categoryName = _("Felicidad"),
         .height = 15,
         .weight = 468,
         .descriptionPage1 = DexDescription_Blissey_1,
@@ -8065,7 +8095,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Raikou
-        .categoryName = _("THUNDER"),
+        .categoryName = _("Trueno"),
         .height = 19,
         .weight = 1780,
         .descriptionPage1 = DexDescription_Raikou_1,
@@ -8076,7 +8106,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Entei
-        .categoryName = _("VOLCANO"),
+        .categoryName = _("Volcán"),
         .height = 21,
         .weight = 1980,
         .descriptionPage1 = DexDescription_Entei_1,
@@ -8087,7 +8117,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Suicune
-        .categoryName = _("AURORA"),
+        .categoryName = _("Aurora"),
         .height = 20,
         .weight = 1870,
         .descriptionPage1 = DexDescription_Suicune_1,
@@ -8098,7 +8128,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Larvitar
-        .categoryName = _("ROCK SKIN"),
+        .categoryName = _("Piel Roca"),
         .height = 6,
         .weight = 720,
         .descriptionPage1 = DexDescription_Larvitar_1,
@@ -8109,7 +8139,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pupitar
-        .categoryName = _("HARD SHELL"),
+        .categoryName = _("Caparazón"),
         .height = 12,
         .weight = 1520,
         .descriptionPage1 = DexDescription_Pupitar_1,
@@ -8120,7 +8150,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Tyranitar
-        .categoryName = _("ARMOR"),
+        .categoryName = _("Coraza"),
         .height = 20,
         .weight = 2020,
         .descriptionPage1 = DexDescription_Tyranitar_1,
@@ -8131,7 +8161,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Lugia
-        .categoryName = _("DIVING"),
+        .categoryName = _("Buceo"),
         .height = 52,
         .weight = 2160,
         .descriptionPage1 = DexDescription_Lugia_1,
@@ -8142,7 +8172,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 19,
     },
     {  //HoOh
-        .categoryName = _("RAINBOW"),
+        .categoryName = _("Arcoíris"),
         .height = 38,
         .weight = 1990,
         .descriptionPage1 = DexDescription_HoOh_1,
@@ -8153,7 +8183,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 17,
     },
     {  //Celebi
-        .categoryName = _("TIME TRAVEL"),
+        .categoryName = _("Viajetiempo"),
         .height = 6,
         .weight = 50,
         .descriptionPage1 = DexDescription_Celebi_1,
@@ -8164,7 +8194,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Treecko
-        .categoryName = _("WOOD GECKO"),
+        .categoryName = _("Geco Bosque"),
         .height = 5,
         .weight = 50,
         .descriptionPage1 = DexDescription_Treecko_1,
@@ -8175,7 +8205,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Grovyle
-        .categoryName = _("WOOD GECKO"),
+        .categoryName = _("Geco Bosque"),
         .height = 9,
         .weight = 216,
         .descriptionPage1 = DexDescription_Grovyle_1,
@@ -8186,7 +8216,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sceptile
-        .categoryName = _("FOREST"),
+        .categoryName = _("Monte"),
         .height = 17,
         .weight = 522,
         .descriptionPage1 = DexDescription_Sceptile_1,
@@ -8197,7 +8227,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Torchic
-        .categoryName = _("CHICK"),
+        .categoryName = _("Polluelo"),
         .height = 4,
         .weight = 25,
         .descriptionPage1 = DexDescription_Torchic_1,
@@ -8208,7 +8238,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Combusken
-        .categoryName = _("YOUNG FOWL"),
+        .categoryName = _("Ave Corral"),
         .height = 9,
         .weight = 195,
         .descriptionPage1 = DexDescription_Combusken_1,
@@ -8219,7 +8249,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Blaziken
-        .categoryName = _("BLAZE"),
+        .categoryName = _("Llameante"),
         .height = 19,
         .weight = 520,
         .descriptionPage1 = DexDescription_Blaziken_1,
@@ -8230,7 +8260,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 4,
     },
     {  //Mudkip
-        .categoryName = _("MUD FISH"),
+        .categoryName = _("Pez Lodo"),
         .height = 4,
         .weight = 76,
         .descriptionPage1 = DexDescription_Mudkip_1,
@@ -8241,7 +8271,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Marshtomp
-        .categoryName = _("MUD FISH"),
+        .categoryName = _("Pez Lodo"),
         .height = 7,
         .weight = 280,
         .descriptionPage1 = DexDescription_Marshtomp_1,
@@ -8252,7 +8282,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Swampert
-        .categoryName = _("MUD FISH"),
+        .categoryName = _("Pez Lodo"),
         .height = 15,
         .weight = 819,
         .descriptionPage1 = DexDescription_Swampert_1,
@@ -8263,7 +8293,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Poochyena
-        .categoryName = _("BITE"),
+        .categoryName = _("Mordisco"),
         .height = 5,
         .weight = 136,
         .descriptionPage1 = DexDescription_Poochyena_1,
@@ -8274,7 +8304,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Mightyena
-        .categoryName = _("BITE"),
+        .categoryName = _("Mordisco"),
         .height = 10,
         .weight = 370,
         .descriptionPage1 = DexDescription_Mightyena_1,
@@ -8285,7 +8315,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Zigzagoon
-        .categoryName = _("TINYRACCOON"),
+        .categoryName = _("Mapachito"),
         .height = 4,
         .weight = 175,
         .descriptionPage1 = DexDescription_Zigzagoon_1,
@@ -8296,7 +8326,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Linoone
-        .categoryName = _("RUSHING"),
+        .categoryName = _("Lanzado"),
         .height = 5,
         .weight = 325,
         .descriptionPage1 = DexDescription_Linoone_1,
@@ -8307,7 +8337,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wurmple
-        .categoryName = _("WORM"),
+        .categoryName = _("Gusano"),
         .height = 3,
         .weight = 36,
         .descriptionPage1 = DexDescription_Wurmple_1,
@@ -8318,7 +8348,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Silcoon
-        .categoryName = _("COCOON"),
+        .categoryName = _("Capullo"),
         .height = 6,
         .weight = 100,
         .descriptionPage1 = DexDescription_Silcoon_1,
@@ -8329,7 +8359,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Beautifly
-        .categoryName = _("BUTTERFLY"),
+        .categoryName = _("Mariposa"),
         .height = 10,
         .weight = 284,
         .descriptionPage1 = DexDescription_Beautifly_1,
@@ -8340,7 +8370,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Cascoon
-        .categoryName = _("COCOON"),
+        .categoryName = _("Capullo"),
         .height = 7,
         .weight = 115,
         .descriptionPage1 = DexDescription_Cascoon_1,
@@ -8351,7 +8381,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Dustox
-        .categoryName = _("POISON MOTH"),
+        .categoryName = _("Polilla Ven"),
         .height = 12,
         .weight = 316,
         .descriptionPage1 = DexDescription_Dustox_1,
@@ -8362,7 +8392,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Lotad
-        .categoryName = _("WATER WEED"),
+        .categoryName = _("Alga"),
         .height = 5,
         .weight = 26,
         .descriptionPage1 = DexDescription_Lotad_1,
@@ -8373,7 +8403,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Lombre
-        .categoryName = _("JOLLY"),
+        .categoryName = _("Alegre"),
         .height = 12,
         .weight = 325,
         .descriptionPage1 = DexDescription_Lombre_1,
@@ -8384,7 +8414,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ludicolo
-        .categoryName = _("CAREFREE"),
+        .categoryName = _("Optimista"),
         .height = 15,
         .weight = 550,
         .descriptionPage1 = DexDescription_Ludicolo_1,
@@ -8395,7 +8425,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -1,
     },
     {  //Seedot
-        .categoryName = _("ACORN"),
+        .categoryName = _("Bellota"),
         .height = 5,
         .weight = 40,
         .descriptionPage1 = DexDescription_Seedot_1,
@@ -8406,7 +8436,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Nuzleaf
-        .categoryName = _("WILY"),
+        .categoryName = _("Astuto"),
         .height = 10,
         .weight = 280,
         .descriptionPage1 = DexDescription_Nuzleaf_1,
@@ -8417,7 +8447,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shiftry
-        .categoryName = _("WICKED"),
+        .categoryName = _("Malvado"),
         .height = 13,
         .weight = 596,
         .descriptionPage1 = DexDescription_Shiftry_1,
@@ -8428,7 +8458,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Taillow
-        .categoryName = _("TINYSWALLOW"),
+        .categoryName = _("Pequebuche"),
         .height = 3,
         .weight = 23,
         .descriptionPage1 = DexDescription_Taillow_1,
@@ -8439,7 +8469,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Swellow
-        .categoryName = _("SWALLOW"),
+        .categoryName = _("Buche"),
         .height = 7,
         .weight = 198,
         .descriptionPage1 = DexDescription_Swellow_1,
@@ -8450,7 +8480,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wingull
-        .categoryName = _("SEAGULL"),
+        .categoryName = _("Gaviota"),
         .height = 6,
         .weight = 95,
         .descriptionPage1 = DexDescription_Wingull_1,
@@ -8461,7 +8491,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Pelipper
-        .categoryName = _("WATER BIRD"),
+        .categoryName = _("Ave Agua"),
         .height = 12,
         .weight = 280,
         .descriptionPage1 = DexDescription_Pelipper_1,
@@ -8472,7 +8502,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ralts
-        .categoryName = _("FEELING"),
+        .categoryName = _("Sensible"),
         .height = 4,
         .weight = 66,
         .descriptionPage1 = DexDescription_Ralts_1,
@@ -8483,7 +8513,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kirlia
-        .categoryName = _("EMOTION"),
+        .categoryName = _("Sensorio"),
         .height = 8,
         .weight = 202,
         .descriptionPage1 = DexDescription_Kirlia_1,
@@ -8494,7 +8524,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Gardevoir
-        .categoryName = _("EMBRACE"),
+        .categoryName = _("Envolvente"),
         .height = 16,
         .weight = 484,
         .descriptionPage1 = DexDescription_Gardevoir_1,
@@ -8505,7 +8535,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Surskit
-        .categoryName = _("POND SKATER"),
+        .categoryName = _("Zapatero"),
         .height = 5,
         .weight = 17,
         .descriptionPage1 = DexDescription_Surskit_1,
@@ -8516,7 +8546,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Masquerain
-        .categoryName = _("EYEBALL"),
+        .categoryName = _("Globocular"),
         .height = 8,
         .weight = 36,
         .descriptionPage1 = DexDescription_Masquerain_1,
@@ -8527,7 +8557,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shroomish
-        .categoryName = _("MUSHROOM"),
+        .categoryName = _("Hongo"),
         .height = 4,
         .weight = 45,
         .descriptionPage1 = DexDescription_Shroomish_1,
@@ -8538,7 +8568,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Breloom
-        .categoryName = _("MUSHROOM"),
+        .categoryName = _("Hongo"),
         .height = 12,
         .weight = 392,
         .descriptionPage1 = DexDescription_Breloom_1,
@@ -8549,7 +8579,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Slakoth
-        .categoryName = _("SLACKER"),
+        .categoryName = _("Gandul"),
         .height = 8,
         .weight = 240,
         .descriptionPage1 = DexDescription_Slakoth_1,
@@ -8560,7 +8590,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Vigoroth
-        .categoryName = _("WILD MONKEY"),
+        .categoryName = _("Mono Feroz"),
         .height = 14,
         .weight = 465,
         .descriptionPage1 = DexDescription_Vigoroth_1,
@@ -8571,7 +8601,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Slaking
-        .categoryName = _("LAZY"),
+        .categoryName = _("Holgazán"),
         .height = 20,
         .weight = 1305,
         .descriptionPage1 = DexDescription_Slaking_1,
@@ -8582,7 +8612,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Nincada
-        .categoryName = _("TRAINEE"),
+        .categoryName = _("Aprendiz"),
         .height = 5,
         .weight = 55,
         .descriptionPage1 = DexDescription_Nincada_1,
@@ -8593,7 +8623,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Ninjask
-        .categoryName = _("NINJA"),
+        .categoryName = _("Ninja"),
         .height = 8,
         .weight = 120,
         .descriptionPage1 = DexDescription_Ninjask_1,
@@ -8604,7 +8634,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shedinja
-        .categoryName = _("SHED"),
+        .categoryName = _("Muda"),
         .height = 8,
         .weight = 12,
         .descriptionPage1 = DexDescription_Shedinja_1,
@@ -8615,7 +8645,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Whismur
-        .categoryName = _("WHISPER"),
+        .categoryName = _("Susurro"),
         .height = 6,
         .weight = 163,
         .descriptionPage1 = DexDescription_Whismur_1,
@@ -8626,7 +8656,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Loudred
-        .categoryName = _("BIG VOICE"),
+        .categoryName = _("Chillón"),
         .height = 10,
         .weight = 405,
         .descriptionPage1 = DexDescription_Loudred_1,
@@ -8637,7 +8667,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Exploud
-        .categoryName = _("LOUD NOISE"),
+        .categoryName = _("Escandaloso"),
         .height = 15,
         .weight = 840,
         .descriptionPage1 = DexDescription_Exploud_1,
@@ -8648,7 +8678,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Makuhita
-        .categoryName = _("GUTS"),
+        .categoryName = _("Valiente"),
         .height = 10,
         .weight = 864,
         .descriptionPage1 = DexDescription_Makuhita_1,
@@ -8659,7 +8689,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Hariyama
-        .categoryName = _("ARM THRUST"),
+        .categoryName = _("Empuje"),
         .height = 23,
         .weight = 2538,
         .descriptionPage1 = DexDescription_Hariyama_1,
@@ -8670,7 +8700,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Azurill
-        .categoryName = _("POLKA DOT"),
+        .categoryName = _("A Topos"),
         .height = 2,
         .weight = 20,
         .descriptionPage1 = DexDescription_Azurill_1,
@@ -8681,7 +8711,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Nosepass
-        .categoryName = _("COMPASS"),
+        .categoryName = _("Brújula"),
         .height = 10,
         .weight = 970,
         .descriptionPage1 = DexDescription_Nosepass_1,
@@ -8692,7 +8722,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Skitty
-        .categoryName = _("KITTEN"),
+        .categoryName = _("Gatito"),
         .height = 6,
         .weight = 110,
         .descriptionPage1 = DexDescription_Skitty_1,
@@ -8703,7 +8733,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Delcatty
-        .categoryName = _("PRIM"),
+        .categoryName = _("Cursi"),
         .height = 11,
         .weight = 326,
         .descriptionPage1 = DexDescription_Delcatty_1,
@@ -8714,7 +8744,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sableye
-        .categoryName = _("DARKNESS"),
+        .categoryName = _("Oscuridad"),
         .height = 5,
         .weight = 110,
         .descriptionPage1 = DexDescription_Sableye_1,
@@ -8725,7 +8755,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Mawile
-        .categoryName = _("DECEIVER"),
+        .categoryName = _("Tramposo"),
         .height = 6,
         .weight = 115,
         .descriptionPage1 = DexDescription_Mawile_1,
@@ -8736,7 +8766,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Aron
-        .categoryName = _("IRON ARMOR"),
+        .categoryName = _("Cor. Férrea"),
         .height = 4,
         .weight = 600,
         .descriptionPage1 = DexDescription_Aron_1,
@@ -8747,7 +8777,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Lairon
-        .categoryName = _("IRON ARMOR"),
+        .categoryName = _("Cor. Férrea"),
         .height = 9,
         .weight = 1200,
         .descriptionPage1 = DexDescription_Lairon_1,
@@ -8758,7 +8788,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Aggron
-        .categoryName = _("IRON ARMOR"),
+        .categoryName = _("Cor. Férrea"),
         .height = 21,
         .weight = 3600,
         .descriptionPage1 = DexDescription_Aggron_1,
@@ -8769,7 +8799,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 6,
     },
     {  //Meditite
-        .categoryName = _("MEDITATE"),
+        .categoryName = _("Meditador"),
         .height = 6,
         .weight = 112,
         .descriptionPage1 = DexDescription_Meditite_1,
@@ -8780,7 +8810,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Medicham
-        .categoryName = _("MEDITATE"),
+        .categoryName = _("Meditador"),
         .height = 13,
         .weight = 315,
         .descriptionPage1 = DexDescription_Medicham_1,
@@ -8791,7 +8821,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Electrike
-        .categoryName = _("LIGHTNING"),
+        .categoryName = _("Calambre"),
         .height = 6,
         .weight = 152,
         .descriptionPage1 = DexDescription_Electrike_1,
@@ -8802,7 +8832,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Manectric
-        .categoryName = _("DISCHARGE"),
+        .categoryName = _("Descarga"),
         .height = 15,
         .weight = 402,
         .descriptionPage1 = DexDescription_Manectric_1,
@@ -8813,7 +8843,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Plusle
-        .categoryName = _("CHEERING"),
+        .categoryName = _("Ánimo"),
         .height = 4,
         .weight = 42,
         .descriptionPage1 = DexDescription_Plusle_1,
@@ -8824,7 +8854,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Minun
-        .categoryName = _("CHEERING"),
+        .categoryName = _("Ánimo"),
         .height = 4,
         .weight = 42,
         .descriptionPage1 = DexDescription_Minun_1,
@@ -8835,7 +8865,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Volbeat
-        .categoryName = _("FIREFLY"),
+        .categoryName = _("Luciérnaga"),
         .height = 7,
         .weight = 177,
         .descriptionPage1 = DexDescription_Volbeat_1,
@@ -8846,7 +8876,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Illumise
-        .categoryName = _("FIREFLY"),
+        .categoryName = _("Luciérnaga"),
         .height = 6,
         .weight = 177,
         .descriptionPage1 = DexDescription_Illumise_1,
@@ -8857,7 +8887,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Roselia
-        .categoryName = _("THORN"),
+        .categoryName = _("Espina"),
         .height = 3,
         .weight = 20,
         .descriptionPage1 = DexDescription_Roselia_1,
@@ -8868,7 +8898,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Gulpin
-        .categoryName = _("STOMACH"),
+        .categoryName = _("Estómago"),
         .height = 4,
         .weight = 103,
         .descriptionPage1 = DexDescription_Gulpin_1,
@@ -8879,7 +8909,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Swalot
-        .categoryName = _("POISON BAG"),
+        .categoryName = _("Bolsa Ven."),
         .height = 17,
         .weight = 800,
         .descriptionPage1 = DexDescription_Swalot_1,
@@ -8890,7 +8920,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Carvanha
-        .categoryName = _("SAVAGE"),
+        .categoryName = _("Feroz"),
         .height = 8,
         .weight = 208,
         .descriptionPage1 = DexDescription_Carvanha_1,
@@ -8901,7 +8931,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sharpedo
-        .categoryName = _("BRUTAL"),
+        .categoryName = _("Voraz"),
         .height = 18,
         .weight = 888,
         .descriptionPage1 = DexDescription_Sharpedo_1,
@@ -8912,7 +8942,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Wailmer
-        .categoryName = _("BALL WHALE"),
+        .categoryName = _("Ballenabola"),
         .height = 20,
         .weight = 1300,
         .descriptionPage1 = DexDescription_Wailmer_1,
@@ -8923,7 +8953,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wailord
-        .categoryName = _("FLOAT WHALE"),
+        .categoryName = _("Ballenaflot"),
         .height = 145,
         .weight = 3980,
         .descriptionPage1 = DexDescription_Wailord_1,
@@ -8934,7 +8964,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 18,
     },
     {  //Numel
-        .categoryName = _("NUMB"),
+        .categoryName = _("Torpe"),
         .height = 7,
         .weight = 240,
         .descriptionPage1 = DexDescription_Numel_1,
@@ -8945,7 +8975,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Camerupt
-        .categoryName = _("ERUPTION"),
+        .categoryName = _("Erupción"),
         .height = 19,
         .weight = 2200,
         .descriptionPage1 = DexDescription_Camerupt_1,
@@ -8956,7 +8986,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 6,
     },
     {  //Torkoal
-        .categoryName = _("COAL"),
+        .categoryName = _("Carbón"),
         .height = 5,
         .weight = 804,
         .descriptionPage1 = DexDescription_Torkoal_1,
@@ -8967,7 +8997,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Spoink
-        .categoryName = _("BOUNCE"),
+        .categoryName = _("Saltarín"),
         .height = 7,
         .weight = 306,
         .descriptionPage1 = DexDescription_Spoink_1,
@@ -8978,7 +9008,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Grumpig
-        .categoryName = _("MANIPULATE"),
+        .categoryName = _("Manipulador"),
         .height = 9,
         .weight = 715,
         .descriptionPage1 = DexDescription_Grumpig_1,
@@ -8989,7 +9019,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Spinda
-        .categoryName = _("SPOT PANDA"),
+        .categoryName = _("Panda Topos"),
         .height = 11,
         .weight = 50,
         .descriptionPage1 = DexDescription_Spinda_1,
@@ -9000,7 +9030,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Trapinch
-        .categoryName = _("ANT PIT"),
+        .categoryName = _("Hormigaleón"),
         .height = 7,
         .weight = 150,
         .descriptionPage1 = DexDescription_Trapinch_1,
@@ -9011,7 +9041,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Vibrava
-        .categoryName = _("VIBRATION"),
+        .categoryName = _("Vibrante"),
         .height = 11,
         .weight = 153,
         .descriptionPage1 = DexDescription_Vibrava_1,
@@ -9022,7 +9052,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Flygon
-        .categoryName = _("MYSTIC"),
+        .categoryName = _("Místico"),
         .height = 20,
         .weight = 820,
         .descriptionPage1 = DexDescription_Flygon_1,
@@ -9033,7 +9063,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Cacnea
-        .categoryName = _("CACTUS"),
+        .categoryName = _("Cactus"),
         .height = 4,
         .weight = 513,
         .descriptionPage1 = DexDescription_Cacnea_1,
@@ -9044,7 +9074,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Cacturne
-        .categoryName = _("SCARECROW"),
+        .categoryName = _("Espantajo"),
         .height = 13,
         .weight = 774,
         .descriptionPage1 = DexDescription_Cacturne_1,
@@ -9055,7 +9085,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Swablu
-        .categoryName = _("COTTON BIRD"),
+        .categoryName = _("Ave Algodón"),
         .height = 4,
         .weight = 12,
         .descriptionPage1 = DexDescription_Swablu_1,
@@ -9066,7 +9096,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Altaria
-        .categoryName = _("HUMMING"),
+        .categoryName = _("Cantor"),
         .height = 11,
         .weight = 206,
         .descriptionPage1 = DexDescription_Altaria_1,
@@ -9077,7 +9107,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Zangoose
-        .categoryName = _("CAT FERRET"),
+        .categoryName = _("Gato Hurón"),
         .height = 13,
         .weight = 403,
         .descriptionPage1 = DexDescription_Zangoose_1,
@@ -9088,7 +9118,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Seviper
-        .categoryName = _("FANG SNAKE"),
+        .categoryName = _("Colmillos"),
         .height = 27,
         .weight = 525,
         .descriptionPage1 = DexDescription_Seviper_1,
@@ -9099,7 +9129,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Lunatone
-        .categoryName = _("METEORITE"),
+        .categoryName = _("Meteorito"),
         .height = 10,
         .weight = 1680,
         .descriptionPage1 = DexDescription_Lunatone_1,
@@ -9110,7 +9140,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Solrock
-        .categoryName = _("METEORITE"),
+        .categoryName = _("Meteorito"),
         .height = 12,
         .weight = 1540,
         .descriptionPage1 = DexDescription_Solrock_1,
@@ -9121,7 +9151,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Barboach
-        .categoryName = _("WHISKERS"),
+        .categoryName = _("Bigotudo"),
         .height = 4,
         .weight = 19,
         .descriptionPage1 = DexDescription_Barboach_1,
@@ -9132,7 +9162,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Whiscash
-        .categoryName = _("WHISKERS"),
+        .categoryName = _("Bigotudo"),
         .height = 9,
         .weight = 236,
         .descriptionPage1 = DexDescription_Whiscash_1,
@@ -9143,7 +9173,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Corphish
-        .categoryName = _("RUFFIAN"),
+        .categoryName = _("Rufián"),
         .height = 6,
         .weight = 115,
         .descriptionPage1 = DexDescription_Corphish_1,
@@ -9154,7 +9184,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Crawdaunt
-        .categoryName = _("ROGUE"),
+        .categoryName = _("Granuja"),
         .height = 11,
         .weight = 328,
         .descriptionPage1 = DexDescription_Crawdaunt_1,
@@ -9165,7 +9195,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Baltoy
-        .categoryName = _("CLAY DOLL"),
+        .categoryName = _("Muñ. Barro"),
         .height = 5,
         .weight = 215,
         .descriptionPage1 = DexDescription_Baltoy_1,
@@ -9176,7 +9206,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Claydol
-        .categoryName = _("CLAY DOLL"),
+        .categoryName = _("Muñ. Barro"),
         .height = 15,
         .weight = 1080,
         .descriptionPage1 = DexDescription_Claydol_1,
@@ -9187,7 +9217,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Lileep
-        .categoryName = _("SEA LILY"),
+        .categoryName = _("Lila Mar"),
         .height = 10,
         .weight = 238,
         .descriptionPage1 = DexDescription_Lileep_1,
@@ -9198,7 +9228,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Cradily
-        .categoryName = _("BARNACLE"),
+        .categoryName = _("Percebe"),
         .height = 15,
         .weight = 604,
         .descriptionPage1 = DexDescription_Cradily_1,
@@ -9209,7 +9239,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Anorith
-        .categoryName = _("OLD SHRIMP"),
+        .categoryName = _("Camarón"),
         .height = 7,
         .weight = 125,
         .descriptionPage1 = DexDescription_Anorith_1,
@@ -9220,7 +9250,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Armaldo
-        .categoryName = _("PLATE"),
+        .categoryName = _("Armadura"),
         .height = 15,
         .weight = 682,
         .descriptionPage1 = DexDescription_Armaldo_1,
@@ -9231,7 +9261,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Feebas
-        .categoryName = _("FISH"),
+        .categoryName = _("Pez"),
         .height = 6,
         .weight = 74,
         .descriptionPage1 = DexDescription_Feebas_1,
@@ -9242,7 +9272,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Milotic
-        .categoryName = _("TENDER"),
+        .categoryName = _("Tierno"),
         .height = 62,
         .weight = 1620,
         .descriptionPage1 = DexDescription_Milotic_1,
@@ -9253,7 +9283,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Castform
-        .categoryName = _("WEATHER"),
+        .categoryName = _("Clima"),
         .height = 3,
         .weight = 8,
         .descriptionPage1 = DexDescription_Castform_1,
@@ -9264,7 +9294,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Kecleon
-        .categoryName = _("COLOR SWAP"),
+        .categoryName = _("Camaleónico"),
         .height = 10,
         .weight = 220,
         .descriptionPage1 = DexDescription_Kecleon_1,
@@ -9275,7 +9305,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shuppet
-        .categoryName = _("PUPPET"),
+        .categoryName = _("Títere"),
         .height = 6,
         .weight = 23,
         .descriptionPage1 = DexDescription_Shuppet_1,
@@ -9286,7 +9316,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Banette
-        .categoryName = _("MARIONETTE"),
+        .categoryName = _("Marioneta"),
         .height = 11,
         .weight = 125,
         .descriptionPage1 = DexDescription_Banette_1,
@@ -9297,7 +9327,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Duskull
-        .categoryName = _("REQUIEM"),
+        .categoryName = _("Réquiem"),
         .height = 8,
         .weight = 150,
         .descriptionPage1 = DexDescription_Duskull_1,
@@ -9308,7 +9338,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Dusclops
-        .categoryName = _("BECKON"),
+        .categoryName = _("Atrayente"),
         .height = 16,
         .weight = 306,
         .descriptionPage1 = DexDescription_Dusclops_1,
@@ -9319,7 +9349,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Tropius
-        .categoryName = _("FRUIT"),
+        .categoryName = _("Fruto"),
         .height = 20,
         .weight = 1000,
         .descriptionPage1 = DexDescription_Tropius_1,
@@ -9330,7 +9360,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 7,
     },
     {  //Chimecho
-        .categoryName = _("WIND CHIME"),
+        .categoryName = _("Sonido Aire"),
         .height = 6,
         .weight = 10,
         .descriptionPage1 = DexDescription_Chimecho_1,
@@ -9341,7 +9371,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Absol
-        .categoryName = _("DISASTER"),
+        .categoryName = _("Catástrofe"),
         .height = 12,
         .weight = 470,
         .descriptionPage1 = DexDescription_Absol_1,
@@ -9352,7 +9382,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Wynaut
-        .categoryName = _("BRIGHT"),
+        .categoryName = _("Radiante"),
         .height = 6,
         .weight = 140,
         .descriptionPage1 = DexDescription_Wynaut_1,
@@ -9363,7 +9393,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Snorunt
-        .categoryName = _("SNOW HAT"),
+        .categoryName = _("Gorro Nieve"),
         .height = 7,
         .weight = 168,
         .descriptionPage1 = DexDescription_Snorunt_1,
@@ -9374,7 +9404,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Glalie
-        .categoryName = _("FACE"),
+        .categoryName = _("Cara"),
         .height = 15,
         .weight = 2565,
         .descriptionPage1 = DexDescription_Glalie_1,
@@ -9385,7 +9415,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Spheal
-        .categoryName = _("CLAP"),
+        .categoryName = _("Aplauso"),
         .height = 8,
         .weight = 395,
         .descriptionPage1 = DexDescription_Spheal_1,
@@ -9396,7 +9426,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Sealeo
-        .categoryName = _("BALL ROLL"),
+        .categoryName = _("Rodabola"),
         .height = 11,
         .weight = 876,
         .descriptionPage1 = DexDescription_Sealeo_1,
@@ -9407,7 +9437,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Walrein
-        .categoryName = _("ICE BREAK"),
+        .categoryName = _("Rompehielo"),
         .height = 14,
         .weight = 1506,
         .descriptionPage1 = DexDescription_Walrein_1,
@@ -9418,7 +9448,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Clamperl
-        .categoryName = _("BIVALVE"),
+        .categoryName = _("Bivalvo"),
         .height = 4,
         .weight = 525,
         .descriptionPage1 = DexDescription_Clamperl_1,
@@ -9429,7 +9459,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Huntail
-        .categoryName = _("DEEP SEA"),
+        .categoryName = _("Abisal"),
         .height = 17,
         .weight = 270,
         .descriptionPage1 = DexDescription_Huntail_1,
@@ -9440,7 +9470,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Gorebyss
-        .categoryName = _("SOUTH SEA"),
+        .categoryName = _("Mar del Sur"),
         .height = 18,
         .weight = 226,
         .descriptionPage1 = DexDescription_Gorebyss_1,
@@ -9451,7 +9481,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Relicanth
-        .categoryName = _("LONGEVITY"),
+        .categoryName = _("Longevo"),
         .height = 10,
         .weight = 234,
         .descriptionPage1 = DexDescription_Relicanth_1,
@@ -9462,7 +9492,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Luvdisc
-        .categoryName = _("RENDEZVOUS"),
+        .categoryName = _("Cita"),
         .height = 6,
         .weight = 87,
         .descriptionPage1 = DexDescription_Luvdisc_1,
@@ -9473,7 +9503,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Bagon
-        .categoryName = _("ROCK HEAD"),
+        .categoryName = _("Cabeza Roca"),
         .height = 6,
         .weight = 421,
         .descriptionPage1 = DexDescription_Bagon_1,
@@ -9484,7 +9514,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Shelgon
-        .categoryName = _("ENDURANCE"),
+        .categoryName = _("Resistencia"),
         .height = 11,
         .weight = 1105,
         .descriptionPage1 = DexDescription_Shelgon_1,
@@ -9495,7 +9525,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Salamence
-        .categoryName = _("DRAGON"),
+        .categoryName = _("Dragón"),
         .height = 15,
         .weight = 1026,
         .descriptionPage1 = DexDescription_Salamence_1,
@@ -9506,7 +9536,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Beldum
-        .categoryName = _("IRON BALL"),
+        .categoryName = _("Bola Hierro"),
         .height = 6,
         .weight = 952,
         .descriptionPage1 = DexDescription_Beldum_1,
@@ -9517,7 +9547,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Metang
-        .categoryName = _("IRON CLAW"),
+        .categoryName = _("Gar. Hierro"),
         .height = 12,
         .weight = 2025,
         .descriptionPage1 = DexDescription_Metang_1,
@@ -9528,7 +9558,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Metagross
-        .categoryName = _("IRON LEG"),
+        .categoryName = _("Pata Hierro"),
         .height = 16,
         .weight = 5500,
         .descriptionPage1 = DexDescription_Metagross_1,
@@ -9539,7 +9569,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 9,
     },
     {  //Regirock
-        .categoryName = _("ROCK PEAK"),
+        .categoryName = _("Pico Roca"),
         .height = 17,
         .weight = 2300,
         .descriptionPage1 = DexDescription_Regirock_1,
@@ -9550,7 +9580,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 1,
     },
     {  //Regice
-        .categoryName = _("ICEBERG"),
+        .categoryName = _("Iceberg"),
         .height = 18,
         .weight = 1750,
         .descriptionPage1 = DexDescription_Regice_1,
@@ -9561,7 +9591,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 2,
     },
     {  //Registeel
-        .categoryName = _("IRON"),
+        .categoryName = _("Hierro"),
         .height = 19,
         .weight = 2050,
         .descriptionPage1 = DexDescription_Registeel_1,
@@ -9572,7 +9602,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 6,
     },
     {  //Latias
-        .categoryName = _("EON"),
+        .categoryName = _("Eón"),
         .height = 14,
         .weight = 400,
         .descriptionPage1 = DexDescription_Latias_1,
@@ -9583,7 +9613,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Latios
-        .categoryName = _("EON"),
+        .categoryName = _("Eón"),
         .height = 20,
         .weight = 600,
         .descriptionPage1 = DexDescription_Latios_1,
@@ -9594,7 +9624,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 3,
     },
     {  //Kyogre
-        .categoryName = _("SEA BASIN"),
+        .categoryName = _("Cuenca Mar"),
         .height = 45,
         .weight = 3520,
         .descriptionPage1 = DexDescription_Kyogre_1,
@@ -9605,7 +9635,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 13,
     },
     {  //Groudon
-        .categoryName = _("CONTINENT"),
+        .categoryName = _("Continente"),
         .height = 35,
         .weight = 9500,
         .descriptionPage1 = DexDescription_Groudon_1,
@@ -9616,7 +9646,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 14,
     },
     {  //Rayquaza
-        .categoryName = _("SKY HIGH"),
+        .categoryName = _("Cielo"),
         .height = 70,
         .weight = 2065,
         .descriptionPage1 = DexDescription_Rayquaza_1,
@@ -9627,7 +9657,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 12,
     },
     {  //Jirachi
-        .categoryName = _("WISH"),
+        .categoryName = _("Deseo"),
         .height = 3,
         .weight = 11,
         .descriptionPage1 = DexDescription_Jirachi_1,
@@ -9638,7 +9668,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
     {  //Deoxys
-        .categoryName = _("DNA"),
+        .categoryName = _("ADN"),
         .height = 17,
         .weight = 608,
         .descriptionPage1 = DexDescription_Deoxys_1,

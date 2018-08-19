@@ -1,8 +1,7 @@
 OldaleTown_House2_Text_174838:: @ 8174838
-	.string "When POKéMON battle, they eventually\n"
-	.string "level up and become stronger.$"
+	.string "Cuando los POKéMON luchan, van subiendo\n"
+	.string "de nivel y haciéndose más fuertes.$"
 
 OldaleTown_House2_Text_17487B:: @ 817487B
-	.string "If the POKéMON with you become\n"
-	.string "stronger, you’ll be able to go farther\l"
-	.string "away from here.$"
+	.string "Si los POKéMON que tienes se vuelven\n"
+	.string "más fuertes, podrás viajar más lejos$"

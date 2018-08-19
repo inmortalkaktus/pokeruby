@@ -1,94 +1,93 @@
 LittlerootTown_Text_16A7C9:: @ 816A7C9
-	.string "MOM: {PLAYER}, we’re here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don’t you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let’s go inside.$"
+	.string "MAMÁ: ¡{PLAYER}, ya hemos llegado, cielo!\p"
+	.string "Debe de ser agotador viajar en el camión\n"
+	.string "de la mudanza con todos los muebles...\p"
+	.string "Bueno, esto es VILLA RAÍZ.\p"
+	.string "¿Qué? ¿Te gusta?\n"
+	.string "¡Aquí es donde vamos a vivir!\p"
+	.string "Es un lugar pintoresco, pero creo que\n"
+	.string "se puede vivir muy a gusto aquí, ¿eh?\p"
+	.string "¡Y además tienes tu propio cuarto!\n"
+	.string "¡Entremos en casa!$"
 
 LittlerootTown_Text_16A8EE:: @ 816A8EE
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "MAMÁ: ¡Espera, {PLAYER}!$"
 
 LittlerootTown_Text_16A8FD:: @ 816A8FD
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You’re your father’s child, all right.\n"
-	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you’re going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They’ll put a zip in your step!$"
+	.string "MAMÁ: ¡{PLAYER}, {PLAYER}! ¿Ya te has\n"
+	.string "presentado al PROF. ABEDUL?\p"
+	.string "Ooooh... ¡Qué POKéMON tan bonito!\n"
+	.string "¿Te lo ha dado el PROFESOR? ¡Qué majo!\p"
+	.string "Se ve que has salido a tu padre.\n"
+	.string "¡Tienes mano con los POKéMON!\p"
+	.string "Muy bie, tesoro. Si vas a irte de\n"
+	.string "aventuras, toma estas DEPORTIVAS.\p"
+	.string "¡Con ellas, más que correr, volarás!$"
 
 LittlerootTown_Text_16AA32:: @ 816AA32
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "¡{PLAYER} se ha equipado las\n"
+	.string "DEPORTIVAS!$"
 
 LittlerootTown_Text_16AA5C:: @ 816AA5C
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "MAMÁ: {PLAYER}, estas zapatillas de\n"
+	.string "deporte traen instrucciones y todo.\p"
+	.string "“Pulsa el Botón B cuando lleves las\n"
+	.string "DEPORTIVAS para salir pitando!\p"
+	.string "“Ponte las DEPORTIVAS y empieza\n"
+	.string "a correr por todas partes”.$"
 
 LittlerootTown_Text_16AB10:: @ 816AB10
-	.string "... ... ... ... ... ... ... ...\n"
-	.string "... ... ... ... ... ... ... ...\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now...\l"
-	.string "Your father will be overjoyed.\p"
-	.string "...But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Ay...\n"
+	.string "Cómo pasa el tiempo...\p"
+	.string "Pensar que ya tienes tu propio\n"
+	.string "POKéMON... Que contento\l"
+	.string "se va a poner tu padre...\p"
+	.string "Pero ten cuidado, ¿vale?\n"
+	.string "Y pasa por casa cuando quieras.\p"
+	.string "¡Adelante, cariño! ¡Atrápalos todos!$"
 
 LittlerootTown_Text_16AC00:: @ 816AC00
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
-	.string "The power of science is staggering!$"
+	.string "¿Sabes que puedes guardar objetos\n"
+	.string "y POKéMON en un PC?.\p"
+	.string "¡La ciencia avanza que es una\n"
+	.string "barbaridad!$"
 
 LittlerootTown_Text_16AC56:: @ 816AC56
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he’ll suddenly go out in\l"
-	.string "the wild to do more research...\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "El PROF. ABEDUL se pasa los días metido\n"
+	.string "en el LABORATORIO, pero a veces sale\l"
+	.string "a investigar sobre el terrno.\p"
+	.string "¿Cuándo se va a su casa, digo yo?...$"
 
 LittlerootTown_Text_16ACEB:: @ 816ACEB
-	.string "If you go in the tall grass at the sides\n"
-	.string "of this road, wild POKéMON will appear.$"
+	.string "Si te metes en las zonas de hierba alta,\n"
+	.string "encontrarás POKéMON salvajes.$"
 
 LittlerootTown_Text_16AD3C:: @ 816AD3C
-	.string "It’s not safe to go out there if you\n"
-	.string "don’t have any POKéMON with you.$"
+	.string "No es seguro salir por ahí si no\n"
+	.string "vas con algún POKéMON.$"
 
 LittlerootTown_Text_16AD82:: @ 816AD82
-	.string "I can hear someone shouting down the\n"
-	.string "road here.\p"
-	.string "What should I do? What should we do?\n"
-	.string "Somebody has to go help...$"
+	.string "Alguien está gritando por ahí.\p"
+	.string "¿Qué hago? ¿Qué hacemos?\n"
+	.string "¡Alguien tiene que ayudarle!$"
 
 LittlerootTown_Text_16ADF2:: @ 816ADF2
-	.string "Boy, am I glad you went and rescued\n"
-	.string "the PROFESSOR.$"
+	.string "Uf, qué contento estoy de que fueras\n"
+	.string "a rescatar al PROFESOR...$"
 
 LittlerootTown_Text_16AE25:: @ 816AE25
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "¿Vas a atrapar POKéMON?\n"
+	.string "¡Buena suerte!$"
 
 LittlerootTown_Text_16AE50:: @ 816AE50
-	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can’t be shaded any hue.”$"
+	.string "VILLA RAÍZ\n"
+	.string "“Un pueblo poco colorido”.$"
 
 LittlerootTown_Text_16AE87:: @ 816AE87
-	.string "PROF. BIRCH’S POKéMON LAB$"
+	.string "LABORATORIO POKéMON del PROF. ABEDUL$"
 
 LittlerootTown_Text_16AEA1:: @ 816AEA1
-	.string "{PLAYER}’s HOUSE$"
+	.string "CASA de {PLAYER}$"
 
 LittlerootTown_Text_16AEAC:: @ 816AEAC
-	.string "PROF. BIRCH’S HOUSE$"
+	.string "CASA del PROF. ABEDUL$"

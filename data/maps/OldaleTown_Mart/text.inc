@@ -1,13 +1,14 @@
 OldaleTown_Mart_Text_174A8A:: @ 8174A8A
-	.string "The clerk says they’re all sold out.\n"
-	.string "I can’t buy any POKé BALLS.$"
+	.string "El empleado dice que lo han vendido.\n"
+	.string "todo.\p"
+	.string "No puedo comprar ninguna POKé BALL$"
 
 OldaleTown_Mart_Text_174ACB:: @ 8174ACB
-	.string "I’m going to buy a bunch of POKé BALLS\n"
-	.string "and catch a bunch of POKéMON!$"
+	.string "¡Voy a comprar un buen montón de POKé\n"
+	.string "BALLS para cazar cantidad POKéMON!$"
 
 OldaleTown_Mart_Text_174B10:: @ 8174B10
-	.string "If a POKéMON gets hurt and loses its HP\n"
-	.string "and faints, it won’t be able to battle.\p"
-	.string "To prevent your POKéMON from fainting,\n"
-	.string "restore its HP with a POTION.$"
+	.string "Si dañan a un POKéMON, éste pierde PS,\n"
+	.string "se debilita y no puede seguir luchando.\p"
+	.string "Para evitar que se debilite, restaura\n"
+	.string "sus PS con una POCIÓN.$"

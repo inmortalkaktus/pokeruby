@@ -485,24 +485,26 @@ extern u8 *de_sub_8041024(s32, u32);
 #define HANDLE_NICKNAME_STRING_CASE(bank, monIndex)                     \
     if (GetBattlerSide(bank) != 0)                                         \
     {                                                                   \
-        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
-            toCpy = BattleText_Foe;                                  \
-        else                                                            \
-            toCpy = BattleText_Wild;                                  \
+        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \
+        StringGetEnd10(text);                                           \
+        toCpy = text;                                                   \
         while (*toCpy != EOS)                                           \
         {                                                               \
             dst[dstID] = *toCpy;                                        \
             dstID++;                                                    \
             toCpy++;                                                    \
         }                                                               \
-        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \
+        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
+            toCpy = BattleText_Foe;                                  \
+        else                                                            \
+            toCpy = BattleText_Wild;                                  \
     }                                                                   \
     else                                                                \
     {                                                                   \
         GetMonData(&gPlayerParty[monIndex], MON_DATA_NICKNAME, text);   \
-    }                                                                   \
-    StringGetEnd10(text);                                               \
-    toCpy = text;
+        StringGetEnd10(text);                                           \
+        toCpy = text;                                                   \
+    }
 #else
 #define HANDLE_NICKNAME_STRING_CASE(bank, monIndex)                     \
     if (GetBattlerSide(bank) != 0)                                         \
