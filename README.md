@@ -2,7 +2,7 @@
 
 # Introducción
 
-Esta es la versión traducida al español de "[pokeruby](https://github.com/pret/pokeruby)" la versión decompilada de Pokémon Ruby creada por [Pret](https://github.com/pret/), créditos a él. El traductor de PokerubyES, es InmortalKaktus (dueño de este repositorio), no es necesario dar créditos por usar pokerubyES, pero siempre será agradecido.
+Esta es la versión traducida al español de "[pokeruby](https://github.com/pret/pokeruby)" la versión decompilada de Pokémon Ruby creada por [Pret](https://github.com/pret/), créditos a ellos. El traductor de PokerubyES, es InmortalKaktus (dueño de este repositorio), no es necesario dar créditos por usar pokerubyES, pero siempre será agradecido.
 
 # Información
 
