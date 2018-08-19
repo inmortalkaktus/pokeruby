@@ -6,7 +6,7 @@ Esta es la versión traducida al español de "[pokeruby](https://github.com/pret
 
 # Información
 
-PokerubyES no está totalmente traducido, se han excluido las traducciones de los diálogos de NPC's ya que no se consideraban relevantes, en cualquier caso, si alguien quiere aportar una traducción (exacta a la de la versión española) será bien recibida. También se han excluído los gráficos, de nuevo, aceptamos cualquier aporte. A pesar de que los diálogos han quedado excluídos, se han traducido todos los de interiores y exteriores de los dos primeros pueblos y ciudades por una cuestión estética.
+PokerubyES no está totalmente traducido, se han excluido las traducciones de los diálogos de NPC's ya que no se consideraban relevantes, en cualquier caso, si alguien quiere aportar una traducción (exacta a la de la versión española) será bien recibida. También se han excluído los gráficos, de nuevo, aceptamos cualquier aporte. A pesar de que los diálogos han quedado excluídos, se han traducido todos los de interiores y exteriores de los dos primeros pueblos y rutas por una cuestión estética.
 
 A continuación, la lista de las traducciones más importantes realizadas:
 - Ataques y sus respectivas descripciones
