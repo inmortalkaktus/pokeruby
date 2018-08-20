@@ -2868,7 +2868,7 @@ static void PokemonSummaryScreen_PrintTrainerMemo(struct Pokemon *mon, u8 left, 
 
         if (GetMonData(mon, MON_DATA_MET_LEVEL) == 0)
         {
-            ptr = PokemonSummaryScreen_CopyPokemonLevel(ptr, EGG_HATCH_LEVEL);
+            //ptr = PokemonSummaryScreen_CopyPokemonLevel(ptr, EGG_HATCH_LEVEL);
             *ptr = CHAR_NEWLINE;
             ptr++;
 
@@ -2912,9 +2912,9 @@ static void PokemonSummaryScreen_PrintTrainerMemo(struct Pokemon *mon, u8 left, 
             locationMet = GetMonData(mon, MON_DATA_MET_LOCATION);
             if (locationMet == 0xFF)
             {
-                u8 levelMet = GetMonData(mon, MON_DATA_MET_LEVEL);
+                //u8 levelMet = GetMonData(mon, MON_DATA_MET_LEVEL);
 
-                ptr = PokemonSummaryScreen_CopyPokemonLevel(ptr, levelMet);
+                //ptr = PokemonSummaryScreen_CopyPokemonLevel(ptr, levelMet);
                 *ptr = CHAR_NEWLINE;
                 ptr++;
 
@@ -2929,9 +2929,9 @@ static void PokemonSummaryScreen_PrintTrainerMemo(struct Pokemon *mon, u8 left, 
             }
             else
             {
-                u8 levelMet = GetMonData(mon, MON_DATA_MET_LEVEL);
+                //u8 levelMet = GetMonData(mon, MON_DATA_MET_LEVEL);
 
-                ptr = PokemonSummaryScreen_CopyPokemonLevel(ptr, levelMet);
+                //ptr = PokemonSummaryScreen_CopyPokemonLevel(ptr, levelMet);
                 *ptr = CHAR_NEWLINE;
                 ptr++;
 
@@ -4864,6 +4864,8 @@ u8 *PokemonSummaryScreen_CopyPokemonLevel(u8 *dest, u8 level)
     u8 buffer[12];
 
     *dest++ = CHAR_LV;
+	//*dest++ = CHAR_MN;
+	
 
     if (level == 0)
         level = 5;
