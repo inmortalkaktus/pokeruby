@@ -263,6 +263,7 @@ extern const u8 gLandmarkName_HuntersHouse[];
 extern const u8 gOtherText_Terminator4[];
 extern const u8 gOtherText_Nature[];
 extern const u8 gOtherText_Comma[];
+extern const u8 gOtherText_CommaSpace[];
 extern const u8 gOtherText_Met[];
 extern const u8 gOtherText_Egg2[];
 extern const u8 gOtherText_ObtainedInTrade[];

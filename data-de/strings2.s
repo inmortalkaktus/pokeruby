@@ -619,3 +619,6 @@ gOtherText_OK:: @ 842D4FC
 
 gOtherText_CorrectTimePrompt:: @ 842D4FF
 	.string "Ist die Uhrzeit korrekt?$"
+	
+gOtherText_CommaSpace:: @ 842D501
+	.string ", $"

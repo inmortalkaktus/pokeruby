@@ -2847,10 +2847,15 @@ static void PokemonSummaryScreen_PrintTrainerMemo(struct Pokemon *mon, u8 left, 
     u8 nature = GetNature(mon);
 
 #if ENGLISH
-    ptr = SummaryScreen_CopyColoredString(ptr, gNatureNames[nature], 14);
+    /*ptr = SummaryScreen_CopyColoredString(ptr, gNatureNames[nature], 14);
     if (nature != NATURE_BOLD && nature != NATURE_GENTLE)
         ptr = StringCopy(ptr, gOtherText_Terminator4);
-    ptr = StringCopy(ptr, gOtherText_Nature);
+    ptr = StringCopy(ptr, gOtherText_Nature);*/
+	
+	
+	ptr = StringCopy(gStringVar4, gOtherText_Nature);
+	ptr = SummaryScreen_CopyColoredString(ptr, gNatureNames[nature], 14);
+	ptr = StringCopy(ptr, gOtherText_CommaSpace);
 #elif GERMAN
     ptr = StringCopy(gStringVar4, gOtherText_Nature);
     ptr = SummaryScreen_CopyColoredString(ptr, gNatureNames[nature], 14);

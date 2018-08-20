@@ -418,7 +418,7 @@ gOtherText_Terminator4:: @ 842D0E6
 	.string "$"
 
 gOtherText_Nature:: @ 842D0E7
-	.string " naturaleza, $"
+	.string "Naturaleza $"
 
 gOtherText_Comma:: @ 842D0F1
 	.string ",$"
@@ -552,3 +552,6 @@ gOtherText_OK:: @ 842D4FC
 
 gOtherText_CorrectTimePrompt:: @ 842D4FF
 	.string "¿Ésta es la hora correcta?$"
+	
+gOtherText_CommaSpace:: @ 842D501
+	.string ", $"
