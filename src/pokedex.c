@@ -2878,7 +2878,7 @@ static u8 sub_808F284(struct PokedexListItem *item, u8 b)
 }
 
 #if ENGLISH
-#define CATEGORY_LEFT (11)
+#define CATEGORY_LEFT (16)
 #elif GERMAN
 #define CATEGORY_LEFT (16)
 #endif
@@ -2929,12 +2929,12 @@ static void Task_InitPageScreenMultistep(u8 taskId)
         else
             sub_8091154(gUnknown_0202FFBC->dexNum, 0xD, 3);
         sub_80911C8(gUnknown_0202FFBC->dexNum, 0x10, 3);
-        Menu_PrintText(gDexText_UnknownPoke, CATEGORY_LEFT, 5);
+        Menu_PrintText(gDexText_UnknownPoke, 11, 5);
         Menu_PrintText(gDexText_UnknownHeight, 16, 7);
         Menu_PrintText(gDexText_UnknownWeight, 16, 9);
         if (gUnknown_0202FFBC->owned)
         {
-            sub_8091304(gPokedexEntries[gUnknown_0202FFBC->dexNum].categoryName, CATEGORY_LEFT, 5);
+            sub_8091304(gPokedexEntries[gUnknown_0202FFBC->dexNum].categoryName, 17, 5);
             sub_8091458(gPokedexEntries[gUnknown_0202FFBC->dexNum].height, 16, 7);
             sub_8091564(gPokedexEntries[gUnknown_0202FFBC->dexNum].weight, 16, 9);
             Menu_PrintText(gPokedexEntries[gUnknown_0202FFBC->dexNum].descriptionPage1, 2, 13);
@@ -4223,17 +4223,19 @@ static void sub_8091304(const u8 *name, u8 left, u8 top)
     u8 str[32];
     u8 i;
 #if ENGLISH
-    u8 j;
+   // u8 j;
 #endif
 
     for (i = 0; name[i] != EOS && i < 11; i++)
         str[i] = name[i];
 #if ENGLISH
-    for (j = 0; gDexText_UnknownPoke[j] == 0xAC || gDexText_UnknownPoke[j] == 0; j++)
+/*    for (j = 0; gDexText_UnknownPoke[j] == 0xAC || gDexText_UnknownPoke[j] == 0; j++)
         ;
     j--;
     while (gDexText_UnknownPoke[j] != EOS)
-        str[i++] = gDexText_UnknownPoke[j++];
+        str[i++] = gDexText_UnknownPoke[j++];*/
+	str[i] = EOS;
+    sub_8072B80(str, left, top, gDexText_UnknownPoke);
 #endif
     str[i] = EOS;
     sub_8072B80(str, left, top, gDexText_UnknownPoke);
